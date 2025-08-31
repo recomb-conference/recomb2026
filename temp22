@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="RECOMB 20XX - RECOMB_City, RECOMB_Country">
+  <meta name="author" content="Themefisher.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <title>RECOMB 20XX | Airport Directions</title>
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="plugins/themefisher-font/style.css">
+  <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="plugins/lightbox2/dist/css/lightbox.min.css">
+  <link rel="stylesheet" href="plugins/animate/animate.css">
+  <link rel="stylesheet" href="plugins/slick/slick.css">
+  <link rel="stylesheet" href="css/style.css">  
+
+  <!-- FontAwesome -->
+  <script src="https://kit.fontawesome.com/5ce389c680.js" crossorigin="anonymous"></script>
+</head>
+
+<body id="body">
+
+  <!-- Preloader -->
+  <div id="preloader">
+    <div class="preloader">
+      <span></span><span></span><span></span>
+      <span></span><span></span><span></span>
+    </div>
+  </div>
+
+  <!-- Navigation -->
+  <header class="navigation fixed-top">
+    <div class="container">
+      <nav class="navbar navbar-expand-lg navbar-light">
+        <!-- Logo -->
+        <a class="navbar-brand logo" href="index.html">
+          <img class="logo-default" src="images/recomb-logo/logo-name.png" alt="RECOMB Conference Logo"/>
+          <img class="logo-white" src="images/recomb-logo/logo-name-white.png" alt="RECOMB Conference Logo"/>
+        </a>
+        
+        <!-- Mobile Toggle -->
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+          aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <!-- Menu -->
+        <div class="collapse navbar-collapse" id="navigation">
+          <ul class="navbar-nav mr-auto text-center">
+            <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+
+            <!-- Example of dropdown, remove 'active' except for current page -->
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="confMenu" data-toggle="dropdown">Conference</a>
+              <div class="dropdown-menu" aria-labelledby="confMenu">
+                <a class="dropdown-item" href="committees.html">Committees</a>
+                <a class="dropdown-item" href="keydates_and_deadlines.html">Key dates & Deadlines</a>
+                <a class="dropdown-item" href="call_for_papers.html">Call for Papers</a>
+                <a class="dropdown-item" href="call_for_abstracts.html">Call for Abstracts</a>
+                <a class="dropdown-item" href="call_for_highlights.html">Call for Highlights</a>
+              </div>
+            </li>
+            
+            <!-- Repeat similar for Register, Program, Venue, Satellites, Sponsors -->
+            
+            <li class="nav-item">
+              <a href="https://www.recomb.org" target="_blank" class="text-white">About RECOMB</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Page Header -->
+  <section class="single-page-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h2>Directions from the Airport to the City Center</h2>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Airport Directions -->
+  <section class="team-skills section-sm" id="skills">
+    <div class="container">
+      <div class="col-12">
+        <div class="team-skills-content text-center">
+          <p class="text-muted">Content coming soon.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer id="footer" class="bg-one">
+    <div class="top-footer">
+      <p>Any questions? Email organizers at <b>official_email_account</b></p>
+    </div>
+    <div class="footer-bottom">
+      <h5>© 2023-20XX RECOMB. All rights reserved.</h5>
+      <h6>Designed and Developed by Themefisher</h6>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="plugins/jquery/jquery.min.js"></script>
+  <script src="plugins/bootstrap/js/bootstrap.min.js"></script>
+  <script src="plugins/parallax/jquery.parallax-1.1.3.js"></script>
+  <script src="plugins/lightbox2/dist/js/lightbox.min.js"></script>
+  <script src="plugins/slick/slick.min.js"></script>
+  <script src="plugins/filterizr/jquery.filterizr.min.js"></script>
+  <script src="plugins/smooth-scroll/smooth-scroll.min.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>
