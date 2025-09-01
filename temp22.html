@@ -25,39 +25,40 @@
 
 <body id="body">
 
-  <!-- Preloader -->
+  <!-- Start Preloader -->
   <div id="preloader">
     <div class="preloader">
-      <span></span><span></span><span></span>
-      <span></span><span></span><span></span>
+      <span></span><span></span><span></span><span></span><span></span><span></span>
     </div>
-  </div>
+  </div> 
+  <!-- End Preloader -->
 
-  <!-- Navigation -->
+  <!-- Fixed Navigation -->
   <header class="navigation fixed-top">
     <div class="container">
       <nav class="navbar navbar-expand-lg navbar-light">
-        <!-- Logo -->
+        <!-- logo -->
         <a class="navbar-brand logo" href="index.html">
-          <img class="logo-default" src="images/recomb-logo/logo-name.png" alt="RECOMB Conference Logo"/>
-          <img class="logo-white" src="images/recomb-logo/logo-name-white.png" alt="RECOMB Conference Logo"/>
+          <img class="logo-default" src="images/recomb-logo/logo-name.png" alt="RECOMB Conference Logo">
+          <img class="logo-white" src="images/recomb-logo/logo-name-white.png" alt="RECOMB Conference Logo White">
         </a>
-        
-        <!-- Mobile Toggle -->
+        <!-- /logo -->
+
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
           aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
 
-        <!-- Menu -->
         <div class="collapse navbar-collapse" id="navigation">
           <ul class="navbar-nav mr-auto text-center">
-            <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">Home</a>
+            </li>
 
-            <!-- Example of dropdown, remove 'active' except for current page -->
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="confMenu" data-toggle="dropdown">Conference</a>
-              <div class="dropdown-menu" aria-labelledby="confMenu">
+            <li class="nav-item dropdown active">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownConference" role="button" data-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">Conference</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdownConference">
                 <a class="dropdown-item" href="committees.html">Committees</a>
                 <a class="dropdown-item" href="keydates_and_deadlines.html">Key dates & Deadlines</a>
                 <a class="dropdown-item" href="call_for_papers.html">Call for Papers</a>
@@ -65,19 +66,71 @@
                 <a class="dropdown-item" href="call_for_highlights.html">Call for Highlights</a>
               </div>
             </li>
-            
-            <!-- Repeat similar for Register, Program, Venue, Satellites, Sponsors -->
-            
-            <li class="nav-item">
-              <a href="https://www.recomb.org" target="_blank" class="text-white">About RECOMB</a>
+
+            <li class="nav-item dropdown active">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownRegister" role="button" data-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">Register</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdownRegister">
+                <a class="dropdown-item" href="register.html">RECOMB and Satellites</a>
+                <a class="dropdown-item" href="travel_fellowships.html">Travel Fellowships</a>
+              </div>
             </li>
+
+            <li class="nav-item dropdown active">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownProgram" role="button" data-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">Program</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdownProgram">
+                <a class="dropdown-item" href="program.html">Program Schedule</a>
+                <a class="dropdown-item" href="keynotes.html">Keynotes</a>
+                <a class="dropdown-item" href="posters.html">Poster Guidelines</a>
+              </div>
+            </li>
+
+            <li class="nav-item dropdown active">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownVenue" role="button" data-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">Venue</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdownVenue">
+                <a class="dropdown-item" href="venue_main.html">Main Conference Venue</a>
+                <a class="dropdown-item" href="venue_satellites.html">Satellites Venue</a>
+                <a class="dropdown-item" href="hotels.html">Hotels</a>
+                <a class="dropdown-item" href="airport.html">Airport Directions</a>
+                <a class="dropdown-item" href="things_to_do.html">Things to do in RECOMB_City</a>
+                <a class="dropdown-item" href="transportation.html">Local Transportation</a>
+                <a class="dropdown-item" href="visa.html">Visa Information</a>
+              </div>
+            </li>
+
+            <li class="nav-item dropdown active">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownSatellites" role="button" data-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">Satellites</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdownSatellites">
+                <a class="dropdown-item" href="https://recomb-seq.github.io/" target="_blank">RECOMB-Seq</a>
+                <a class="dropdown-item" href="https://recomb.org/recomb-ccb2024" target="_blank">RECOMB-CCB</a>
+                <a class="dropdown-item" href="https://recomb-cg.org/" target="_blank">RECOMB-CG</a>
+                <a class="dropdown-item" href="recombgenetics.html">RECOMB-Genetics</a>
+                <a class="dropdown-item" href="https://recomb-privacy-equity.github.io/" target="_blank">RECOMB-P&E</a>				 
+              </div>
+            </li>
+
+            <li class="nav-item dropdown active">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownSponsors" role="button" data-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">Sponsors</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdownSponsors">
+                <a class="dropdown-item" href="sponsors.html">RECOMB Sponsors</a>
+                <a class="dropdown-item" href="sponsorship_packages.html">Sponsorship Packages</a>
+              </div>
+            </li>
+
+            <li class="nav-item">
+              <a href="https://www.recomb.org" target="_blank" style="color:white;">About RECOMB</a>
+            </li>          
           </ul>
         </div>
       </nav>
     </div>
   </header>
+  <!-- End Fixed Navigation -->
 
-  <!-- Page Header -->
   <section class="single-page-header">
     <div class="container">
       <div class="row">
@@ -88,18 +141,34 @@
     </div>
   </section>
 
-  <!-- Airport Directions -->
   <section class="team-skills section-sm" id="skills">
     <div class="container">
       <div class="col-12">
-        <div class="team-skills-content text-center">
-          <p class="text-muted">Content coming soon.</p>
+        <div class="team-skills-content">
+          <center>
+            <table style="width:100%">
+              <!--
+                <h5 style="text-align:center;">Please note that travel times vary heavily depending on the traffic!</h5>
+                <br>
+                <h3 style="text-align:center;color:#9a0c0c;"> <b>RECOMB_Airport</b> </h3>
+                <br>
+                <iframe src="https://www.google.com/maps/embed/v1/MAP_MODE?key=YOUR_API_KEY&PARAMETERS" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <br><br>
+                <div style="width:60%">
+                  <h4> <strong>Public Transportation:</strong> </h4>
+                  <br>
+                  <h4> <strong>Transfer by Taxi:</strong> </h4>
+                  <br>
+                  <h4> <strong>Rent a Car:</strong> </h4>
+                </div>
+              -->
+            </table>
+          </center>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Footer -->
   <footer id="footer" class="bg-one">
     <div class="top-footer">
       <p>Any questions? Email organizers at <b>official_email_account</b></p>
@@ -112,12 +181,4 @@
 
   <!-- Scripts -->
   <script src="plugins/jquery/jquery.min.js"></script>
-  <script src="plugins/bootstrap/js/bootstrap.min.js"></script>
-  <script src="plugins/parallax/jquery.parallax-1.1.3.js"></script>
-  <script src="plugins/lightbox2/dist/js/lightbox.min.js"></script>
-  <script src="plugins/slick/slick.min.js"></script>
-  <script src="plugins/filterizr/jquery.filterizr.min.js"></script>
-  <script src="plugins/smooth-scroll/smooth-scroll.min.js"></script>
-  <script src="js/script.js"></script>
-</body>
-</html>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP
