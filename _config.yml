@@ -29,8 +29,8 @@ title: RECOMB 2026
 # remote_theme: jekyll/minima@d4d779a
 #
 # Minima requires the following plugins:
-# plugins:
-#  - jekyll-feed
+plugins:
+  - jekyll-feed
 #  - jekyll-seo-tag
 #
 # Uncomment the following setting if you wish to disable deprecation warnings
@@ -61,10 +61,78 @@ minima:
 #     and list the `path` property (as represented via Liquid) of the pages in
 #     the order they should be rendered.
 
-pages:
-     - about.md
-     - committes.md
-     - register.md
+main_navigation:
+  - title: Home
+    url: /index.md
+  - title: Conference
+    children:
+      - title: Committees
+        url: /committees.md
+      - title: Key dates & Deadlines
+        url: /keydates_and_deadlines.md
+      - title: Call for Papers
+        url: /call_for_papers.md
+      - title: Call for Abstracts
+        url: /call_for_abstracts.md
+      - title: Call for Highlights
+        url: /call_for_highlights.md
+  - title: Register
+    children:
+      - title: RECOMB and Satellites
+        url: /register.md
+      - title: Travel Fellowships
+        url: /travel_fellowships.md
+  - title: Program
+    children:
+      - title: Program Schedule
+        url: /program.md
+      - title: Keynotes
+        url: /keynotes.md
+      - title: Poster Guidelines
+        url: /posters.md
+  - title: Venue
+    children:
+      - title: Main Conference Venue
+        url: /venue_main.md
+      - title: Satellites Venue
+        url: /venue_satellites.md
+      - title: Hotels
+        url: /hotels.md
+      - title: Airport Directions
+        url: /airport.md
+      - title: Things to do in Thessaloniki
+        url: /things_to_do.md
+      - title: Local Transportation
+        url: /transportation.md
+      - title: Visa Information
+        url: /visa.md
+  - title: Satellites
+    children:
+      - title: RECOMB-Seq
+        url: https://recomb-seq.github.io/
+        external: true # Mark as external link
+      - title: RECOMB-CCB
+        url: https://recomb.org/recomb-ccb2026
+        external: true
+      - title: RECOMB-CG
+        url: https://recomb-cg.org/
+        external: true
+      - title: RECOMB-Genetics
+        url: /recombgenetics.md
+  - title: Sponsors
+    children:
+      - title: RECOMB Sponsors
+        url: /sponsors.md
+      - title: Sponsorship Packages
+        url: /sponsorship_packages.md
+  - title: About RECOMB
+    url: https://www.recomb.org
+    external: true
+
+#  nav_pages:
+#     - about.md
+#     - committes.md
+#     - register.md
 #
 #   Set to `true` to show excerpts on the homepage.
 #   show_excerpts: false
