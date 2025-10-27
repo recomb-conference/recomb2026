@@ -3,6 +3,10 @@
  * Overrides Minima defaults and adds dropdown navigation
  */
 
+.wrapper {
+  max-width: 1000px; // Minima's default is around 800px. Increase this.
+}
+
 /* 1. Header & Logo Customization
    ========================================================================== */
 .site-header {
