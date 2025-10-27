@@ -55,6 +55,6 @@ TBA
 #### Student Volunteers (alphabetical)
 TBA
 
-#### Program Committee
+### Program Committee
 
 TBA
