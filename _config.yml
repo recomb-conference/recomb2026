@@ -63,9 +63,15 @@ minima:
 #       * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
 #       * url      Full URL of social profile.
 social_links:
-     - title: RECOMB at X 
+     - title: Email 
+       icon: fa-envelope
+       url: "mailto:info@recombconf.org"
+    - title: RECOMB at X 
        icon: x-twitter
        url: "https://x.com/RECOMBconf"
+    - title: RECOMB at BlueSky 
+       icon: fa-bluesky
+       url: "https://bsky.app/profile/recombconf.bsky.social"
 #
 #   Hide syndication feed subscription link.
 #     RSS / Atom feed link is always rendered as the last item of social-links
