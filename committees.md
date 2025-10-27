@@ -16,45 +16,45 @@ title: Committees
 
 ## Program Chair
 
-TBA
+ - TBA
 
 ## Organizing Committee
 
 ### Highlights Chair
-TBA	
+ - TBA	
 
 ### Keynote Chair
-TBA	
+ - TBA	
 
 ### Posters Chairs
-TBA	
-TBA	
+ - TBA	
+ - TBA	
 
 ### Travel Fellowships Chairs
-TBA	
-TBA	
+ - TBA	
+ - TBA	
 
 ### Satellite Chairs
 
 #### RECOMB-Seq
-TBA	
-TBA	
+ - TBA	
+ - TBA	
 
 #### RECOMB-CG
-TBA	
-TBA	
+ - TBA	
+ - TBA	
 
 #### RECOMB-Genetics
-TBA	
-TBA	
+ - TBA	
+ - TBA	
 
 #### RECOMB-CCB
-TBA	
-TBA	
+ - TBA	
+ - TBA	
 
 #### Student Volunteers (alphabetical)
-TBA
+ - TBA
 
 ### Program Committee
 
-TBA
+ - TBA
