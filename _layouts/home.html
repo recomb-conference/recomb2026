@@ -1,40 +1,71 @@
 ---
 layout: base
 ---
+<!-- 
+  This layout file adds the hero banner *above* the content from index.md.
+  I've updated it with your new RECOMB 2026 content.
+-->
+<style>
+  .recomb-hero {
+    position: relative;
+    padding: 8rem 1rem;
+    text-align: center;
+    color: white;
+    background-size: cover;
+    background-position: center center;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 2rem;
+  }
+  /* Target the h1, h2, h3, and p tags *only* inside this hero section */
+  .recomb-hero h1 {
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin: 0;
+    color: white !important; /* Override Minima's default link/header color */
+  }
+  .recomb-hero h2, .recomb-hero h3 {
+    font-size: 1.75rem;
+    font-weight: 300;
+    margin: 0.5rem 0;
+    color: white !important;
+  }
+  .recomb-hero p {
+    font-size: 1.1rem;
+    margin-top: 1.5rem;
+    color: white !important;
+  }
+  .recomb-hero a {
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+</style>
+
+<!-- 
+  This path assumes your images are in '/assets/images/city/index-bg.jpg'
+  If your new image is different, just change the URL.
+-->
+<div class="recomb-hero" style="background-image: url(/assets/images/city/index-bg.jpg);">
+  <h1>RECOMB 2026</h1>
+  <h2>THESSALONIKI, GREECE</h2>
+  <h3>May 26 - 29, 2026</h3>
+  <p>
+    Stay tuned <a href="https://twitter.com/search?q=%23RECOMB2026" target="_blank">#RECOMB2026</a>
+    <br>
+    Twitter <a href="https://twitter.com/RECOMBconf" target="_blank">@RECOMBconf</a>
+    <br>
+    Bluesky <a href="https://bsky.app/profile/recombconf.bsky.social" target="_blank">@RECOMBconf</a>
+  </p>
+  <p style="font-weight: bold;">Satellite Meetings: May 24-25, 2026</p>
+</div>
+
+<!-- This {{ content }} tag is what pulls in the content from your index.md file -->
 
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
-
-    <div style="background-image: url(images/city/index-bg.jpg);">      
-          <div class="col-md-12 text-center">
-          
-            <h1 data-duration-in=".5" data-animation-in="fadeInDown" data-delay-in=".1">RECOMB 2026</h1>
-            <h2>THESSALONIKI, GREECE</h2>
-          
-            <!-- <br> -->
-          
-            <h3>May 26 - 29, 2026</h3>
-            <!-- <br><br> -->
-
-            <p data-duration-in="1" data-animation-in="fadeInDown" data-delay-in=".5">
-              Stay tuned <a href="https://twitter.com/search?q=%23RECOMB2026" target="blank" style="color:white;font-weight: bold;text-decoration: underline;">#RECOMB2026</a>
-              <br>
-              Twitter <a href="https://twitter.com/RECOMBconf" target="blank" style="color:white;font-weight: bold;text-decoration: underline;">@RECOMBconf</a>
-  	        Bluesky <a href="https://bsky.app/profile/recombconf.bsky.social" target="blank" style="color:white;font-weight: bold;text-decoration: underline;">@RECOMBconf</a>  
-            </p>
-
-            <!-- <br> -->
-
-            <p style="color:white;font-weight: bold;">Satellite Meetings: May 24-25, 2026</p>
-  <!--		  <p style="color:white;">15% Discount for ISCB Members
-  			<br> Not a member yet? <a href="https://www.recomb2025.com/html/?pmode=main&kind=reg" target="blank" style="color:white;text-decoration: underline;">Join now</a> to unlock this offer. 
--->
-			
-        </div>
-      </div>
-
 
   {{ content }}
 
