@@ -148,16 +148,16 @@ main_navigation:
 #       * title    Tooltip rendered on hovering over icon.
 #       * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
 #       * url      Full URL of social profile.
-#   social_links:
+social_links:
+     - title: RECOMB at X 
+       icon: x-twitter
+       url: "https://x.com/RECOMBconf"
 #     - title: Minima Theme repository at GitHub
 #       icon: github
 #       url: "https://github.com/jekyll/minima"
-#     - title: Jekyll at X (formerly Twitter)
-#       icon: x-twitter
-#       url: "https://x.com/jekyllrb"
 #
 #   Hide syndication feed subscription link.
 #     RSS / Atom feed link is always rendered as the last item of social-links
 #     list. Set below key to `true` to not have the link to feed rendered as
 #     part of social-links list.
-#   hide_site_feed_link: false
+hide_site_feed_link: true
