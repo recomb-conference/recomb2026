@@ -9,59 +9,38 @@ layout: base
 
   {{ content }}
 
+<div class="hero-slider">
+  <div class="slider-item th-fullpage hero-area" style="background-image: url(images/city/index-bg.jpg);">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 text-center">
+          
+          <h1 data-duration-in=".5" data-animation-in="fadeInDown" data-delay-in=".1">RECOMB 2026</h1>
+          <h2>THESSALONIKI, GREECE</h2>
+          
+          <!-- <br> -->
+          
+          <h3>May 26 - 29, 2026</h3>
+          <!-- <br><br> -->
 
-  {% if site.paginate %}
-    {% assign posts = paginator.posts %}
-  {% else %}
-    {% assign posts = site.posts %}
-  {% endif %}
+          <p data-duration-in="1" data-animation-in="fadeInDown" data-delay-in=".5">
+            Stay tuned <a href="https://twitter.com/search?q=%23RECOMB2026" target="blank" style="color:white;font-weight: bold;text-decoration: underline;">#RECOMB2026</a>
+            <br>
+            Twitter <a href="https://twitter.com/RECOMBconf" target="blank" style="color:white;font-weight: bold;text-decoration: underline;">@RECOMBconf</a>
+	        Bluesky <a href="https://bsky.app/profile/recombconf.bsky.social" target="blank" style="color:white;font-weight: bold;text-decoration: underline;">@RECOMBconf</a>  
+          </p>
 
+          <!-- <br> -->
 
-  {%- if posts.size > 0 -%}
-    {%- if page.list_title -%}
-      <h2 class="post-list-heading">{{ page.list_title }}</h2>
-    {%- endif -%}
-    <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
-      <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.minima.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    {% if site.paginate %}
-      <div class="pager">
-        <ul class="pagination">
-        {%- if paginator.previous_page %}
-          <li>
-            <a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page" title="Go to Page {{ paginator.previous_page }}">
-              {{ paginator.previous_page }}
-            </a>
-          </li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-          <li><div class="current-page">{{ paginator.page }}</div></li>
-        {%- if paginator.next_page %}
-          <li>
-            <a href="{{ paginator.next_page_path | relative_url }}" class="next-page" title="Go to Page {{ paginator.next_page }}">
-              {{ paginator.next_page }}
-            </a>
-          </li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-        </ul>
+          <p style="color:white;font-weight: bold;">Satellite Meetings: May 24-25, 2026</p>
+<!--		  <p style="color:white;">15% Discount for ISCB Members
+			<br> Not a member yet? <a href="https://www.recomb2025.com/html/?pmode=main&kind=reg" target="blank" style="color:white;text-decoration: underline;">Join now</a> to unlock this offer. 
+-->
+			
+        </div>
       </div>
-    {%- endif %}
-  {%- endif -%}
+    </div>
+  </div>
+</div>
+
 </div>
