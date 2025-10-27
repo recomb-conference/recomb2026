@@ -6,18 +6,28 @@ layout: base
   I've updated it with your new RECOMB 2026 content.
 -->
 <style>
-  .recomb-hero {
+.recomb-hero {
     position: relative;
     padding: 8rem 1rem;
     text-align: center;
     color: white;
     background-size: cover;
     background-position: center center;
-    border-radius: 8px;
+
+    /* --- EDITS FOR FULL-WIDTH --- */
+    
+    /* 1. Remove the border-radius */
+    border-radius: 0;
+    
+    /* 2. Set vertical margins (0 top, 2rem bottom) and
+       a calculated horizontal margin to force full-width. */
+    margin: 0 calc(50% - 50vw) 2rem calc(50% - 50vw);
+    
+    /* 3. Ensure overflow is hidden */
     overflow: hidden;
-    margin-bottom: 2rem;
   }
-  /*      Target the h1, h2, h3, and p tags *only* inside this hero section */
+  
+  /* Target the h1, h2, h3, and p tags *only* inside this hero section */
   .recomb-hero h1 {
     font-size: 3.5rem;
     font-weight: 700;
