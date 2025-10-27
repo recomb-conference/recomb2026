@@ -5,14 +5,14 @@ title: Committees
 
 ## Steering Committee
 
-- Vineet Bafna	University of California, San Diego
-- Bonnie Berger (chair)	Massachusetts Institute of Technology
-- Eleazar Eskin	University of California, Los Angeles
-- Jian Ma	Carnegie Mellon University
-- Teresa Przytycka	NCBI, NIH
-- Cenk Sahinalp	NCI, NIH
-- Roded Sharan	Tel Aviv University
-- Martin Vingron	Max Planck Institute for Molecular Genetics
+- [Vineet Bafna](https://proteomics.ucsd.edu/wp-public-root/about/team/vineet-bafna/),	University of California, San Diego
+- [Bonnie Berger (chair)](https://people.csail.mit.edu/bab/),	Massachusetts Institute of Technology
+- [Eleazar Eskin](https://web.cs.ucla.edu/~eeskin/),	University of California, Los Angeles
+- [Jian Ma](https://www.cs.cmu.edu/~jianma/),	Carnegie Mellon University
+- [Teresa Przytycka](https://www.ncbi.nlm.nih.gov/CBBresearch/Przytycka/index.cgi#research),	NCBI, NIH
+- [Cenk Sahinalp](https://ccr.cancer.gov/staff-directory/s-cenk-sahinalp),	NCI, NIH
+- [Roded Sharan](https://www.cs.tau.ac.il/~roded/),	Tel Aviv University
+- [Martin Vingron](https://www.molgen.mpg.de/Martin-Vingron.html),	Max Planck Institute for Molecular Genetics
 
 ## Program Chair
 
