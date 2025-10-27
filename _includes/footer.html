@@ -8,17 +8,18 @@
     <div class="footer-col-wrapper">
       <div class="footer-col">
       {%- if site.author %}
-        <ul class="social-media-list">
 <!--
+        <ul class="contact-list">
+
           {% if site.author.name -%}
             <li class="p-name">{{ site.author.name | escape }}</li>
           {% endif -%}
           -->
           {% if site.author.email -%}
-            <li><center>Any questions? Email the organizers at <a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></center></li>
+            <center>Any questions? Email the organizers at <a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></center>
           {%- endif %}
-        </ul>
-      {%- endif %}
+        <!-- </ul> -->
+      {%- endif %} 
       </div>
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
