@@ -82,49 +82,49 @@ hide_site_feed_link: true
 
 main_navigation:
   - title: Home
-    url: /index.md
+    url: /index
   - title: Conference
     children:
       - title: Committees
-        url: /committees.md
+        url: /committees
       - title: Key dates & Deadlines
-        url: /keydates_and_deadlines.md
+        url: /keydates_and_deadlines
       - title: Call for Papers
-        url: /call_for_papers.md
+        url: /call_for_papers
       - title: Call for Abstracts
-        url: /call_for_abstracts.md
+        url: /call_for_abstracts
       - title: Call for Highlights
-        url: /call_for_highlights.md
+        url: /call_for_highlights
   - title: Register
     children:
       - title: RECOMB and Satellites
-        url: /register.md
+        url: /register
       - title: Travel Fellowships
-        url: /travel_fellowships.md
+        url: /travel_fellowships
   - title: Program
     children:
       - title: Program Schedule
-        url: /program.md
+        url: /program
       - title: Keynotes
-        url: /keynotes.md
+        url: /keynotes
       - title: Poster Guidelines
-        url: /posters.md
+        url: /posters
   - title: Venue
     children:
       - title: Main Conference Venue
-        url: /venue_main.md
+        url: /venue_main
       - title: Satellites Venue
-        url: /venue_satellites.md
+        url: /venue_satellites
       - title: Hotels
-        url: /hotels.md
+        url: /hotels
       - title: Airport Directions
-        url: /airport.md
+        url: /airport
       - title: Things to do in Thessaloniki
-        url: /things_to_do.md
+        url: /things_to_do
       - title: Local Transportation
-        url: /transportation.md
+        url: /transportation
       - title: Visa Information
-        url: /visa.md
+        url: /visa
   - title: Satellites
     children:
       - title: RECOMB-Seq
@@ -137,13 +137,13 @@ main_navigation:
         url: https://recomb-cg.org/
         external: true
       - title: RECOMB-Genetics
-        url: /recombgenetics.md
+        url: /recombgenetics
   - title: Sponsors
     children:
       - title: RECOMB Sponsors
-        url: /sponsors.md
+        url: /sponsors
       - title: Sponsorship Packages
-        url: /sponsorship_packages.md
+        url: /sponsorship_packages
   - title: About RECOMB
     url: https://www.recomb.org
     external: true
