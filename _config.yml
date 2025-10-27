@@ -64,13 +64,13 @@ minima:
 #       * url      Full URL of social profile.
 social_links:
      - title: Email 
-       icon: fa-envelope
+       icon: envelope
        url: "mailto:info@recombconf.org"
     - title: RECOMB at X 
        icon: x-twitter
        url: "https://x.com/RECOMBconf"
     - title: RECOMB at BlueSky 
-       icon: fa-bluesky
+       icon: bluesky
        url: "https://bsky.app/profile/recombconf.bsky.social"
 #
 #   Hide syndication feed subscription link.
