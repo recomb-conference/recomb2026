@@ -3,9 +3,9 @@
 #
 title: RECOMB 2026
 #
-# author:
-#   name: GitHub User
-#   email: your-email@domain.com
+author:
+   name: RECOMB Conference
+   email: info@recombconf.org
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
