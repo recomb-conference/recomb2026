@@ -1,87 +1,201 @@
-// Placeholder to allow defining custom styles that override everything else.
-// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
-
-
 /*
- * Custom RECOMB Logo
+ * Custom RECOMB styles
+ * Overrides Minima defaults and adds dropdown navigation
  */
-.recomb-logo {
-  height: 36px; /* Minima's default is 36px */
-  line-height: 56px; /* Minima's header height */
-  margin-top: 10px; /* Vertically center it */
+
+/* 1. Header & Logo Customization
+   ========================================================================== */
+.site-header {
+  border-top-color: #0d6efd; // RECOMB blue border
+  border-bottom-color: #dee2e6; // Lighter grey border
 }
 
-/*
- * Main Navigation Bar Layout
- * This is the fix for the linear/horizontal layout.
- */
-.site-nav {
-  @include media-query($on-large) {
-    /* Target the wrapper for each top-level menu item */
-    .nav-item-wrapper {
-      float: left; /* Make items horizontal */
-      position: relative; /* For dropdown positioning */
-    }
+.recomb-logo {
+  height: 40px; // Set a fixed height for the logo
+  width: auto;
+  margin-top: 5px; // Adjust vertical alignment
+  margin-right: 20px;
+}
 
-    /* Override Minima's default float on the link itself */
-    .page-link {
-      float: none;
-    }
+.site-nav-wrapper {
+  display: flex;
+  justify-content: space-between; // Pushes logo/title and nav to opposite ends
+  align-items: center; // Vertically center items
+  width: 100%;
+}
+
+/* 2. Desktop Navigation (Visible on large screens)
+   ========================================================================== */
+@media screen and (min-width: 800px) {
+  .desktop-nav {
+    display: block; // Show desktop nav
+  }
+  .mobile-nav {
+    display: none; // Hide mobile nav
+  }
+
+  .desktop-nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  /* Top-level menu items */
+  .nav-item-wrapper {
+    float: left; // This makes the menu horizontal
+    position: relative; // Required for dropdown positioning
+    margin-left: 10px; // Spacing between items
+  }
+
+  .nav-item-wrapper > .page-link,
+  .nav-item-wrapper > .nav-dropdown-toggle {
+    padding: 10px 10px; // Clickable area
+    display: block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 0.9rem; // Slightly smaller font
+  }
+
+  .nav-item-wrapper > .nav-dropdown-toggle::after {
+    content: " ▼"; // Add dropdown arrow
+    font-size: 0.7rem;
+    padding-left: 3px;
+  }
+
+  /* Dropdown Menu (Hidden by default) */
+  .nav-dropdown-menu {
+    display: none; // Hide dropdown by default
+    position: absolute;
+    top: 100%; // Position right below the parent item
+    left: 0;
+    background-color: #ffffff; // White background
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    list-style: none;
+    padding: 5px 0;
+    margin: 0;
+    min-width: 200px; // Give dropdown some width
+    z-index: 1000;
+  }
+
+  .nav-dropdown-menu li .page-link {
+    padding: 8px 15px; // Padding for dropdown items
+    display: block;
+    white-space: nowrap; // Keep items on one line
+    font-size: 0.85rem;
+    color: #333; // Darker text for dropdown
+  }
+
+  /* Hover effects */
+  .nav-item-wrapper:hover > .page-link,
+  .nav-item-wrapper:hover > .nav-dropdown-toggle {
+    background-color: #f5f5f5; // Light grey on hover
+    color: #0d6efd; // RECOMB blue text on hover
+  }
+
+  .nav-dropdown-menu li .page-link:hover {
+    background-color: #0d6efd; // RECOMB blue on hover
+    color: #ffffff; // White text
+  }
+
+  .nav-item-wrapper:hover > .nav-dropdown-menu {
+    display: block; // Show dropdown on hover
   }
 }
 
-/*
- * Dropdown Menu Styles
- */
+/* 3. Mobile Navigation (Visible on small screens)
+   ========================================================================== */
+@media screen and (max-width: 799px) {
+  .desktop-nav {
+    display: none; // Hide desktop nav
+  }
+  .mobile-nav {
+    display: block; // Show mobile nav
+    float: right;
+    position: relative;
+    z-index: 100;
+  }
 
-/* Toggle for dropdowns (the top-level item) */
-.nav-dropdown-toggle {
-  cursor: default; /* Show it's not a link */
-}
+  /* Style the mobile menu trigger ("hamburger") */
+  .mobile-nav .menu-icon {
+    display: block;
+    float: right;
+    width: 36px;
+    height: 26px;
+    line-height: 0;
+    padding-top: 10px;
+    text-align: center;
+  }
+  .mobile-nav .menu-icon > svg {
+    fill: #424242; // Minima's default icon color
+  }
 
-/* The dropdown menu container */
-.nav-dropdown-menu {
-  display: none; /* Hide by default */
-  position: absolute;
-  top: 100%; /* Position right below the parent */
-  left: 0;
-  background-color: #ffffff; /* White background */
-  border: 1px solid grey;
-  border-radius: 5px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  list-style: none;
-  padding-left: 0;
-  margin-top: 0;
-  min-width: 200px; /* Give it some width */
-  z-index: 100;
-}
+  /* Hide the checkbox */
+  .nav-trigger {
+    display: none;
+  }
 
-/* Show the dropdown on hover */
-.nav-item-wrapper:hover .nav-dropdown-menu {
-  display: block;
-}
+  /* Position the mobile menu dropdown */
+  .mobile-nav .trigger {
+    clear: both;
+    display: none; // Hidden by default
+    position: absolute;
+    top: 40px; // Position below the header
+    right: -10px;
+    width: 200px;
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    padding: 10px 0;
+  }
 
-/* Style for individual dropdown items */
-.nav-dropdown-menu li {
-  border-bottom: 1px solid grey;
-}
-.nav-dropdown-menu li:last-child {
-  border-bottom: none; /* No border on the last item */
-}
+  /* Show menu when checkbox is checked */
+  .nav-trigger:checked ~ .trigger {
+    display: block;
+  }
 
-/* Style for links inside the dropdown */
-.nav-dropdown-menu .page-link {
-  display: block;
-  line-height: 1.5; /* Reset from header's line-height */
-  padding: 10px 15px;
-  color: black; /* Dark text */
-  white-space: nowrap; /* Prevent ugly wrapping */
-}
+  .mobile-nav .trigger ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
 
-.nav-dropdown-menu .page-link:hover {
-  background-color: #f5f5f5; /* Slight hover effect */
-  color: $text-color;
-  text-decoration: none;
+  .nav-item-wrapper-mobile {
+    padding: 0 15px;
+  }
+
+  /* Mobile: Top-level item (non-dropdown) */
+  .nav-item-wrapper-mobile > .page-link {
+    display: block;
+    padding: 8px 0;
+    color: #333;
+    font-weight: bold;
+  }
+
+  /* Mobile: Top-level item (dropdown label) */
+  .nav-dropdown-toggle-mobile {
+    display: block;
+    padding: 8px 0;
+    color: #333;
+    font-weight: bold;
+    cursor: default;
+  }
+
+  /* Mobile: Dropdown items */
+  .nav-dropdown-menu-mobile {
+    list-style: none;
+    padding-left: 0;
+    margin: 0 0 10px 0;
+  }
+  .nav-dropdown-menu-mobile li .page-link {
+    display: block;
+    padding: 5px 0 5px 10px; // Indent dropdown items
+    color: #555;
+    font-weight: normal;
+  }
 }
 
 
