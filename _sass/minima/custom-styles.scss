@@ -26,6 +26,9 @@
   width: auto;
   margin-top: 5px; // Adjust vertical alignment
   margin-right: 20px;
+  object-fit: cover;  /* Prevents stretching */
+  // border-radius: 50%; /* Makes them circular */
+  margin-bottom: 10px;
 }
 
 
