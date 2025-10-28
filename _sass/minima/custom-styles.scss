@@ -31,6 +31,16 @@
   margin-bottom: 10px;
 }
 
+.venue-photo {
+  height: 600px; // Set a fixed height for the logo
+  width: auto;
+  margin-top: 5px; // Adjust vertical alignment
+  margin-right: 20px;
+  object-fit: cover;  /* Prevents stretching */
+  // border-radius: 50%; /* Makes them circular */
+  margin-bottom: 10px;
+}
+
 
 .site-nav-wrapper {
   display: flex;
