@@ -43,7 +43,7 @@ title: Key Dates and Deadlines
 - **RECOMB-Seq**: May 24 - 25, 2026
 - **RECOMB-CCB**: May 24 - 25, 2026
 - **RECOMB-CG**: May 24 - 25, 2026
-- **RECOMB-Arch**: May 25, 2026
+- **RECOMB-Arch**: May 24, 2026
 - **RECOMB-Genetics**: May 25, 2026
 - **RECOMB-P&E**: May 25, 2026
 
