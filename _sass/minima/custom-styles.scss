@@ -213,4 +213,23 @@
   }
 }
 
+/* * Custom styles to remove table borders and shading
+ * for the speaker photo grid
+ */
+.post-content table {
+  border: none; /* Removes the outer table border */
+}
 
+.post-content tr {
+  background-color: transparent !important; /* Removes default row color */
+}
+
+.post-content tr:nth-child(even) {
+  background-color: transparent !important; /* Removes the alternating row shading */
+}
+
+.post-content td,
+.post-content th {
+  border: none; /* Removes the cell borders */
+  padding: 10px; /* Add some padding so they aren't crammed together */
+}
