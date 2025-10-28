@@ -21,6 +21,14 @@
   margin-right: 20px;
 }
 
+.speaker-photo {
+  height: 200px; // Set a fixed height for the logo
+  width: auto;
+  margin-top: 5px; // Adjust vertical alignment
+  margin-right: 20px;
+}
+
+
 .site-nav-wrapper {
   display: flex;
   justify-content: space-between; // Pushes logo/title and nav to opposite ends
