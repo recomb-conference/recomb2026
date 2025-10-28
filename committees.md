@@ -37,15 +37,15 @@ title: Committees
 ### Satellite Chairs
 
 #### RECOMB-Seq
- - TBA	
- - TBA	
+ - [Victoria Popic](https://www.broadinstitute.org/bios/victoria-popic), Broad Institute	
+ - [Kristoffer Sahlin](https://sahlingroup.github.io/), Stockholm University
 
 #### RECOMB-CG
  - TBA	
  - TBA	
 
 #### RECOMB-Arch
- - TBA	
+ - TBA <!-- [Yatish Turakhia](https://turakhia.ucsd.edu/), University of California, San Diego -->
 
 #### RECOMB-Genetics
  - TBA	
