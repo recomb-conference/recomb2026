@@ -31,6 +31,15 @@
   margin-bottom: 10px;
 }
 
+.sponsor-logo {
+  height: 160px; // Set a fixed height for the logo 
+  width: auto; 
+  margin-top: 5px; // Adjust vertical alignment
+  margin-right: 20px;
+  object-fit: cover;  /* Prevents stretching */
+  margin-bottom: 10px;
+}
+
 /* Styles for the venue photo */
 .venue-photo {
   display: block;
