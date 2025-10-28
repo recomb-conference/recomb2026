@@ -64,7 +64,7 @@ minima:
 #       * url      Full URL of social profile.
 social_links:
     - title: Email 
-      icon: envelope
+      icon: envelope-o
       url: "mailto:info@recombconf.org"
     - title: RECOMB at X 
       icon: x-twitter
@@ -136,6 +136,9 @@ main_navigation:
       - title: RECOMB-CG
         url: https://recomb-cg.org/
         external: true
+      - title: RECOMB-Arch
+        url: https://recomb-arch.github.io/
+        external: true # Mark as external link
       - title: RECOMB-Genetics
         url: /recombgenetics
   - title: Sponsors
