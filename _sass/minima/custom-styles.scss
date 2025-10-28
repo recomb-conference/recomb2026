@@ -31,14 +31,17 @@
   margin-bottom: 10px;
 }
 
+/* Styles for the venue photo */
 .venue-photo {
-  height: 600px; // Set a fixed height for the logo
-  width: auto;
-  margin-top: 5px; // Adjust vertical alignment
-  margin-right: 20px;
-  object-fit: cover;  /* Prevents stretching */
-  // border-radius: 50%; /* Makes them circular */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 600px; /* Set a fixed height */
+  width: auto; /* Width will scale automatically */
+  max-width: 100%; /* Prevent it from overflowing its container */
+  margin-top: 5px;
   margin-bottom: 10px;
+  object-fit: cover; /* Prevents stretching */
 }
 
 
