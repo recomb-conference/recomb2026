@@ -147,9 +147,10 @@ main_navigation:
         url: /sponsors
       - title: Sponsorship Packages
         url: /sponsorship_packages
-  - title: About RECOMB
-    url: https://www.recomb.org
-    external: true
+        
+#  - title: About RECOMB
+#    url: https://www.recomb.org
+#    external: true
 
 #  nav_pages:
 #     - about.md
