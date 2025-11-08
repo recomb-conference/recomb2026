@@ -3,6 +3,7 @@
 #
 title: RECOMB 2026
 iteration: "30th"
+location: "Thessaloniki, Greece"
 
 #
 author:
@@ -173,6 +174,7 @@ deadlines:
   travel_fellow_application: "TBA"
   travel_fellow_notification: "TBA"
   conference_dates: "26-29 May 2026"
+  satellite_dates: "24-25 May 2026" # for the home page
   satellite_seq: "24-25 May 2026"
   satellite_ccb: "24-25 May 2026"
   satellite_cg: "24-25 May 2026"

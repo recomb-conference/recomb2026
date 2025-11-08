@@ -56,8 +56,8 @@ layout: base
 
 <div class="recomb-hero" style="background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('{{ "/images/city/index-bg.jpg" | relative_url }}');">
   <h1>{{ site.title }}</h1>
-  <h2>THESSALONIKI, GREECE</h2>
-  <h3>May 26 - 29, 2026</h3>
+  <h2>{{ site.location }}</h2>
+  <h3>{{ site.deadlines.conference_dates }}</h3>
   <p>
     Stay tuned <a href="https://twitter.com/search?q=%23RECOMB2026" target="_blank">#RECOMB2026</a>
     <br>
@@ -65,7 +65,7 @@ layout: base
     <br>
     Bluesky <a href="https://bsky.app/profile/recombconf.bsky.social" target="_blank">@RECOMBconf</a>
   </p>
-  <p style="font-weight: bold;">Satellite Meetings: May 24-25, 2026</p>
+  <p style="font-weight: bold;">Satellite Meetings: {{ site.deadlines.satellite_dates }}</p>
 </div>
 
 <!-- This {{ content }} tag is what pulls in the content from your index.md file -->
