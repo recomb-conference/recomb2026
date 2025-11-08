@@ -147,11 +147,39 @@ main_navigation:
         url: /sponsors
       - title: Sponsorship Packages
         url: /sponsorship_packages
-        
+
+#  Removed since it overflows - and the link is moved to the logo instead
 #  - title: About RECOMB
 #    url: https://www.recomb.org
 #    external: true
 
+# Custom variables
+deadlines:
+  abstract_submission: "7 November 2025, 23:59 AoE"
+  paper_submission: "14 November 2025, 23:59 AoE"
+  author_notification: "12 January 2026"
+  final_version: "25 February 2026"
+  early_registration: "TBA" # placeholder
+  late_registration: "TBA" # placeholder
+  highlights_submission: "TBA"
+  highlights_notification: "TBA"
+  poster_submission: "TBA"
+  poster_notification: "TBA"
+  late_poster_submission: "TBA"
+  late_poster_notification: "TBA"
+  travel_fellow_application: "TBA"
+  travel_fellow_notification: "TBA"
+  conference_dates: "26-29 May 2026"
+  satellite_seq: "24-25 May 2026"
+  satellite_ccb: "24-25 May 2026"
+  satellite_cg: "24-25 May 2026"
+  satellite_genet: "25 May 2026"
+  satellite_priv: "25 May 2026"
+  satellite_arch: "24 May 2026"
+  
+links: 
+  easychair: "https://easychair.org/conferences/?conf=recomb2026"
+  
 #  nav_pages:
 #     - about.md
 #     - committes.md

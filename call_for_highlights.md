@@ -9,7 +9,8 @@ RECOMB 20XX invites the submission of abstracts of papers that have been publish
 
 Submissions must contain an abstract (including title, author(s), affiliation, e-mail, a link to the published journal version, the identity of the presenter (in case of a multi-authored paper) followed by the abstract text (about 200 words). Abstracts lacking this information will not be considered. Accepted presenters for the Highlight Track are required to make the presentation themselves and must register for the conference.
 
-The submission deadline is **TBA**. Authors will be notified of acceptance or rejection by email on **TBA**. For further questions, please contact the [Highlights Chair](mailto:).
+The submission deadline is **{{ site.deadlines.highlights_submission }}**. Authors will be notified of acceptance or rejection by email on **{{ site.deadlines.highlights_notification }}**. For further questions, please contact the [Highlights Chair](mailto:).
 
+<-- The easychair links could also be variables in config.yml -->
 EasyChair link (not yet active): [https://easychair.org/conferences/?conf=recomb2026](https://easychair.org/conferences/?conf=recomb2026).
 

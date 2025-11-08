@@ -40,11 +40,11 @@ Authors **must post their submission on a preprint server like bioRxiv**. They s
 
 ### Key Dates
 
-- **Abstract submission deadline**: 7 November 2025, 23:59 AoE
-- **Full paper submission deadline**: 14 November 2025, 23:59 AoE (updates to registered abstracts only)
-- **Author notification**: 12 January 2026
-- **Final version due**: 25 February 2026
-- **Conference dates**: 26-29 May 2026
+- **Abstract submission deadline**: {{ site.deadlines.abstract_submission }}
+- **Full paper submission deadline**: {{ site.deadlines.paper_submission }}
+- **Author notification**: {{ site.deadlines.author_notification }}
+- **Final version due**: {{ site.deadlines.final_version }}
+- **Conference dates**: {{ site.deadlines.conference_dates }}
 
 ### Formatting instructions for paper submission
 
@@ -56,7 +56,7 @@ Authors **must post their submission on a preprint server like bioRxiv**. They s
 
 ### Abstract registration
 
-There is a mandatory abstract submission deadline on **7 November 2025 23:59 AoE**, seven days prior to the full paper submissions deadline. This deadline allows the Program Committee to begin planning review assignments ahead of full paper submissions. After the abstract submission deadline has passed, new submissions will not be accepted, but authors can update the full paper submission before the paper submission deadline on **14 November 2025 23:59 AoE**. Please ensure the abstract registration closely aligns with full paper submission in terms of title, author list, and abstract content. "Placeholder" abstract registrations without meaningful descriptions will not be accepted. While minor updates to the abstract are allowed before the full paper submission deadline, any substantial changes to the title or abstract content risk being removed without consideration.
+There is a mandatory abstract submission deadline on **{{ site.deadlines.abstract_submission }}**, seven days prior to the full paper submissions deadline. This deadline allows the Program Committee to begin planning review assignments ahead of full paper submissions. After the abstract submission deadline has passed, new submissions will not be accepted, but authors can update the full paper submission before the paper submission deadline on **{{ site.deadlines.paper_submission }}**. Please ensure the abstract registration closely aligns with full paper submission in terms of title, author list, and abstract content. "Placeholder" abstract registrations without meaningful descriptions will not be accepted. While minor updates to the abstract are allowed before the full paper submission deadline, any substantial changes to the title or abstract content risk being removed without consideration.
 
 ### Journal publication
 
