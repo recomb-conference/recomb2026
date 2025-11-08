@@ -163,6 +163,7 @@ deadlines:
   late_registration: "TBA" # placeholder
   highlights_submission: "TBA"
   highlights_notification: "TBA"
+  highlights_cutoff: "January 1, 2025" # earliest journal pub date for highlights submissions
   poster_submission: "TBA"
   poster_notification: "TBA"
   late_poster_submission: "TBA"
@@ -173,12 +174,15 @@ deadlines:
   satellite_seq: "24-25 May 2026"
   satellite_ccb: "24-25 May 2026"
   satellite_cg: "24-25 May 2026"
-  satellite_genet: "25 May 2026"
+  satellite_genetics: "25 May 2026"
   satellite_priv: "25 May 2026"
   satellite_arch: "24 May 2026"
   
 links: 
   easychair: "https://easychair.org/conferences/?conf=recomb2026"
+  highlights_chair: "mailto: " 
+  posters_chair: "mailto: "
+  pc_chair: "mailto:rayan.chikhi@pasteur.fr"
   
 #  nav_pages:
 #     - about.md

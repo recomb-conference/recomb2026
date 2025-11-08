@@ -32,7 +32,7 @@ Papers reporting on original research (both theoretical and applied) in all area
 
 ## Submission Guidelines
 
-Submissions should represent original, previously unpublished work. The Program Committee will rigorously review submitted papers. Selected papers will be accepted for presentation at the conference. Please use the following submission link: [https://easychair.org/conferences/?conf=recomb2026](https://easychair.org/conferences/?conf=recomb2026).
+Submissions should represent original, previously unpublished work. The Program Committee will rigorously review submitted papers. Selected papers will be accepted for presentation at the conference. Please use the following submission link: [{{ site.links.easychair }}]({{ site.links.easychair }}).
 
 All papers must be original and not simultaneously submitted to another journal or conference.
 
@@ -69,7 +69,7 @@ Separately, all accepted papers not published elsewhere will be offered publicat
 
 ### Contact
 
-All questions about submissions should be emailed to the [Program Committee Chair](mailto:rayan.chikhi@pasteur.fr).
+All questions about submissions should be emailed to the [Program Committee Chair]({{ site.links.pc_chair }}).
 
 *Information about highlights and poster submissions will be shared at a later date*.
 
