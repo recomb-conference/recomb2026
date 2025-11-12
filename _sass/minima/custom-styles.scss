@@ -256,3 +256,59 @@
   background-color: transparent !important;
   background: none !important; /* Force remove background */
 }
+
+
+/* 6. Force Light Mode (Override prefers-color-scheme)
+   ========================================================================== */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #ffffff !important; /* Force light background */
+    color: #212529 !important; /* Force dark text */
+  }
+
+  .site-header {
+    background-color: #ffffff !important;
+    border-top-color: #0d6efd !important;
+    border-bottom-color: #dee2e6 !important;
+  }
+
+  .site-title,
+  .site-nav .page-link,
+  .desktop-nav .page-link,
+  .mobile-nav .menu-icon > svg,
+  .nav-item-wrapper > .nav-dropdown-toggle {
+    color: #333 !important; /* Force default text color for nav */
+  }
+
+  .site-nav .page-link:hover,
+  .nav-item-wrapper:hover > .page-link,
+  .nav-item-wrapper:hover > .nav-dropdown-toggle {
+    color: #0d6efd !important; /* Force blue hover */
+  }
+
+  .post-content h1,
+  .post-content h2,
+  .post-content h3,
+  .post-content h4,
+  .post-content h5,
+  .post-content h6 {
+    color: #212529 !important; /* Force dark headings */
+  }
+
+  .mobile-nav .trigger {
+    background-color: #ffffff !important; /* Force light mobile menu */
+  }
+
+  .nav-dropdown-menu {
+    background-color: #ffffff !important; /* Force light dropdown */
+  }
+
+  .nav-dropdown-menu li .page-link {
+    color: #333 !important;
+  }
+
+  .nav-dropdown-menu li .page-link:hover {
+    background-color: #0d6efd !important;
+    color: #ffffff !important;
+  }
+}
