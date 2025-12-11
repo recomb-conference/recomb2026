@@ -20,16 +20,16 @@ title: Committees
 
 ## Organizing Committee 
 
-### Co-chairs
+#### Co-chairs
  - TBA
    
-### Publicity Chair
+#### Publicity Chair
  - [{{ site.team.publicity_chair }}]({{ site.team.publicity_chair_url }}), {{ site.team.publicity_chair_institute }}
 
-### Keynotes Chair
+#### Keynotes Chair
  - TBA
 
-### Industry Chair
+#### Industry Chair
  - [{{ site.team.industry_chair }}]({{ site.team.industry_chair_url }}), {{ site.team.industry_chair_institute }}
 
 ## Highlights Chair
