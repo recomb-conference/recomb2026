@@ -20,24 +20,28 @@ title: Committees
 
 ## Organizing Committee 
 
-### Highlights Chair
- - [{{ site.team.highlights_chair }}]({{ site.team.highlights_chair_url }}), {{ site.team.highlights_chair_institute }}	
+### Co-chairs
+ - TBA
+   
+### Publicity Chair
+ - [{{ site.team.publicity_chair }}]({{ site.team.publicity_chair_url }}), {{ site.team.publicity_chair_institute }}
 
-### Keynote Chair
- - TBA	
-
-### Posters Chairs
- - [{{ site.team.posters_chair }}]({{ site.team.posters_chair_url }}), {{ site.team.posters_chair_institute }}	
+### Keynotes Chair
  - TBA
 
-### Travel Fellowships Chairs   
- - [{{ site.team.travel_fellowship_chair }}]({{ site.team.travel_fellowship_chair_url }}), {{ site.team.travel_fellowship_chair_institute }}	
- - TBA	
-
 ### Industry Chair
- - [{{ site.team.industry_chair }}]({{ site.team.industry_chair_url }}), {{ site.team.industry_chair_institute }}	
+ - [{{ site.team.industry_chair }}]({{ site.team.industry_chair_url }}), {{ site.team.industry_chair_institute }}
 
-### Satellite Chairs
+## Highlights Chair
+ - [{{ site.team.highlights_chair }}]({{ site.team.highlights_chair_url }}), {{ site.team.highlights_chair_institute }}	
+
+## Posters Chair
+ - [{{ site.team.posters_chair }}]({{ site.team.posters_chair_url }}), {{ site.team.posters_chair_institute }}	
+
+## Travel Fellowships Chair   
+ - [{{ site.team.travel_fellowship_chair }}]({{ site.team.travel_fellowship_chair_url }}), {{ site.team.travel_fellowship_chair_institute }}	
+
+## Satellite Chairs
 
 #### RECOMB-Seq
  - [Victoria Popic](https://www.broadinstitute.org/bios/victoria-popic), Broad Institute	
