@@ -71,7 +71,6 @@ Separately, all accepted papers not published elsewhere will be offered publicat
 
 All questions about submissions should be emailed to the Program Committee Chair [{{ site.team.pc_chair }}](mailto:{{ site.team.pc_chair_email }}).
 
-#*Information about highlights and poster submissions will be shared at a later date*.
 
 
 

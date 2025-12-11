@@ -4,6 +4,8 @@
 title: RECOMB 2026
 iteration: "30th"
 location: "Thessaloniki, Greece"
+city: "Thessaloniki"
+country: "Greece"
 
 #
 author:
@@ -122,7 +124,7 @@ main_navigation:
         url: /hotels
       - title: Airport Directions
         url: /airport
-      - title: Things to do in Thessaloniki
+      - title: Things to do in {{ site.city }}
         url: /things_to_do
       - title: Local Transportation
         url: /transportation
@@ -207,7 +209,7 @@ team:
   industry_chair_email: "thor.odinson@recombconf.org"
   industry_chair_institute: "Odinson Industries"
   industry_chair_url: "https://thorodinson.com"
-  
+
 #  nav_pages:
 #     - about.md
 #     - committes.md
