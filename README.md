@@ -46,7 +46,14 @@ deadlines:
   
 links:   
   easychair: "https://easychair.org/conferences/?conf=recomb2026"  
-  highlights_chair: "mailto: "   
-  posters_chair: "mailto: "  
-  pc_chair: "mailto:xxx@yyy.fr"  
   
+  
+team:
+  pc_chair: "Tony Stark"  
+  pc_chair_email: "tony.stark@recombconf.org"  
+  highlights_chair: "Bruce Banner"  
+  highlights_chair_email: "bruce.banner@recombconf.org"  
+  posters_chair: "Steve Rogers"  
+  posters_chair_email: "steve.rogers@recombconf.org"  
+  travel_fellowship_chair: "Natasha Romanoff"  
+  travel_fellowship_chair_email: "natasha.romanoff@recombconf.org"  
