@@ -36,7 +36,8 @@ title: Committees
  - [{{ site.team.highlights_chair }}]({{ site.team.highlights_chair_url }}), {{ site.team.highlights_chair_institute }}	
 
 ## Posters Chair
- - [{{ site.team.posters_chair }}]({{ site.team.posters_chair_url }}), {{ site.team.posters_chair_institute }}	
+ - TBA
+// - [{{ site.team.posters_chair }}]({{ site.team.posters_chair_url }}), {{ site.team.posters_chair_institute }}	
 
 ## Travel Fellowships Chair   
  - [{{ site.team.travel_fellowship_chair }}]({{ site.team.travel_fellowship_chair_url }}), {{ site.team.travel_fellowship_chair_institute }}	
