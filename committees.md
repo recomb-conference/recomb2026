@@ -16,23 +16,26 @@ title: Committees
 
 ## Program Chair
 
- - {{ site.team.pc_chair }}, {{ site.team.pc_chair_institute }}
+ - [{{ site.team.pc_chair }}]({{ site.team.pc_chair_url }}), {{ site.team.pc_chair_institute }}
 
-## Organizing Committee
+## Organizing Committee 
 
 ### Highlights Chair
- - {{ site.team.highlights_chair }}, {{ site.team.highlights_chair_institute }}	
+ - [{{ site.team.highlights_chair }}]({{ site.team.highlights_chair_url }}), {{ site.team.highlights_chair_institute }}	
 
 ### Keynote Chair
  - TBA	
 
 ### Posters Chairs
- - {{ site.team.posters_chair }}, {{ site.team.posters_chair_institute }}	
+ - [{{ site.team.posters_chair }}]({{ site.team.posters_chair_url }}), {{ site.team.posters_chair_institute }}	
  - TBA
 
-### Travel Fellowships Chairs
- - {{ site.team.travel_fellowship_chair }}, {{ site.team.travel_fellowship_chair_institute }}	
+### Travel Fellowships Chairs   
+ - [{{ site.team.travel_fellowship_chair }}]({{ site.team.travel_fellowship_chair_url }}), {{ site.team.travel_fellowship_chair_institute }}	
  - TBA	
+
+### Industry Chair
+ - [{{ site.team.industry_chair }}]({{ site.team.industry_chair_url }}), {{ site.team.industry_chair_institute }}	
 
 ### Satellite Chairs
 

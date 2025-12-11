@@ -9,18 +9,18 @@ title: Keynotes
 {%- assign sp4_path = "/images/speakers/speaker-4.png" | relative_url -%}
 {%- assign sp5_path = "/images/speakers/speaker-5.png" | relative_url -%}
 {%- assign sp6_path = "/images/speakers/speaker-6.png" | relative_url -%}
-{%  assign sp1_name = "Dr. James Tiberius Kirk"}
-{%  assign sp2_name = "Dr. Jean Luc Picard"}
-{%  assign sp3_name = "Dr. Data"}
-{%  assign sp4_name = "Dr. Worf"}
-{%  assign sp5_name = "Dr. Kira Nerys"}
-{%  assign sp6_name = "Dr. Beverly Crusher"}
-{%  assign sp1_inst = "Enterprise"}
-{%  assign sp2_inst = "Enterprise D"}
-{%  assign sp3_inst = "Enterprise D"}
-{%  assign sp4_inst = "Enterprise D"}
-{%  assign sp5_inst = "Deep Space Nine"}
-{%  assign sp6_inst = "Enterprise D"}
+{%  assign sp1_name = "Dr. James Tiberius Kirk" %}
+{%  assign sp2_name = "Dr. Jean Luc Picard" %}
+{%  assign sp3_name = "Dr. Data" %}
+{%  assign sp4_name = "Dr. Worf" %}
+{%  assign sp5_name = "Dr. Kira Nerys" %}
+{%  assign sp6_name = "Dr. Beverly Crusher" %}
+{%  assign sp1_inst = "Enterprise" %}
+{%  assign sp2_inst = "Enterprise D" %}
+{%  assign sp3_inst = "Enterprise D" %}
+{%  assign sp4_inst = "Enterprise D" %}
+{%  assign sp5_inst = "Deep Space Nine" %}
+{%  assign sp6_inst = "Enterprise D" %}
 
 #### Join us as six distinguished scientists from diverse fields share their groundbreaking research throughout the conference.
 
