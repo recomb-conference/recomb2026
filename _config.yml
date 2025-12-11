@@ -164,7 +164,7 @@ main_navigation:
 # Custom variables	
 deadlines:
   abstract_submission: "7 November 2025, 23:59 AoE"
-  paper_submission: "20 November 2025, 23:59 AoE (updates to existing submissions only)"
+  paper_submission: "20 November 2025, 23:59 AoE"
   author_notification: "16 January 2026"
   final_version: "25 February 2026"
   early_registration: "TBA" # placeholder
