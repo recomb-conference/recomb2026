@@ -2,7 +2,7 @@
 layout: home
 ---
 
-## About RECOMB
+## About {{ site.title }}
 
 ### {{ site.iteration }} Annual International Conference on Research in Computational Molecular Biology
 
