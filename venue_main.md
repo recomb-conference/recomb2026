@@ -3,7 +3,7 @@ layout: page
 title: Venue - Main Conference
 ---
 
-{%- assign venue_path = "/images/city/venue.jpg" | relative_url -%}
+{%- assign venue_path = "/images/city/venue_main.png" | relative_url -%}
 
 # RECOMB 2026 will be held in [Thessaloniki Concert Hall](https://www.tch.gr/default.aspx?lang=en-GB&page=1)
 
