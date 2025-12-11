@@ -100,6 +100,9 @@ main_navigation:
         url: /call_for_abstracts
       - title: Call for Highlights
         url: /call_for_highlights
+      - title: About RECOMB
+        url: https://recomb.org/
+        external: true
   - title: Register
     children:
       - title: RECOMB and Satellites
@@ -134,7 +137,7 @@ main_navigation:
     children:
       - title: RECOMB-Seq
         url: https://recomb-seq.github.io/
-        external: true # Mark as external link
+        external: true
       - title: RECOMB-CCB
         url: https://recomb.org/recomb-ccb2026
         external: true
@@ -143,7 +146,7 @@ main_navigation:
         external: true
       - title: RECOMB-Arch
         url: https://recomb-arch.github.io/
-        external: true # Mark as external link
+        external: true
       - title: RECOMB-Genetics
         url: /recombgenetics
   - title: Sponsors
@@ -153,7 +156,7 @@ main_navigation:
       - title: Sponsorship Packages
         url: /sponsorship_packages
 
-#  Removed since it overflows - and the link is moved to the logo instead
+#  Moved this to the Conference tab
 #  - title: About RECOMB
 #    url: https://www.recomb.org
 #    external: true
