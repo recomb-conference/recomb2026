@@ -14,6 +14,8 @@ Variables to edit:
 title: RECOMB 2026  
 iteration: "30th"  
 location: "Thessaloniki, Greece"  
+city: "Thessaloniki"  
+country: "Greece"  
 
 author:  
    name: RECOMB Conference  
@@ -48,12 +50,24 @@ links:
   easychair: "https://easychair.org/conferences/?conf=recomb2026"  
   
   
-team:
+team:  
   pc_chair: "Tony Stark"  
   pc_chair_email: "tony.stark@recombconf.org"  
+  pc_chair_institute: "Stark Industries"  
+  pc_chair_url: "https://tonystark.com"  
   highlights_chair: "Bruce Banner"  
   highlights_chair_email: "bruce.banner@recombconf.org"  
-  posters_chair: "Steve Rogers"  
+  highlights_chair_institute: "Banner Industries"  
+  highlights_chair_url: "https://brucebanner.com"  
+  posters_chair: "Steve Rogers"
   posters_chair_email: "steve.rogers@recombconf.org"  
+  posters_chair_institute: "Rogers Industries"  
+  posters_chair_url: "https://steve-rogers.com"  
   travel_fellowship_chair: "Natasha Romanoff"  
   travel_fellowship_chair_email: "natasha.romanoff@recombconf.org"  
+  travel_fellowship_chair_institute: "Romanoff Industries"  
+  travel_fellowship_chair_url: "https://natasharomanoff.com"  
+  industry_chair: "Thor Odinson"  
+  industry_chair_email: "thor.odinson@recombconf.org"  
+  industry_chair_institute: "Odinson Industries"  
+  industry_chair_url: "https://thorodinson.com"  
