@@ -60,5 +60,5 @@ RECOMB is the most prestigious annual international conference on computational 
 
 ## Other
 
-Other forms of sponsorships (e.g., sponsoring coffee breaks, etc. are also welcomed) please contact the Industry Chair [{{ site.team.industry_chair }}]({{ site.team.industry_chair_email }}).	
+Other forms of sponsorships (e.g., sponsoring coffee breaks, etc. are also welcomed) please contact the Industry Chair [{{ site.team.industry_chair }}](mailto:{{ site.team.industry_chair_email }}).	
 

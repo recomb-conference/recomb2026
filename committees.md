@@ -16,22 +16,22 @@ title: Committees
 
 ## Program Chair
 
- - TBA
+ - {{ site.team.pc_chair }}, {{ site.team.pc_chair_institute }}
 
 ## Organizing Committee
 
 ### Highlights Chair
- - TBA	
+ - {{ site.team.highlights_chair }}, {{ site.team.highlights_chair_institute }}	
 
 ### Keynote Chair
  - TBA	
 
 ### Posters Chairs
- - TBA	
- - TBA	
+ - {{ site.team.posters_chair }}, {{ site.team.posters_chair_institute }}	
+ - TBA
 
 ### Travel Fellowships Chairs
- - TBA	
+ - {{ site.team.travel_fellowship_chair }}, {{ site.team.travel_fellowship_chair_institute }}	
  - TBA	
 
 ### Satellite Chairs
@@ -45,7 +45,7 @@ title: Committees
  - TBA	
 
 #### RECOMB-Arch
- - TBA <!-- [Yatish Turakhia](https://turakhia.ucsd.edu/), University of California, San Diego -->
+ - [Yatish Turakhia](https://turakhia.ucsd.edu/), University of California, San Diego 
 
 #### RECOMB-Genetics
  - TBA	

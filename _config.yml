@@ -189,15 +189,19 @@ links:
 team:
   pc_chair: "Tony Stark"
   pc_chair_email: "tony.stark@recombconf.org"
+  pc_chair_institute: "Stark Industries"
   highlights_chair: "Bruce Banner"
   highlights_chair_email: "bruce.banner@recombconf.org"
+  highlights_chair_institute: "Banner Industries"
   posters_chair: "Steve Rogers"
   posters_chair_email: "steve.rogers@recombconf.org"
+  posters_chair_institute: "Rogers Industries"
   travel_fellowship_chair: "Natasha Romanoff"
   travel_fellowship_chair_email: "natasha.romanoff@recombconf.org"
+  travel_fellowship_chair_institute: "Romanoff Industries"
   industry_chair: "Thor Odinson"
   industry_chair_email: "thor.odinson@recombconf.org"
-  
+  industry_chair_institute: "Odinson Industries" 
 #  nav_pages:
 #     - about.md
 #     - committes.md
