@@ -46,7 +46,7 @@ Both menus are populated from the `main_navigation` variable in _config.yml.
       </ul>
     </nav>
 
-    <!-- 2. Mobile Navigation (Hamburger Menu) -->
+    <!-- 2. Mobile Navigation (Hamburger Menu with Accordion) -->
     <nav class="mobile-nav">
       <input type="checkbox" id="nav-trigger" class="nav-trigger" />
       <label for="nav-trigger">
@@ -60,17 +60,23 @@ Both menus are populated from the `main_navigation` variable in _config.yml.
 
       <div class="trigger">
         <ul>
+          {%- assign accordion_index = 0 -%}
           {%- for item in site.main_navigation -%}
           <li class="nav-item-wrapper-mobile">
             {%- if item.children -%}
-            <!-- Mobile: Top-level item is a non-link label -->
-            <span class_mobile="page-link nav-dropdown-toggle-mobile">{{ item.title }}</span>
+            {%- assign accordion_index = accordion_index | plus: 1 -%}
+            <!-- Mobile: Accordion dropdown -->
+            <input type="checkbox" id="accordion-{{ accordion_index }}" class="accordion-trigger" />
+            <label for="accordion-{{ accordion_index }}" class="accordion-toggle">
+              {{ item.title }}
+              <span class="accordion-icon"></span>
+            </label>
             <ul class="nav-dropdown-menu-mobile">
               {%- for child in item.children -%}
               <li>
                 <a class="page-link" href="{{ child.url | relative_url }}" {%- if child.url contains 'http'
                   -%}target="_blank" {%- endif -%}>
-                  - {{ child.title }}
+                  {{ child.title }}
                 </a>
               </li>
               {%- endfor -%}
