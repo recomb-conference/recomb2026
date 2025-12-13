@@ -6,11 +6,21 @@ layout: base
   I've updated it with your new RECOMB 2026 content.
 -->
 <style>
+.home-page .page-content {
+  padding: 0; /* Let the hero sit flush with the top of the viewport */
+}
+
 .recomb-hero {
     position: relative;
-    padding: 8rem 1rem;
+  min-height: 100vh;
+  padding: calc(7rem + var(--header-height, 72px)) 1rem 6rem;
     text-align: center;
     color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
     background-size: cover;
     background-position: center center;
     
@@ -78,3 +88,27 @@ layout: base
   {{ content }}
 
 </div>
+
+<script>
+  (function() {
+    const header = document.querySelector('.site-header');
+    const logo = header ? header.querySelector('.recomb-logo') : null;
+    if (!header || !logo) return;
+
+    const defaultSrc = logo.dataset.logoDefault;
+    const whiteSrc = logo.dataset.logoWhite;
+
+    const applyState = () => {
+      const scrolled = window.scrollY > 10;
+      header.classList.toggle('is-scrolled', scrolled);
+      if (scrolled) {
+        if (defaultSrc) logo.src = defaultSrc;
+      } else {
+        if (whiteSrc) logo.src = whiteSrc;
+      }
+    };
+
+    applyState();
+    window.addEventListener('scroll', applyState, { passive: true });
+  })();
+</script>
