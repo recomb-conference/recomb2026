@@ -1,5 +1,6 @@
 ---
 layout: home
+title: RECOMB 2026
 ---
 
 ## About {{ site.title }}
