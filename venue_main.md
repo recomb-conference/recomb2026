@@ -10,7 +10,7 @@ title: Venue - Main Conference
 
 <img src="{{ venue_path }}" alt="Venue" class="venue-photo">
 
-### Transportation to Thessaloniki Concert Hall
+### Transportation to the Thessaloniki Concert Hall
 {: style="text-align: center;"}
 
 <div class="map-wrapper" style="display:flex; justify-content: center; margin: 1.5rem 0;">
