@@ -81,7 +81,20 @@ body:not(.home-page) .page-content {
   height: auto;
   width: 150px; // Set a fixed width for the logo
   margin-top: 5px; // Adjust vertical alignment
+  margin-bottom: 5px; // Add bottom margin to prevent touching border
   margin-right: 20px;
+}
+
+/* Mobile: increase header padding for better spacing */
+@media screen and (max-width: 799px) {
+  .site-header {
+    padding: 10px 0; // Add vertical padding to push border away from logo
+  }
+  
+  .recomb-logo {
+    width: 120px; // Slightly smaller logo on mobile
+    margin-bottom: 8px; // More bottom margin on mobile
+  }
 }
 
 /* Ensure home page body content is dark text (not the hero) */
