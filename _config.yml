@@ -144,11 +144,18 @@ main_navigation:
       - title: RECOMB-CG
         url: https://recomb-cg.org/
         external: true
+      - title: RECOMB-Genetics
+        url: /recombgenetics
+      - title: RECOMB-Priv
+        url: /recombpriv
+      - title: RECOMB-HBio
+        url: /recombhbio
       - title: RECOMB-Arch
         url: https://recomb-arch.github.io/
         external: true
-      - title: RECOMB-Genetics
-        url: /recombgenetics
+      - title: RECOMB-RSG
+        url: https://recomb-rsg.github.io/
+        external: true
   - title: Sponsors
     children:
       - title: RECOMB Sponsors
