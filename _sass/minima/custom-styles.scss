@@ -7,6 +7,58 @@
   max-width: 1000px; // Minima's default is around 800px. Increase this.
 }
 
+/* Page Header Banner (for non-home pages)
+   ========================================================================== */
+.page-page .page-content {
+  padding-top: 0; // Banner handles the spacing
+}
+
+.page-header-banner {
+  background-image: url("/images/slider/slider-bg-1.jpg");
+  background-size: cover;
+  background-position: center center;
+  padding: calc(var(--header-height) + 40px) 0 70px; // Account for fixed header
+  text-align: center;
+  color: #fff;
+  position: relative;
+  margin: 0 calc(50% - 50vw);
+  width: 100vw;
+}
+
+.page-header-banner::before {
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  content: '';
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+.page-header-content {
+  position: relative;
+  z-index: 1;
+}
+
+.page-header-content h1 {
+  color: #fff !important;
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+@media screen and (max-width: 799px) {
+  .page-header-banner {
+    padding: calc(var(--header-height) + 40px) 0 40px;
+  }
+  
+  .page-header-content h1 {
+    font-size: 1.75rem;
+  }
+}
+
 /* 1. Header & Logo Customization
    ========================================================================== */
 :root {
@@ -25,12 +77,13 @@
   transition: background-color 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
 }
 
-body:not(.home-page) .page-content {
+body:not(.home-page):not(.page-page) .page-content {
   padding-top: var(--header-height);
 }
 
-/* Transparent header on the home hero so the image can sit behind it */
-.home-page .site-header {
+/* Transparent header on pages with hero/banner so the image can sit behind it */
+.home-page .site-header,
+.page-page .site-header {
   background: transparent;
   border: none;
   box-shadow: none;
@@ -39,21 +92,29 @@ body:not(.home-page) .page-content {
 .home-page .site-header .site-title,
 .home-page .site-header .site-title:visited,
 .home-page .site-header .nav-item-wrapper>.page-link,
-.home-page .site-header .nav-item-wrapper>.nav-dropdown-toggle {
+.home-page .site-header .nav-item-wrapper>.nav-dropdown-toggle,
+.page-page .site-header .site-title,
+.page-page .site-header .site-title:visited,
+.page-page .site-header .nav-item-wrapper>.page-link,
+.page-page .site-header .nav-item-wrapper>.nav-dropdown-toggle {
   color: #ffffff;
 }
 
 .home-page .site-header .nav-item-wrapper:hover>.page-link,
-.home-page .site-header .nav-item-wrapper:hover>.nav-dropdown-toggle {
+.home-page .site-header .nav-item-wrapper:hover>.nav-dropdown-toggle,
+.page-page .site-header .nav-item-wrapper:hover>.page-link,
+.page-page .site-header .nav-item-wrapper:hover>.nav-dropdown-toggle {
   background-color: rgba(255, 255, 255, 0.12);
   color: #ffffff;
 }
 
-.home-page .site-header .mobile-nav .menu-icon svg path {
+.home-page .site-header .mobile-nav .menu-icon svg path,
+.page-page .site-header .mobile-nav .menu-icon svg path {
   fill: #ffffff;
 }
 
-.home-page .site-header.is-scrolled {
+.home-page .site-header.is-scrolled,
+.page-page .site-header.is-scrolled {
   background-color: #ffffff;
   border-top: none;
   border-bottom: 1px solid #dee2e6;
@@ -63,17 +124,24 @@ body:not(.home-page) .page-content {
 .home-page .site-header.is-scrolled .site-title,
 .home-page .site-header.is-scrolled .site-title:visited,
 .home-page .site-header.is-scrolled .nav-item-wrapper>.page-link,
-.home-page .site-header.is-scrolled .nav-item-wrapper>.nav-dropdown-toggle {
+.home-page .site-header.is-scrolled .nav-item-wrapper>.nav-dropdown-toggle,
+.page-page .site-header.is-scrolled .site-title,
+.page-page .site-header.is-scrolled .site-title:visited,
+.page-page .site-header.is-scrolled .nav-item-wrapper>.page-link,
+.page-page .site-header.is-scrolled .nav-item-wrapper>.nav-dropdown-toggle {
   color: #333;
 }
 
 .home-page .site-header.is-scrolled .nav-item-wrapper:hover>.page-link,
-.home-page .site-header.is-scrolled .nav-item-wrapper:hover>.nav-dropdown-toggle {
+.home-page .site-header.is-scrolled .nav-item-wrapper:hover>.nav-dropdown-toggle,
+.page-page .site-header.is-scrolled .nav-item-wrapper:hover>.page-link,
+.page-page .site-header.is-scrolled .nav-item-wrapper:hover>.nav-dropdown-toggle {
   background-color: #f5f5f5;
   color: #0d6efd;
 }
 
-.home-page .site-header.is-scrolled .mobile-nav .menu-icon svg path {
+.home-page .site-header.is-scrolled .mobile-nav .menu-icon svg path,
+.page-page .site-header.is-scrolled .mobile-nav .menu-icon svg path {
   fill: #424242;
 }
 
@@ -423,8 +491,9 @@ body:not(.home-page) .page-content {
     border-bottom-color: #dee2e6 !important;
   }
 
-  /* Keep the home hero transparent even when dark-mode overrides run */
-  .home-page .site-header {
+  /* Keep the home/page hero transparent even when dark-mode overrides run */
+  .home-page .site-header,
+  .page-page .site-header {
     background: transparent !important;
     border: none !important;
   }
@@ -432,21 +501,29 @@ body:not(.home-page) .page-content {
   .home-page .site-header .site-title,
   .home-page .site-header .site-title:visited,
   .home-page .site-header .nav-item-wrapper>.page-link,
-  .home-page .site-header .nav-item-wrapper>.nav-dropdown-toggle {
+  .home-page .site-header .nav-item-wrapper>.nav-dropdown-toggle,
+  .page-page .site-header .site-title,
+  .page-page .site-header .site-title:visited,
+  .page-page .site-header .nav-item-wrapper>.page-link,
+  .page-page .site-header .nav-item-wrapper>.nav-dropdown-toggle {
     color: #ffffff !important;
   }
 
   .home-page .site-header .nav-item-wrapper:hover>.page-link,
-  .home-page .site-header .nav-item-wrapper:hover>.nav-dropdown-toggle {
+  .home-page .site-header .nav-item-wrapper:hover>.nav-dropdown-toggle,
+  .page-page .site-header .nav-item-wrapper:hover>.page-link,
+  .page-page .site-header .nav-item-wrapper:hover>.nav-dropdown-toggle {
     background-color: rgba(255, 255, 255, 0.12) !important;
     color: #ffffff !important;
   }
 
-  .home-page .site-header .mobile-nav .menu-icon>svg {
+  .home-page .site-header .mobile-nav .menu-icon>svg,
+  .page-page .site-header .mobile-nav .menu-icon>svg {
     fill: #ffffff !important;
   }
 
-  .home-page .site-header.is-scrolled {
+  .home-page .site-header.is-scrolled,
+  .page-page .site-header.is-scrolled {
     background-color: #ffffff !important;
     border: none !important;
     border-bottom: 1px solid #dee2e6 !important;
@@ -456,17 +533,24 @@ body:not(.home-page) .page-content {
   .home-page .site-header.is-scrolled .site-title,
   .home-page .site-header.is-scrolled .site-title:visited,
   .home-page .site-header.is-scrolled .nav-item-wrapper>.page-link,
-  .home-page .site-header.is-scrolled .nav-item-wrapper>.nav-dropdown-toggle {
+  .home-page .site-header.is-scrolled .nav-item-wrapper>.nav-dropdown-toggle,
+  .page-page .site-header.is-scrolled .site-title,
+  .page-page .site-header.is-scrolled .site-title:visited,
+  .page-page .site-header.is-scrolled .nav-item-wrapper>.page-link,
+  .page-page .site-header.is-scrolled .nav-item-wrapper>.nav-dropdown-toggle {
     color: #333 !important;
   }
 
   .home-page .site-header.is-scrolled .nav-item-wrapper:hover>.page-link,
-  .home-page .site-header.is-scrolled .nav-item-wrapper:hover>.nav-dropdown-toggle {
+  .home-page .site-header.is-scrolled .nav-item-wrapper:hover>.nav-dropdown-toggle,
+  .page-page .site-header.is-scrolled .nav-item-wrapper:hover>.page-link,
+  .page-page .site-header.is-scrolled .nav-item-wrapper:hover>.nav-dropdown-toggle {
     background-color: #f5f5f5 !important;
     color: #0d6efd !important;
   }
 
-  .home-page .site-header.is-scrolled .mobile-nav .menu-icon>svg {
+  .home-page .site-header.is-scrolled .mobile-nav .menu-icon>svg,
+  .page-page .site-header.is-scrolled .mobile-nav .menu-icon>svg {
     fill: #424242 !important;
   }
 

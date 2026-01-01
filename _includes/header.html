@@ -14,7 +14,7 @@ Both menus are populated from the `main_navigation` variable in _config.yml.
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
       {%- assign logo_default = "/images/recomb-logo/RECOMB2026_logo.svg" | relative_url -%}
       {%- assign logo_white = "/images/recomb-logo/RECOMB2026_logo_white.svg" | relative_url -%}
-      {%- if page.layout == 'home' -%}
+      {%- if page.layout == 'home' or page.layout == 'page' -%}
         {%- assign logo_path = logo_white -%}
       {%- else -%}
         {%- assign logo_path = logo_default -%}
