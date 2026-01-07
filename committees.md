@@ -58,6 +58,10 @@ title: Committees
  - TBA	
  - TBA	
 
+#### RECOMB-Privacy
+ - [Hoon Cho](https://medicine.yale.edu/profile/hoon-cho/), Yale University	
+ - [Sinem Sav](https://sinemsav.github.io/pages/sinemsav.html), Bilkent University	
+
 #### RECOMB-CCB
  - TBA	
  - TBA	
