@@ -146,7 +146,6 @@ main_navigation:
         external: true
       - title: RECOMB-Genetics
         url: /recombgenetics
-      - title: RECOMB-Priv
       - title: RECOMB-Privacy
         url: https://recomb-privacy.github.io/
         external: true
