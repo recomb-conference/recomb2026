@@ -24,10 +24,10 @@ Q. "I forgot to register early for the conference. Is this OK?"
 - We will only cover early student registration rates. Students will be responsible for the difference. Please register early.
 
 Q. "I am not the first author but presenting the paper on behalf of my co-authors. Is this OK?"
-Yes.
+- Yes.
 
 Q. "When will I receive my funds?"
-You will fill out a reimbursement form after the conference. The Fellowship Chairs will communicate with you about the procedure.
+- You will fill out a reimbursement form after the conference. The Fellowship Chairs will communicate with you about the procedure.
 
 Q. "How will I receive my funds?"
-A check will be mailed to the address you provided.
+- A check will be mailed to the address you provided.
