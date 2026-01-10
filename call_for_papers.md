@@ -10,7 +10,7 @@ The RECOMB conference series, founded in 1997, provides a scientific forum for c
 ## Topics
 
 Papers reporting on original research (both theoretical and applied) in all areas of computational molecular biology are suitable for submission. Topics of interest include, but are not limited to:
-
+    
 - Algorithms & Theory for Computational Biology
 - Biological sequence algorithms
 - Sequencing and genotyping technologies
@@ -31,12 +31,12 @@ Papers reporting on original research (both theoretical and applied) in all area
 - Data privacy and security in biomedical research
 
 ## Submission Guidelines
-
+      
 Submissions should represent original, previously unpublished work. The Program Committee will rigorously review submitted papers. Selected papers will be accepted for presentation at the conference. Please use the following submission link: [{{ site.links.easychair }}]({{ site.links.easychair }}).
 
 All papers must be original and not simultaneously submitted to another journal or conference.
 
-Authors **must post their submission on a preprint server like bioRxiv**. They should not assume that a formal proceedings volume will be published, as a final decision is still pending. All accepted papers will have opportunities for publication through our journal partners.
+Authors of accepted papers are **required to post the final version of their paper on bioRxiv** by the final version due date (25 February 2026). Please note that a formal proceedings volume may not be produced; instead, accepted papers will have publication opportunities through our partnering journals.
 
 ### Key Dates
 
@@ -66,12 +66,7 @@ Authors will be notified of whether their paper is accepted for oral presentatio
 
 Separately, all accepted papers not published elsewhere will be offered publication in a special issue of the Journal of Computational Biology.
 
-
 ### Contact
 
 All questions about submissions should be emailed to the Program Committee Chair [{{ site.team.pc_chair }}](mailto:{{ site.team.pc_chair_email }}).
-
-
-
-
-
+Information about highlights and poster submissions will be shared at a later date.
