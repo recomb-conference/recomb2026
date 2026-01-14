@@ -11,49 +11,50 @@ RECOMB is the most prestigious annual international conference on computational 
 ## Diamond - $30,000
 
 - Three complimentary conference registrations
-- Exclusive Named Sponsor of two of the preferred full sessions of the conference (e.g. Cancer genomics, Sequence Analysis, Networks, Machine Learning …)
-- Exhibit table in preferred location at coffee break area
-- Exhibit table in preferred location at Poster Sessions
+- Exclusive Named Sponsor of a Poster Session or two of the preferred full sessions of the conference (e.g. Cancer genomics, Sequence Analysis, Networks, Machine Learning …)
+- Exhibit table in a preferred location at the Foyer of the Thessaloniki Concert Hall, Building M2.
 - Company logo on the conference website identified as Diamond Sponsor
-- Logo slide at opening session
+- Company page on the conference app
+- Logo slide during breaks
 - Company name included on signage in registration area and poster area
-- One company brochure or marketing piece inserted in conference handouts	
+- One company brochure or marketing piece inserted in conference handouts	(if any)
 
 
 ## Platinum - $20,000
 
-- One complimentary conference registration
+- Two complimentary conference registrations
 - Exclusive Named Sponsor of a Poster Session or one of the full sessions of the conference (e.g. Cancer genomics, Sequence Analysis, Networks, Machine Learning …)
-- Exhibit table in preferred location at Poster Sessions
+- Exhibit table at the Foyer of the Thessaloniki Concert Hall, Building M2.
 - Company logo on the conference website identified as Platinum Sponsor
-- Logo slide at opening session
+- Company page on the conference app
+- Logo slide during breaks
 - Company name included on signage in registration area and poster area
-- One company brochure or marketing piece inserted in conference handouts	
 
 
 ## Gold - $10,000
 
-- One complimentary conference registration	
-- Exhibit table at Poster Sessions	
-- Company logo on the conference website identified as a Gold Sponsor	
-- Logo slide at opening session	
+- One complimentary conference registration
+- Exhibit table at the Poster Sessions
+- Company logo on the conference website identified as a Gold Sponsor
+- Company page on the conference app
+- Logo slide during breaks
 - Company name included on signage in registration area and poster session	
-- One company flyer inserted in the conference handouts	
 
 
 ## Silver - $5,000
 
 - One complimentary conference registration	
-- Exhibit table at Poster Sessions	
-- Company logo on the conference website identified as a Silver Sponsor	
-- Logo slide at opening session	
+- Company logo on the conference website identified as a Silver Sponsor
+- Company page on the conference app
+- Logo slide during breaks	
 - Company name included on signage in registration area	
 
 
 ## Bronze - $2,500
 
-- Company logo on the conference website identified as a Bronze Sponsor	
-- Logo slide at opening session	
+- Company logo on the conference website identified as a Bronze Sponsor
+- Company page on the conference app
+- Logo slide during breaks	
 - Company name included on signage in registration area	
 
 
