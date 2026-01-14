@@ -11,7 +11,7 @@ RECOMB is the most prestigious annual international conference on computational 
 ## Diamond - $30,000
 
 - Three complimentary conference registrations
-- Exclusive Named Sponsor of a Poster Session or two of the preferred full sessions of the conference (e.g. Cancer genomics, Sequence Analysis, Networks, Machine Learning …)
+- Exclusive Named Sponsor of a Poster Session or two preferred full sessions of the conference (e.g. Cancer genomics, Sequence Analysis, Networks, Machine Learning …)
 - Exhibit table in a preferred location at the Foyer of the Thessaloniki Concert Hall, Building M2.
 - Company logo on the conference website identified as Diamond Sponsor
 - Company page on the conference app
