@@ -3,7 +3,7 @@ layout: page
 title: Sponsorship Packages
 ---
 
-### We welcome the participation of institutes and companies as sponsors and/or vendors.  
+#### We welcome the participation of institutes and companies as sponsors and/or vendors.  
 
 RECOMB is the most prestigious annual international conference on computational biology. It gathers around 500 researchers from all around the world, as well famous senior scientists as promising students. Your institute or company can gain a visibility, opportunities to meet clients, future collaborators, or future team members.	
 
