@@ -9,7 +9,4 @@ title: Call for Highlights
 
 Submissions must contain an abstract (including title, author(s), affiliation, e-mail, a link to the published journal version, the identity of the presenter (in case of a multi-authored paper) followed by the abstract text (about 200 words). Abstracts lacking this information will not be considered. Accepted presenters for the Highlight Track are required to make the presentation themselves and must register for the conference.
 
-The submission deadline is **{{ site.deadlines.highlights_submission }}**. Authors will be notified of acceptance or rejection by email on **{{ site.deadlines.highlights_notification }}**. For further questions, please contact the Highlights Chair [{{ site.team.highlights_chair }}](mailto:{{ site.team.highlights_chair_email }}).
-
-EasyChair link (not yet active): [{{ site.links.easychair }}]({{ site.links.easychair }}).
-
+Submission details will be announced soon.
