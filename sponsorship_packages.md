@@ -3,7 +3,7 @@ layout: page
 title: Sponsorship Packages
 ---
 
-#### We welcome the participation of institutes and companies as sponsors of RECOMB2026.  
+#### We welcome the participation of institutes and companies as sponsors of RECOMB2026!
 
 RECOMB is the most prestigious annual international conference on computational biology. It gathers around 500 researchers from all around the world, as well famous senior scientists as promising students. Your institute or company can gain a visibility, opportunities to meet clients, future collaborators, or future team members.	
 
@@ -16,19 +16,19 @@ RECOMB is the most prestigious annual international conference on computational 
 - Company logo on the conference website identified as Diamond Sponsor
 - Company page on the conference app
 - Logo slide during breaks
-- Company name included on signage in registration area and poster area
+- Company name included on signage at the Foyer of Building M2, Thessaloniki Concert Hall
 - One company brochure or marketing piece inserted in conference handouts	(if any)
 
 
 ## Platinum - $20,000
 
 - Two complimentary conference registrations
-- Exclusive Named Sponsor of a Poster Session or one of the full sessions of the conference (e.g. Cancer genomics, Sequence Analysis, Networks, Machine Learning …)
-- Exhibit table at the Foyer of the Thessaloniki Concert Hall, Building M2.
+- Exclusive Named Sponsor of a Poster Session or one preferred full session of the conference (e.g. Cancer genomics, Sequence Analysis, Networks, Machine Learning …)
+- Exhibit table at the Foyer of Building M2, Thessaloniki Concert Hall
 - Company logo on the conference website identified as Platinum Sponsor
 - Company page on the conference app
 - Logo slide during breaks
-- Company name included on signage in registration area and poster area
+- Company name included on signage at the Foyer of Building M2, Thessaloniki Concert Hall
 
 
 ## Gold - $10,000
@@ -38,7 +38,7 @@ RECOMB is the most prestigious annual international conference on computational 
 - Company logo on the conference website identified as a Gold Sponsor
 - Company page on the conference app
 - Logo slide during breaks
-- Company name included on signage in registration area and poster session	
+- Company name included on signage at the Foyer of Building M2, Thessaloniki Concert Hall
 
 
 ## Silver - $5,000
@@ -47,7 +47,7 @@ RECOMB is the most prestigious annual international conference on computational 
 - Company logo on the conference website identified as a Silver Sponsor
 - Company page on the conference app
 - Logo slide during breaks	
-- Company name included on signage in registration area	
+- Company name included on signage at the Foyer of Building M2, Thessaloniki Concert Hall
 
 
 ## Bronze - $2,500
@@ -55,7 +55,7 @@ RECOMB is the most prestigious annual international conference on computational 
 - Company logo on the conference website identified as a Bronze Sponsor
 - Company page on the conference app
 - Logo slide during breaks	
-- Company name included on signage in registration area	
+- Company name included on signage at the Foyer of Building M2, Thessaloniki Concert Hall
 
 
 ## Other
