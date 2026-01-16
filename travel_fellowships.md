@@ -3,7 +3,7 @@ layout: page
 title: Travel Fellowships
 ---
 
-## Overview
+
 
 These prestigious fellowships are selectively awarded to students who have co-authored accepted papers, offering a generous sum to defray the expenses associated with attending RECOMB, including registration, travel, and lodging. The status of travel fellowships for RECOMB 2026 will be announced after the author notification deadline, {{ site.deadlines.author_notification }}.
 
