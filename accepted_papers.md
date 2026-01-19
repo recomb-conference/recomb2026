@@ -106,4 +106,55 @@
 *Zhongxuan Sun, Hyunseung Kang and Sunduz Keles*
 
 - Summarizing RNA Structural Ensembles via Maximum Agreement Secondary Structures
-*Xinyu Gu, Stefan Ivanovic, Daniel*
+*Xinyu Gu, Stefan Ivanovic, Daniel Feng and Mohammed El-Kebir*
+
+- CAMP: Coreset Accelerated Metacell Partitioning enables scalable analysis of single-cell data
+*Danrong Li, Young Kun Ko and Stefan Canzar*
+
+- Multi-modal tissue-aware graph neural network for in silico genetic discovery
+*Anusha Aggarwal, Ksenia Sokolova and Olga Troyanskaya*
+
+- CLADES — Contrastive Learning Augmented DifferEntial Splicing with Orthologous Positive Pairs
+*Arghamitra Talukder, Nicholas Keung, Itsik Pe'Er and David A. Knowles*
+
+- MOSAIC: A Spectral Framework for Integrative Phenotypic Characterization Using Population-Level Single-Cell Multi-Omics
+*Chang Lu, Yuval Kluger and Rong Ma*
+
+- GOPHER: Optimization-based Phenotype Randomization for Genome-Wide Association Studies with Differential Privacy
+*Anupama Nandi, Seth Neel and Hyunghoon Cho*
+
+- Identifying Robust Subclonal Structures Through Tumor Progression Tree Alignment
+*Chih Hao Wu, Jacob Gilbert, Salem Malikić and S. Cenk Sahinalp*
+
+- DeltaNMF: A Two-Stage Neural NMF for Differential Gene Program Discovery
+*Anish Karpurapu, Charles Gersbach and Rohit Singh*
+
+- Transforming Biological Foundation Model Representations for Out-of-Distribution Data
+*Aditya Pratapa, Rohit Singh and Purushothama Rao Tata*
+
+- A biobank-scale method for learning environmental modulators of gene–environment interaction underlying complex traits
+*Zhengtong Liu, Arush Ramteke, Aakarsh Anand, Aditya Gorla, Moonseong Jeong and Sriram Sankararaman*
+
+- Integrative Inference of Spatially Informed Cell Lineage Trees using LineageMap
+*Xinhai Pan, Yiru Chen and Xiuwei Zhang*
+
+- Uncertainty-aware synthetic lethality prediction with pretrained foundation models
+*Kailey Hua, Ellie Haber and Jian Ma*
+
+- Evolutionary profile enhancement improves protein function annotation
+*Shitong Dai, Jiaqi Luo and Yunan Luo*
+
+- Faster and Scalable Parallel External-Memory Construction of Colored Compacted de Bruijn Graphs with Cuttlefish 3
+*Jamshed Khan, Laxman Dhulipala, Prashant Pandey and Rob Patro*
+
+- Nullstrap-DE: A General Framework for Calibrating FDR and Preserving Power in Differential Expression Methods, with Applications to DESeq2 and edgeR
+*Chenxin Flora Jiang, Changhu Wang and Jingyi Jessica Li*
+
+- Gene-First Identity Construction for Robust Cell Identification in Single-Cell Transcriptomics
+*Luqi Yang, Zhenwei Huang, Hongyi Xin and Jinpu Cai*
+
+- scDesignPop generates population-scale single-cell RNA-seq data for power analysis, method benchmarking, and privacy protection
+*Chris Dong, Yihui Cen, Dongyuan Song and Jingyi Jessica Li*
+
+- Error Correction Algorithms for Efficient Gene Quantification in Single Cell Transcriptomics
+*Jens Zentgraf, Johanna Schmitz, Andreas Keller and Sven Rahmann*
