@@ -20,8 +20,8 @@ title: Committees
 
 ## Organizing Committee 
 
-#### Co-chairs
- - 
+#### Chair
+ - [{{ site.team.oc_chair }}]({{ site.team.oc_chair_url }}), {{ site.team.oc_chair_institute }}
    
 #### Publicity Chair
  - [{{ site.team.publicity_chair }}]({{ site.team.publicity_chair_url }}), {{ site.team.publicity_chair_institute }}
