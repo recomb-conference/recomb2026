@@ -21,7 +21,7 @@ title: Committees
 ## Organizing Committee 
 
 #### Co-chairs
- - TBA
+ - 
    
 #### Publicity Chair
  - [{{ site.team.publicity_chair }}]({{ site.team.publicity_chair_url }}), {{ site.team.publicity_chair_institute }}
@@ -48,8 +48,7 @@ title: Committees
  - [Kristoffer Sahlin](https://sahlingroup.github.io/), Stockholm University
 
 #### RECOMB-CG
- - TBA	
- - TBA	
+ - [Manuel Lafond](https://mlafond.recherche.usherbrooke.ca)
 
 #### RECOMB-Arch
  - [Yatish Turakhia](https://turakhia.ucsd.edu/), University of California, San Diego 
@@ -63,8 +62,7 @@ title: Committees
  - [Sinem Sav](https://sinemsav.github.io/pages/sinemsav.html), Bilkent University	
 
 #### RECOMB-CCB
- - TBA	
- - TBA	
+ - [Peter Van Loo](https://faculty.mdanderson.org/profiles/peter_vanloo.html)
 
 #### Student Volunteers (alphabetical)
  - TBA
