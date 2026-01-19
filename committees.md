@@ -48,7 +48,7 @@ title: Committees
  - [Kristoffer Sahlin](https://sahlingroup.github.io/), Stockholm University
 
 #### RECOMB-CG
- - [Manuel Lafond](https://mlafond.recherche.usherbrooke.ca)
+ - [Manuel Lafond](https://mlafond.recherche.usherbrooke.ca), Université de Sherbrooke
 
 #### RECOMB-Arch
  - [Yatish Turakhia](https://turakhia.ucsd.edu/), University of California, San Diego 
@@ -62,7 +62,7 @@ title: Committees
  - [Sinem Sav](https://sinemsav.github.io/pages/sinemsav.html), Bilkent University	
 
 #### RECOMB-CCB
- - [Peter Van Loo](https://faculty.mdanderson.org/profiles/peter_vanloo.html)
+ - [Peter Van Loo](https://faculty.mdanderson.org/profiles/peter_vanloo.html), MD Anderson Cancer Center
 
 #### Student Volunteers (alphabetical)
  - TBA
