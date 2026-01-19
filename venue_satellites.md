@@ -5,7 +5,7 @@ title: Venue - Satellites
 
 {%- assign venue_path = "/images/city/venue_satellite_overview.jpg" | relative_url -%}
 
-## RECOMB 2026 Satellites will be held in the [HELEXPO](https://helexpo.gr/en/)
+## RECOMB 2026 Satellites will be held in [HELEXPO](https://helexpo.gr/en/)
 {: style="text-align: center;"}
 
 <img src="{{ venue_path }}" alt="Venue" class="venue-photo">
