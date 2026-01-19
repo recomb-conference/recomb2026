@@ -202,6 +202,10 @@ links:
  
 
 team:
+  oc_chair: "Christos Ouzounis"
+  oc_chair_email: "cao@csd.auth.gr"
+  oc_chair_institute: "Aristotle University of Thessaloniki"
+  oc_chair_url: "https://csd.auth.gr/en/member/ouzounis-christos-2/"
   pc_chair: "Rayan Chikhi"
   pc_chair_email: "rayan.chikhi@pasteur.fr"
   pc_chair_institute: "Institut Pasteur"
