@@ -1,6 +1,7 @@
 ## RECOMB 2026 Accepted Papers
 
 - Quartet-based species tree methods enable fast and consistent tree of blobs reconstruction under the network multispecies coalescent
+
 *Junyan Dai, Yunheng Han and Erin Molloy*
 
 - Fast and Flexible Flow Decompositions in General Graphs via Dominators
