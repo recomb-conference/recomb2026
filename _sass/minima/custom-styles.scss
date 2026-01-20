@@ -14,8 +14,10 @@
 }
 
 .page-header-banner {
-  background-size: cover;
-  background-position: center center;
+  background-size: contain;
+  background-position: left center;
+  background-repeat: no-repeat;
+  background-color: #000;
   padding: calc(var(--header-height) + 40px) 0 70px; // Account for fixed header
   text-align: center;
   color: #fff;
