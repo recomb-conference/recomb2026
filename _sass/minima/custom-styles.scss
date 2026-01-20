@@ -3,8 +3,48 @@
  * Overrides Minima defaults and adds dropdown navigation
  */
 
+/* Global Font Styling (matching deprecated site)
+   ========================================================================== */
+body {
+  font-family: "Lato", sans-serif;
+  line-height: 1.4;
+  -webkit-font-smoothing: antialiased;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+  color: #282555;
+  font-size: 16px;
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-weight: 600;
+}
+
+h2 {
+  font-family: "Merriweather", serif;
+  font-weight: 500;
+}
+
+h3, h4, h5, h6 {
+  font-family: "Lato", sans-serif;
+  font-weight: 600;
+  color: #282555;
+}
+
+a {
+  transition: all .3s ease-in 0s;
+}
+
+a:focus, a:hover {
+  color: #282555;
+  text-decoration: none;
+  outline: 0;
+}
+
 .wrapper {
-  max-width: 1000px; // Minima's default is around 800px. Increase this.
+  max-width: 1200px; // Increase to accommodate full navigation
 }
 
 /* Page Header Banner (for non-home pages)
@@ -105,7 +145,7 @@ body:not(.home-page):not(.page-page) .page-content {
 .home-page .site-header .nav-item-wrapper:hover>.nav-dropdown-toggle,
 .page-page .site-header .nav-item-wrapper:hover>.page-link,
 .page-page .site-header .nav-item-wrapper:hover>.nav-dropdown-toggle {
-  background-color: rgba(255, 255, 255, 0.12);
+  background: none;
   color: #ffffff;
 }
 
@@ -118,8 +158,8 @@ body:not(.home-page):not(.page-page) .page-content {
 .page-page .site-header.is-scrolled {
   background-color: #ffffff;
   border-top: none;
-  border-bottom: 1px solid #dee2e6;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  border-bottom: none;
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.06);
 }
 
 .home-page .site-header.is-scrolled .site-title,
@@ -130,15 +170,15 @@ body:not(.home-page):not(.page-page) .page-content {
 .page-page .site-header.is-scrolled .site-title:visited,
 .page-page .site-header.is-scrolled .nav-item-wrapper>.page-link,
 .page-page .site-header.is-scrolled .nav-item-wrapper>.nav-dropdown-toggle {
-  color: #333;
+  color: #000;
 }
 
 .home-page .site-header.is-scrolled .nav-item-wrapper:hover>.page-link,
 .home-page .site-header.is-scrolled .nav-item-wrapper:hover>.nav-dropdown-toggle,
 .page-page .site-header.is-scrolled .nav-item-wrapper:hover>.page-link,
 .page-page .site-header.is-scrolled .nav-item-wrapper:hover>.nav-dropdown-toggle {
-  background-color: #f5f5f5;
-  color: #0d6efd;
+  background: none;
+  color: #000;
 }
 
 .home-page .site-header.is-scrolled .mobile-nav .menu-icon svg path,
@@ -219,6 +259,9 @@ body:not(.home-page):not(.page-page) .page-content {
   justify-content: space-between; // Pushes logo/title and nav to opposite ends
   align-items: center; // Vertically center items
   width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
 }
 
 /* 2. Desktop Navigation (Visible on large screens)
@@ -242,64 +285,79 @@ body:not(.home-page):not(.page-page) .page-content {
   .nav-item-wrapper {
     float: left; // This makes the menu horizontal
     position: relative; // Required for dropdown positioning
-    margin-left: 10px; // Spacing between items
+    margin-left: 0; // Remove margin, use padding instead
   }
 
   .nav-item-wrapper>.page-link,
   .nav-item-wrapper>.nav-dropdown-toggle {
-    padding: 10px 10px; // Clickable area
+    padding: 20px 20px; // Match deprecated site padding
     display: block;
     text-decoration: none;
     cursor: pointer;
-    border-radius: 5px;
-    font-size: 0.9rem; // Slightly smaller font
+    border-radius: 0;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    line-height: 26px;
+    transition: .2s ease-in-out 0s;
   }
 
   .nav-item-wrapper>.nav-dropdown-toggle::after {
     content: " ▼"; // Add dropdown arrow
-    font-size: 0.7rem;
+    font-size: 0.6rem;
     padding-left: 3px;
   }
 
   /* Dropdown Menu (Hidden by default) */
   .nav-dropdown-menu {
-    display: none; // Hide dropdown by default
+    display: block; // Always rendered, hidden via visibility
+    visibility: hidden;
+    opacity: 0;
     position: absolute;
-    top: 100%; // Position right below the parent item
-    left: 0;
-    background-color: #ffffff; // White background
-    border: 1px solid #e0e0e0;
-    border-radius: 5px;
+    top: 70%; // Position slightly higher for overlap effect
+    left: 5px;
+    background-color: #F7F7F7; // Light gray background like deprecated
+    border: none;
+    border-radius: 0;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     list-style: none;
     padding: 5px 0;
     margin: 0;
-    min-width: 200px; // Give dropdown some width
+    min-width: 220px;
     z-index: 1000;
+    transform: scaleY(0);
+    transform-origin: top;
+    transition: .3s ease;
   }
 
   .nav-dropdown-menu li .page-link {
-    padding: 8px 15px; // Padding for dropdown items
+    padding: 10px 15px; // Padding for dropdown items
     display: block;
     white-space: nowrap; // Keep items on one line
-    font-size: 0.85rem;
-    color: #333; // Darker text for dropdown
+    font-size: 14px;
+    color: #282555; // Dark blue text like deprecated
+    text-transform: none; // Normal case for dropdown items
+    letter-spacing: normal;
+    transition: .2s ease;
   }
 
   /* Hover effects */
   .nav-item-wrapper:hover>.page-link,
   .nav-item-wrapper:hover>.nav-dropdown-toggle {
-    background-color: #f5f5f5; // Light grey on hover
-    color: #0d6efd; // RECOMB blue text on hover
+    background: none;
+    color: inherit; // Keep same color on hover for transparent header
   }
 
   .nav-dropdown-menu li .page-link:hover {
-    background-color: #0d6efd; // RECOMB blue on hover
-    color: #ffffff; // White text
+    color: #D82933; // Red accent color like deprecated
+    background: transparent;
+    padding-left: 17px; // Slight indent on hover
   }
 
   .nav-item-wrapper:hover>.nav-dropdown-menu {
-    display: block; // Show dropdown on hover
+    visibility: visible;
+    opacity: 1;
+    transform: scaleY(1); // Show dropdown on hover with animation
   }
 }
 
