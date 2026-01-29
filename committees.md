@@ -47,6 +47,10 @@ title: Committees
  - [Victoria Popic](https://www.broadinstitute.org/bios/victoria-popic), Broad Institute	
  - [Kristoffer Sahlin](https://sahlingroup.github.io/), Stockholm University
 
+#### RECOMB-RSG
+ - [Ferhat Ay](https://www.lji.org/labs/ay/)
+ - [Aly Azeem Khan](https://home.ttic.edu/~aakhan/)
+
 #### RECOMB-CG
  - [Manuel Lafond](https://mlafond.recherche.usherbrooke.ca), Université de Sherbrooke
 
@@ -56,6 +60,9 @@ title: Committees
 #### RECOMB-Genetics
  - TBA	
  - TBA	
+
+#### RECOMB-HBio
+ - [Christos Ouzounis](https://csd.auth.gr/en/member/ouzounis-christos-2/)
 
 #### RECOMB-Privacy
  - [Hoon Cho](https://medicine.yale.edu/profile/hoon-cho/), Yale University	
