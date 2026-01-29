@@ -48,8 +48,8 @@ title: Committees
  - [Kristoffer Sahlin](https://sahlingroup.github.io/), Stockholm University
 
 #### RECOMB-RSG
- - [Ferhat Ay](https://www.lji.org/labs/ay/)
- - [Aly Azeem Khan](https://home.ttic.edu/~aakhan/)
+ - [Ferhat Ay](https://www.lji.org/labs/ay/), La Jolla Institute
+ - [Aly Azeem Khan](https://home.ttic.edu/~aakhan/), University of Chicago
 
 #### RECOMB-CG
  - [Manuel Lafond](https://mlafond.recherche.usherbrooke.ca), Université de Sherbrooke
@@ -62,7 +62,7 @@ title: Committees
  - TBA	
 
 #### RECOMB-HBio
- - [Christos Ouzounis](https://csd.auth.gr/en/member/ouzounis-christos-2/)
+ - [Christos Ouzounis](https://csd.auth.gr/en/member/ouzounis-christos-2/), Aristotle University of Thessaloniki
 
 #### RECOMB-Privacy
  - [Hoon Cho](https://medicine.yale.edu/profile/hoon-cho/), Yale University	
