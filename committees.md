@@ -25,25 +25,25 @@ page_class: committees-page
 
 ## Organizing Committee
 
-**Chair**
+#### Chair
 
 | [{{ site.team.oc_chair }}]({{ site.team.oc_chair_url }}) | {{ site.team.oc_chair_institute }} |
 
-**Publicity Chair**
+#### Publicity Chair
 
 | [{{ site.team.publicity_chair }}]({{ site.team.publicity_chair_url }}) | {{ site.team.publicity_chair_institute }} |
 
-**Keynotes Chair**
+#### Keynotes Chair
 
 | TBA | TBA |
 
-**Industry Chair**
+#### Industry Chair
 
 | [{{ site.team.industry_chair }}]({{ site.team.industry_chair_url }}) | {{ site.team.industry_chair_institute }} |
 
 ---
 
-## Highlights Chair
+#### Highlights Chair
 
 | [{{ site.team.highlights_chair }}]({{ site.team.highlights_chair_url }}) | {{ site.team.highlights_chair_institute }} |
 
