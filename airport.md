@@ -4,10 +4,12 @@ title: Directions from Airport to City Center
 ---
 
 #### Please note that travel times vary heavily depending on the traffic!
+{: style="text-align: center;"}
 
 ---
 
 ### <span style="color:#9a0c0c;">Thessaloniki Airport "Makedonia" (SKG)</span>
+{: style="text-align: center;"}
 
 <div class="map-wrapper" style="display:flex; justify-content: center; margin: 1.5rem 0;">
     <iframe 
@@ -56,8 +58,7 @@ The **Bus Line 01X** connects the airport directly to the city center.
 | **Duration** | 50 minutes |
 
 **Important:** There are alternative routes to both venues. Please check them before your arrival, as other routes may be more suitable for you.
-
-**More info:** [OASTH Official Website](https://oasth.gr/) (Thessaloniki Urban Transport Organization) | [Bus Tickets](https://oseth.com.gr/en/bus-fare-products)
+**More info:** [OASTH Official Website](https://oasth.gr/) (Thessaloniki Urban Transport Organization), [Bus Tickets](https://oseth.com.gr/en/bus-fare-products)
 
 ---
 
