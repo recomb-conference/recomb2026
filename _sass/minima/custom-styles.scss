@@ -81,13 +81,13 @@ a:focus, a:hover {
   z-index: 1;
 }
 
-.page-header-content h1 {
+.page-header-content h2 {
+  font-family: "Merriweather", sans-serif;
+  font-weight: 500;
+  font-size: 2rem;
   color: #fff !important;
-  font-size: 2.5rem;
-  font-weight: 700;
   margin: 0;
-  text-transform: uppercase;
-  letter-spacing: 2px;
+  letter-spacing: 0;
 }
 
 @media screen and (max-width: 799px) {
@@ -95,8 +95,8 @@ a:focus, a:hover {
     padding: calc(var(--header-height) + 40px) 0 40px;
   }
   
-  .page-header-content h1 {
-    font-size: 1.75rem;
+  .page-header-content h2 {
+    font-size: 1.5rem;
   }
 }
 
