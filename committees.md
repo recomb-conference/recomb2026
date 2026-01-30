@@ -3,79 +3,83 @@ layout: page
 title: Committees
 ---
 
-## Steering Committee
+## Steering Committee  
+| [Vineet Bafna](https://proteomics.ucsd.edu/wp-public-root/about/team/vineet-bafna/) | University of California, San Diego |
+| [Bonnie Berger (chair)](https://people.csail.mit.edu/bab/) | Massachusetts Institute of Technology |
+| [Eleazar Eskin](https://web.cs.ucla.edu/~eeskin/) | University of California, Los Angeles |
+| [Jian Ma](https://www.cs.cmu.edu/~jianma/) | Carnegie Mellon University |
+| [Teresa Przytycka](https://www.ncbi.nlm.nih.gov/CBBresearch/Przytycka/index.cgi#research) | NCBI, NIH |
+| [Cenk Sahinalp](https://ccr.cancer.gov/staff-directory/s-cenk-sahinalp) |	NCI, NIH |
+| [Roded Sharan](https://www.cs.tau.ac.il/~roded/) | Tel Aviv University |
+| [Martin Vingron](https://www.molgen.mpg.de/Martin-Vingron.html) |	Max Planck Institute for Molecular Genetics |
 
-- [Vineet Bafna](https://proteomics.ucsd.edu/wp-public-root/about/team/vineet-bafna/),	University of California, San Diego
-- [Bonnie Berger (chair)](https://people.csail.mit.edu/bab/),	Massachusetts Institute of Technology
-- [Eleazar Eskin](https://web.cs.ucla.edu/~eeskin/),	University of California, Los Angeles
-- [Jian Ma](https://www.cs.cmu.edu/~jianma/),	Carnegie Mellon University
-- [Teresa Przytycka](https://www.ncbi.nlm.nih.gov/CBBresearch/Przytycka/index.cgi#research),	NCBI, NIH
-- [Cenk Sahinalp](https://ccr.cancer.gov/staff-directory/s-cenk-sahinalp),	NCI, NIH
-- [Roded Sharan](https://www.cs.tau.ac.il/~roded/),	Tel Aviv University
-- [Martin Vingron](https://www.molgen.mpg.de/Martin-Vingron.html),	Max Planck Institute for Molecular Genetics
+---
 
-## Program Chair
+## Program Chair  
+| [{{ site.team.pc_chair }}]({{ site.team.pc_chair_url }}) | {{ site.team.pc_chair_institute }} |
 
- - [{{ site.team.pc_chair }}]({{ site.team.pc_chair_url }}), {{ site.team.pc_chair_institute }}
+---
 
-## Organizing Committee 
+## Organizing Committee  
+**Chair**  
+| [{{ site.team.oc_chair }}]({{ site.team.oc_chair_url }}) | {{ site.team.oc_chair_institute }} |
+**Publicity Chair**  
+| [{{ site.team.publicity_chair }}]({{ site.team.publicity_chair_url }}) | {{ site.team.publicity_chair_institute }} |
+**Keynotes Chair**  
+| TBA | TBA |
+**Industry Chair**  
+| [{{ site.team.industry_chair }}]({{ site.team.industry_chair_url }}) | {{ site.team.industry_chair_institute }} |
 
-#### Chair
- - [{{ site.team.oc_chair }}]({{ site.team.oc_chair_url }}), {{ site.team.oc_chair_institute }}
-   
-#### Publicity Chair
- - [{{ site.team.publicity_chair }}]({{ site.team.publicity_chair_url }}), {{ site.team.publicity_chair_institute }}
+---
 
-#### Keynotes Chair
+## Highlights Chair  
+| [{{ site.team.highlights_chair }}]({{ site.team.highlights_chair_url }}) | {{ site.team.highlights_chair_institute }} |	
+
+---
+
+## Posters Chair  
  - TBA
 
-#### Industry Chair
- - [{{ site.team.industry_chair }}]({{ site.team.industry_chair_url }}), {{ site.team.industry_chair_institute }}
+---
 
-## Highlights Chair
- - [{{ site.team.highlights_chair }}]({{ site.team.highlights_chair_url }}), {{ site.team.highlights_chair_institute }}	
+## Travel Fellowships Chair  
+| [{{ site.team.travel_fellowship_chair }}]({{ site.team.travel_fellowship_chair_url }}) | {{ site.team.travel_fellowship_chair_institute }} |	
 
-## Posters Chair
- - TBA
+---
 
-## Travel Fellowships Chair   
- - [{{ site.team.travel_fellowship_chair }}]({{ site.team.travel_fellowship_chair_url }}), {{ site.team.travel_fellowship_chair_institute }}	
+## Satellite Chairs  
+#### RECOMB-Seq  
+| [Victoria Popic](https://www.broadinstitute.org/bios/victoria-popic) | Broad Institute |
+| [Kristoffer Sahlin](https://sahlingroup.github.io/) | Stockholm University |
 
-## Satellite Chairs
+#### RECOMB-RSG  
+| [Ferhat Ay](https://www.lji.org/labs/ay/) | La Jolla Institute |
+| [Aly Azeem Khan](https://home.ttic.edu/~aakhan/) | University of Chicago |
 
-#### RECOMB-Seq
- - [Victoria Popic](https://www.broadinstitute.org/bios/victoria-popic), Broad Institute	
- - [Kristoffer Sahlin](https://sahlingroup.github.io/), Stockholm University
+#### RECOMB-CG  
+| [Manuel Lafond](https://mlafond.recherche.usherbrooke.ca) | Université de Sherbrooke |
 
-#### RECOMB-RSG
- - [Ferhat Ay](https://www.lji.org/labs/ay/), La Jolla Institute
- - [Aly Azeem Khan](https://home.ttic.edu/~aakhan/), University of Chicago
+#### RECOMB-Arch  
+| [Yatish Turakhia](https://turakhia.ucsd.edu/) | University of California, San Diego | 
 
-#### RECOMB-CG
- - [Manuel Lafond](https://mlafond.recherche.usherbrooke.ca), Université de Sherbrooke
+#### RECOMB-Genetics  
+| TBA |	
+| TBA |	
 
-#### RECOMB-Arch
- - [Yatish Turakhia](https://turakhia.ucsd.edu/), University of California, San Diego 
+#### RECOMB-HBio  
+| [Christos Ouzounis](https://csd.auth.gr/en/member/ouzounis-christos-2/) | Aristotle University of Thessaloniki |
 
-#### RECOMB-Genetics
- - TBA	
- - TBA	
+#### RECOMB-Privacy  
+| [Hoon Cho](https://medicine.yale.edu/profile/hoon-cho/) | Yale University	|
+| [Sinem Sav](https://sinemsav.github.io/pages/sinemsav.html) | Bilkent University |
 
-#### RECOMB-HBio
- - [Christos Ouzounis](https://csd.auth.gr/en/member/ouzounis-christos-2/), Aristotle University of Thessaloniki
+#### RECOMB-CCB  
+| [Peter Van Loo](https://faculty.mdanderson.org/profiles/peter_vanloo.html) | MD Anderson Cancer Center |
 
-#### RECOMB-Privacy
- - [Hoon Cho](https://medicine.yale.edu/profile/hoon-cho/), Yale University	
- - [Sinem Sav](https://sinemsav.github.io/pages/sinemsav.html), Bilkent University	
+#### Student Volunteers (alphabetical)  
+| TBA |
 
-#### RECOMB-CCB
- - [Peter Van Loo](https://faculty.mdanderson.org/profiles/peter_vanloo.html), MD Anderson Cancer Center
-
-#### Student Volunteers (alphabetical)
- - TBA
-
-### Program Committee
-
+### Program Committee  
 | A. Ercument Cicek | Bilkent University |
 | Alexander Schoenhuth | Bielefeld University |
 | Alexandru I. Tomescu | University of Helsinki |
