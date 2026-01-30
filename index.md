@@ -3,9 +3,7 @@ layout: home
 title: RECOMB 2026
 ---
 
-<center>
-<h2>About {{ site.title }}</h2> 
-</center>
+## About {{ site.title }}
 
 ### {{ site.iteration }} Annual International Conference on Research in Computational Molecular Biology
 
