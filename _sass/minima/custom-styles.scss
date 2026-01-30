@@ -776,3 +776,25 @@ body.mobile-nav-open {
   }
 
 }
+
+/* Committees Page - Compact Tables with Aligned Columns
+   ========================================================================== */
+.committees-page .post-content table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+.committees-page .post-content td {
+  padding: 2px 8px;
+  vertical-align: top;
+  line-height: 1.3;
+}
+
+.committees-page .post-content td:first-child {
+  width: 45%;
+}
+
+.committees-page .post-content td:last-child {
+  width: 55%;
+}

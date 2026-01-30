@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Committees
+page_class: committees-page
 ---
 
 ## Steering Committee
