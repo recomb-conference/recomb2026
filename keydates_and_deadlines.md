@@ -12,10 +12,14 @@ title: Key Dates and Deadlines
 
 **Note**: All papers MUST BE submitted, at least in abstract form by the abstract submission deadline. No new submissions will be allowed after this date. **Only those that have submitted by the abstract submission deadline will have the chance to update their submissions until the full paper submission deadline**.
 
+---
+
 ## Highlights
 
 - **Submission deadline**: {{ site.deadlines.highlights_submission }}
 - **Author notification**: {{ site.deadlines.highlights_notification }}
+
+---
 
 ## Posters
 
@@ -24,19 +28,27 @@ title: Key Dates and Deadlines
 - **Late poster submission deadline (pending capacity)**: {{ site.deadlines.late_poster_submission }}
 - **Late poster author notification**: {{ site.deadlines.late_poster_notification }}
 
+---
+
 ## Travel Fellowships
 
 - **Application deadline**: {{ site.deadlines.travel_fellow_application }}
 - **Notification**: {{ site.deadlines.travel_fellow_notification }}
+
+---
 
 ## Registration
 
 - **Early Bird Registration deadline**: {{ site.deadlines.early_registration }}
 - **Late Registration**: {{ site.deadlines.late_registration }}
 
+---
+
 ## Conference
 
 - **Conference**: {{ site.deadlines.conference_dates }}
+
+---
 
 ## Satellites
 
@@ -48,4 +60,3 @@ title: Key Dates and Deadlines
 - **RECOMB-P&E**: {{ site.deadlines.satellite_priv }}
 - **RECOMB-RSG**: {{ site.deadlines.satellite_rsg }}
 - **RECOMB-HBio**: {{ site.deadlines.satellite_hbio }}
-
