@@ -58,6 +58,7 @@ The **Bus Line 01X** connects the airport directly to the city center.
 | **Duration** | 50 minutes |
 
 **Important:** There are alternative routes to both venues. Please check them before your arrival, as other routes may be more suitable for you.
+
 **More info:** [OASTH Official Website](https://oasth.gr/) (Thessaloniki Urban Transport Organization), [Bus Tickets](https://oseth.com.gr/en/bus-fare-products)
 
 ---
