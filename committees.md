@@ -142,8 +142,6 @@ title: Committees
 
 ### Program Committee
 
-|   |   |
-|---|---|
 | A. Ercument Cicek | Bilkent University |
 | Alexander Schoenhuth | Bielefeld University |
 | Alexandru I. Tomescu | University of Helsinki |
