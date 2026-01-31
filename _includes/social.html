@@ -2,7 +2,11 @@
 {%- for entry in site.social_links -%}
   <li>
     <a rel="me" href="{{ entry.url }}" target="_blank" title="{{ entry.title }}">
+      {%- if entry.icon == "envelope" or entry.icon == "inbox" -%}
+      <span class="grey fa-solid fa-envelope fa-lg"></span>
+      {%- else -%}
       <span class="grey fa-brands fa-{{ entry.icon }} fa-lg"></span>
+      {%- endif -%}
     </a>
   </li>
 {%- endfor -%}

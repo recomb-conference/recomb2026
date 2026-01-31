@@ -69,7 +69,7 @@ minima:
 #       * url      Full URL of social profile.
 social_links:
     - title: Email 
-      icon: inbox
+      icon: envelope
       url: "mailto:info@recombconf.org"
     - title: RECOMB at X 
       icon: x-twitter
