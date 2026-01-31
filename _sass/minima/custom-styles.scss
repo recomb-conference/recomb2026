@@ -190,10 +190,10 @@ body:not(.home-page):not(.page-page) .page-content {
 
 .recomb-logo {
   height: auto;
-  width: 150px; // Set a fixed width for the logo
+  width: 120px; // Set a fixed width for the logo
   margin-top: 5px; // Adjust vertical alignment
   margin-bottom: 5px; // Add bottom margin to prevent touching border
-  margin-right: 20px;
+  margin-right: 10px;
 }
 
 /* Mobile: increase header padding for better spacing */
@@ -203,7 +203,7 @@ body:not(.home-page):not(.page-page) .page-content {
   }
   
   .recomb-logo {
-    width: 120px; // Slightly smaller logo on mobile
+    width: 100px; // Slightly smaller logo on mobile
     margin-bottom: 8px; // More bottom margin on mobile
   }
 }
