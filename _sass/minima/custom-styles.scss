@@ -57,6 +57,11 @@ a:focus, a:hover {
   padding-top: 0; // Banner handles the spacing
 }
 
+/* Add spacing between banner and page content */
+.page-page article.post {
+  padding-top: 40px;
+}
+
 .page-header-banner {
   background-size: contain;
   background-position: left center;
