@@ -5,6 +5,10 @@
 
 /* Global Font Styling (matching deprecated site)
    ========================================================================== */
+html, body {
+  overflow-x: hidden; // Prevent horizontal scrolling caused by 100vw elements
+}
+
 body {
   font-family: "Lato", sans-serif;
   line-height: 1.4;
