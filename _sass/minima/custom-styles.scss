@@ -293,6 +293,7 @@ body:not(.home-page):not(.page-page) .page-content {
   .nav-item-wrapper>.page-link,
   .nav-item-wrapper>.nav-dropdown-toggle {
     padding: 20px 20px; // Match deprecated site padding
+    padding-top: 30px; // Extra top padding for header elements
     display: block;
     text-decoration: none;
     cursor: pointer;
