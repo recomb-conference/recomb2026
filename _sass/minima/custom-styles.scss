@@ -259,7 +259,7 @@ body:not(.home-page):not(.page-page) .page-content {
 .site-nav-wrapper {
   display: flex;
   justify-content: space-between; // Pushes logo/title and nav to opposite ends
-  align-items: center; // Vertically center items
+  align-items: flex-start; // Align items to top so padding offsets work
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
