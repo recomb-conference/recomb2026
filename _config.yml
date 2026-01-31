@@ -100,9 +100,6 @@ main_navigation:
         url: /call_for_abstracts
       - title: Call for Highlights
         url: /call_for_highlights
-      - title: About RECOMB
-        url: https://recomb.org/
-        external: true
   - title: Register
     children:
       - title: RECOMB and Satellites
@@ -163,6 +160,9 @@ main_navigation:
         url: /sponsors
       - title: Sponsorship Packages
         url: /sponsorship_packages
+  - title: About RECOMB
+    url: https://recomb.org/
+    external: true
 
 #  Moved this to the Conference tab
 #  - title: About RECOMB
