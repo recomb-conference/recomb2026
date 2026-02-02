@@ -7,7 +7,7 @@ title: Travel Fellowships
 
 It brings us great joy to announce that RECOMB is once again extending invitations for student travel fellowships this year. These prestigious fellowships are selectively awarded to students who have co-authored accepted papers, offering a generous sum to defray the expenses associated with attending RECOMB, including registration, travel, and lodging.
 
-Please review the frequently asked questions about travel fellowships before you apply.
+Please review the frequently asked questions about travel fellowships before you apply. 
 
 ## FAQ
 
