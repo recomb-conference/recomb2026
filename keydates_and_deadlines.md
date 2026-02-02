@@ -5,8 +5,8 @@ title: Key Dates and Deadlines
 
 ## Proceedings
 
-- **Abstract submission deadline**: 11:59 PM {{ site.deadlines.abstract_submission }}
-- **Full paper submission deadline**: 11:59 PM {{ site.deadlines.paper_submission }} (updates to existing submissions only)
+- **Abstract submission deadline**: {{ site.deadlines.abstract_submission }}
+- **Full paper submission deadline**: {{ site.deadlines.paper_submission }} (updates to existing submissions only)
 - **Author notification**: {{ site.deadlines.author_notification }}
 - **Final versions due (accepted papers only)**: {{ site.deadlines.final_version }}
 
