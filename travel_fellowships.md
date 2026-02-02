@@ -34,6 +34,6 @@ Q. "How will I receive my funds?"
 
 ---
 
-**RECOMB 2026 Travel Fellowships applications are now open! Please fill out the google form [here]([here](https://forms.gle/4DQtEPo1cdAoLabc6)) to apply for a travel fellowship.**
+**RECOMB 2026 Travel Fellowships applications are now open! Please fill out the google form [here](https://forms.gle/4DQtEPo1cdAoLabc6) to apply for a travel fellowship.**
 
 Applications will be open until **2 March 2026, 23:59 AoE**, and the recipients will be informed of their awards by the end of March, 2026. For further questions, please contact the Travel Fellowships Chair [{{ site.team.travel_fellowship_chair }}](mailto:{{ site.team.travel_fellowship_chair_email }}).
