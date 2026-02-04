@@ -23,6 +23,8 @@ Please note that the gala dinner is **not included in the Postdoc and Student re
 
 **The Early Registration Deadline is 15 April 2026. After this deadline, all prices will be increased by 20%.**
 
+---
+
 <div style="text-align: center; margin-top: 2rem;">
   <a href="https://recomb.org/recomb2026/register"
      style="
@@ -102,6 +104,8 @@ For more information about membership options, please visit the [International S
 **Late Online Registration Deadline:** 22 May 2026, 23:59 (AoE)
 
 *Please note that wire transfer payments will only be accepted until 10 May 2026. Credit card payments will remain available after this date.*
+
+---
 
 <div style="text-align: center; margin-top: 2rem;">
   <a href="https://recomb.org/recomb2026/register"
