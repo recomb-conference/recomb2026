@@ -9,6 +9,8 @@ It brings us great joy to announce that RECOMB is once again extending invitatio
 
 Please review the frequently asked questions about travel fellowships before you apply. 
 
+---
+
 ## FAQ
 
 Q. "I have a poster presentation. Can I apply for a travel award?"
