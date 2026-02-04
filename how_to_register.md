@@ -11,7 +11,7 @@ For more information or general inquiries, please visit the conference website o
 
 ---
 
-The registration fees for RECOMB 2026 cover access to all sessions and panels for the respective conference, gala dinner (Academic & Industry), lunch on all conference days, refreshments during coffee breaks and poster sessions. The fees are in EUR.
+The registration fees for RECOMB 2026 cover access to all sessions and panels for the respective conference, gala dinner (Academic & Industry), lunch on all conference days, and refreshments during coffee breaks and poster sessions. The fees are in EUR.
 
 Satellite registrants may attend any satellite session of their choice. However, we request that attendees indicate their preferred main satellite on the registration form, which will assist us in assigning an appropriately sized conference room for each satellite event.
 
