@@ -9,7 +9,7 @@ Please complete your registration using the secure form below.
 
 <p class="text-muted">
   If you experience any issues with registration or payment,
-  <a href="https://REGISTRATION_URL" target="_blank">open registration in a new tab</a>.
+  <a href="https://transition.iscb.org/cms_addon/registration_conference/recomb2026" target="_blank">open registration in a new tab</a>.
 </p>
 
 
