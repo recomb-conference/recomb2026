@@ -50,9 +50,11 @@ Refunds will be processed in the same currency and using the same payment method
 * Lunch on all satellite meeting days
 * Refreshments during coffee breaks and poster sessions
 
+---
+
 #### Registration Fees
 
-Below are the registration rates. Please note that **members of ISCB and Hellenic Bioinformatics receive a 15% discount**. ISCB membership can be added during the RECOMB 2026 registration process. 
+Below are the early registration rates for RECOMB 2026 and the Satellite Meetings. Please note that **members of ISCB and Hellenic Bioinformatics receive a 15% discount**. ISCB membership can be added during the RECOMB 2026 registration process. 
 
 For more information about membership options, please visit the [International Society for Computational Biology](https://www.iscb.org/membership-details) or [Hellenic Bioinformatics](https://hscbio.wordpress.com/contact-where/) websites.
 
