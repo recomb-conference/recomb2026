@@ -3,7 +3,7 @@ layout: page
 title: How To Register
 ---
 
-## How to Register 
+## Registration Details
 
 Registration for RECOMB 2026 and the Satellite Meetings will be conducted through our website. Payment may be made via credit card or bank transfer. Your registration will be considered complete only once the payment is successfully processed and you have received a confirmation email.
 
