@@ -35,7 +35,7 @@ Please note that the gala dinner is **not included in the Postdoc and Student re
        text-decoration: none;
        border-radius: 6px;
      ">
-    Register Now
+    Registration for RECOMB 2026 is open. Click here to register now!
   </a>
 </div>
 
@@ -43,9 +43,9 @@ Please note that the gala dinner is **not included in the Postdoc and Student re
 
 Registrants may log into their account to change or update their registration details. **For cancellations or modifications to the chosen ticket type**, please contact us at [admin@iscb.org](mailto:{info@recombconf.org).
 
-All cancellation requests must be submitted in writing via email to the RECOMB 2026 Registration Management at [admin@iscb.org](mailto:{info@recombconf.org). **Cancellations received by 23:59 (AoE) on 6 May 2026** will be eligible for a refund, **minus a $50 processing fee.**
+All cancellation requests must be submitted in writing via email to the RECOMB 2026 Registration Management at [admin@iscb.org](mailto:{info@recombconf.org). **Cancellations received by 6 May 2026, 23:59 (AoE)** will be eligible for a refund, **minus a $50 processing fee.**
 
-**No refunds will be issued for cancellations received after 23:59 (AoE) on 6 May 2026.** Refunds will also not be provided for unused portions of the registration.
+**No refunds will be issued for cancellations received after 6 May 2026, 23:59 (AoE).** Refunds will also not be provided for unused portions of the registration.
 
 Refunds will be processed in the same currency and using the same payment method as the original transaction. Credit card refunds will be returned to the card used for payment. Refunds for wire transfers will be sent back to the originating bank account and will be processed after the conclusion of RECOMB 2026.
 
@@ -97,9 +97,9 @@ For more information about membership options, please visit the [International S
 
 ---
 
-**Early Online Registration Deadline:** 23:59 (AoE) on 15 April 2026
+**Early Online Registration Deadline:** 15 April 2026, 23:59 (AoE)
 
-**Late Online Registration Deadline:** 23:59 (AoE) on 22 May 2026
+**Late Online Registration Deadline:** 22 May 2026, 23:59 (AoE)
 
 *Please note that wire transfer payments will only be accepted until 10 May 2026. Credit card payments will remain available after this date.*
 
@@ -115,6 +115,6 @@ For more information about membership options, please visit the [International S
        text-decoration: none;
        border-radius: 6px;
      ">
-    Register Now
+    Registration for RECOMB 2026 is open. Click here to register now!
   </a>
 </div>
