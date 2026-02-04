@@ -23,6 +23,22 @@ Please note that the gala dinner is **not included in the Postdoc and Student re
 
 **The Early Registration Deadline is 15 April 2026. After this deadline, all prices will be increased by 20%.**
 
+<div style="text-align: center; margin-top: 2rem;">
+  <a href="https://recomb.org/recomb2026/register"
+     style="
+       display: inline-block;
+       padding: 12px 28px;
+       font-size: 16px;
+       font-weight: 600;
+       color: #ffffff;
+       background-color: #1f4fd8;
+       text-decoration: none;
+       border-radius: 6px;
+     ">
+    Register Now
+  </a>
+</div>
+
 ---
 
 Registrants may log into their account to change or update their registration details. **For cancellations or modifications to the chosen ticket type**, please contact us at [admin@iscb.org](mailto:{info@recombconf.org).
@@ -86,3 +102,19 @@ For more information about membership options, please visit the [International S
 **Late Online Registration Deadline:** 23:59 (AoE) on 22 May 2026
 
 *Please note that wire transfer payments will only be accepted until 10 May 2026. Credit card payments will remain available after this date.*
+
+<div style="text-align: center; margin-top: 2rem;">
+  <a href="https://recomb.org/recomb2026/register"
+     style="
+       display: inline-block;
+       padding: 12px 28px;
+       font-size: 16px;
+       font-weight: 600;
+       color: #ffffff;
+       background-color: #1f4fd8;
+       text-decoration: none;
+       border-radius: 6px;
+     ">
+    Register Now
+  </a>
+</div>
