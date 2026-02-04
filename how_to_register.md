@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How To Register
+title: Registration Details
 ---
 
 ## Registration Details
