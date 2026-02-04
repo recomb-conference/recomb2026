@@ -81,8 +81,8 @@ For more information about membership options, please visit the [International S
 
 ---
 
-**Early Online Registration Deadline:** 23:59 (AoE) on April 15, 2026
+**Early Online Registration Deadline:** 23:59 (AoE) on 15 April 15 2026
 
-**Late Online Registration Deadline:** 23:59 (AoE) on May 22, 2026
+**Late Online Registration Deadline:** 23:59 (AoE) on 22 May 22 2026
 
 *Please note that wire transfer payments will only be accepted until 10 May 2026. Credit card payments will remain available after this date.*
