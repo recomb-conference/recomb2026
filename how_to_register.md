@@ -35,7 +35,8 @@ Please note that the gala dinner is **not included in the Postdoc and Student re
        text-decoration: none;
        border-radius: 6px;
      ">
-    Registration for RECOMB 2026 is open. Click here to register now!
+    Registration for RECOMB 2026 is now open.
+    Click here to register!
   </a>
 </div>
 
@@ -115,6 +116,6 @@ For more information about membership options, please visit the [International S
        text-decoration: none;
        border-radius: 6px;
      ">
-    Registration for RECOMB 2026 is open. Click here to register now!
+    Registration for RECOMB 2026 is now open. <br> Click here to register!
   </a>
 </div>
