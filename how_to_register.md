@@ -19,8 +19,6 @@ Please note that the gala dinner is **not included in the Postdoc and Student re
 
 *On-site registration may be available, subject to remaining capacity at the time of the conference.*
 
----
-
 **The Early Registration Deadline is 15 April 2026. After this deadline, all prices will be increased by 20%.**
 
 ---
