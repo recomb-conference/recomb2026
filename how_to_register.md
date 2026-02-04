@@ -11,7 +11,7 @@ For more information or general inquiries, please visit the conference website o
 
 ---
 
-The registration fees for RECOMB 2026 cover attendance at all talks and panels for the respective conference, gala dinner (Academic & Industry), lunch on all conference days, refreshments during coffee breaks and poster sessions. The fees are in EUR.
+The registration fees for RECOMB 2026 cover access to all sessions and panels for the respective conference, gala dinner (Academic & Industry), lunch on all conference days, refreshments during coffee breaks and poster sessions. The fees are in EUR.
 
 Satellite registrants may attend any satellite session of their choice. However, we request that attendees indicate their preferred main satellite on the registration form, which will assist us in assigning an appropriately sized conference room for each satellite event.
 
@@ -37,31 +37,28 @@ Refunds will be processed in the same currency and using the same payment method
 
 ---
 
-#### What's included
+#### What Is Included
 
 **RECOMB 2026:**
 * Access to all sessions of RECOMB 2026 and relevant materials
-* Gala dinner (Academic and Industry ticket types)
-* Lunch on all conference days
+* Gala dinner (included for **Academic** and **Industry** registration categories)
+* Lunch on all main conference days
 * Refreshments during coffee breaks and poster sessions
 
 **Satellite Meetings:**
 * Access to all sessions of the RECOMB 2026 Satellite Meetings and relevant materials
-* Lunch on all conference days
+* Lunch on all satellite meeting days
 * Refreshments during coffee breaks and poster sessions
 
 #### Registration Fees
 
-Below are the registration rates, organized by registration type and registration period. Please note that members of **ISCB and Hellenic Bioinformatics receive a 15% discount**. ISCB membership can be added during the RECOMB 2026 registration process. 
+Below are the registration rates. Please note that **members of ISCB and Hellenic Bioinformatics receive a 15% discount**. ISCB membership can be added during the RECOMB 2026 registration process. 
 
 For more information about membership options, please visit the [International Society for Computational Biology](https://www.iscb.org/membership-details) or [Hellenic Bioinformatics](https://hscbio.wordpress.com/contact-where/) websites.
-
----
 
 **Early Registration Fees:**
 
 ***Members***
-
 | Ticket Type | RECOMB Only | Satellites Only | RECOMB and Satellites |
 | ----------- | ----------: | --------------: | --------------------: |
 | Student     |     €272.00 |         €187.00 |               €357.00 |
@@ -69,9 +66,7 @@ For more information about membership options, please visit the [International S
 | Academic    |     €595.00 |         €340.00 |               €765.00 |
 | Industry    |     €765.00 |         €442.00 |               €892.50 |
 
-
 ***Non-members***
-
 | Ticket Type | RECOMB Only | Satellites Only | RECOMB and Satellites |
 | ----------- | ----------: | --------------: | --------------------: |
 | Student     |     €320.00 |         €220.00 |               €420.00 |
@@ -81,8 +76,8 @@ For more information about membership options, please visit the [International S
 
 ---
 
-**Early Online Registration Deadline:** 23:59 (AoE) on 15 April 15 2026
+**Early Online Registration Deadline:** 23:59 (AoE) on 15 April 2026
 
-**Late Online Registration Deadline:** 23:59 (AoE) on 22 May 22 2026
+**Late Online Registration Deadline:** 23:59 (AoE) on 22 May 2026
 
 *Please note that wire transfer payments will only be accepted until 10 May 2026. Credit card payments will remain available after this date.*
