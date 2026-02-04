@@ -47,13 +47,9 @@ page_class: committees-page
 
 | [{{ site.team.highlights_chair }}]({{ site.team.highlights_chair_url }}) | {{ site.team.highlights_chair_institute }} |
 
----
-
 ## Posters Chair
 
 - TBA
-
----
 
 ## Travel Fellowships Chair
 
