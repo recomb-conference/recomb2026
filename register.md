@@ -14,7 +14,7 @@ Please complete your registration using the secure form below.
 
 <br>
 
-<div class="container-fluid">
+<div style="max-width: 1200px; margin: 0 auto;">
 <iframe
   src="https://transition.iscb.org/cms_addon/registration_conference/recomb2026" 
   title="RECOMB 2026 Registration"
@@ -22,7 +22,6 @@ Please complete your registration using the secure form below.
     width: 100%;
     min-height: 1400px;
     border: none;
-    overflow: hidden;
   ">
 </iframe>
 </div>
