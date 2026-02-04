@@ -33,7 +33,7 @@ Please note that the gala dinner is **not included in the Postdoc and Student re
        font-size: 16px;
        font-weight: 600;
        color: #ffffff;
-       background-color: #1f4fd8;
+       background-color: #000000;
        text-decoration: none;
        border-radius: 6px;
      ">
@@ -115,7 +115,7 @@ For more information about membership options, please visit the [International S
        font-size: 16px;
        font-weight: 600;
        color: #ffffff;
-       background-color: #1f4fd8;
+       background-color: #000000;
        text-decoration: none;
        border-radius: 6px;
      ">
