@@ -27,7 +27,7 @@ Please note that the gala dinner is **not included in the Postdoc and Student re
 
 Registrants may log into their account to change or update their registration details. **For cancellations or modifications to the chosen ticket type**, please contact us at [admin@iscb.org](mailto:{info@recombconf.org).
 
-All cancellation requests must be submitted in writing via email to the RECOMB 2026 Registration Management [admin@iscb.org](mailto:{info@recombconf.org). **Cancellations received by 23:59 (AoE) on 6 May 2026** will be eligible for a refund, **minus a $50 processing fee.**
+All cancellation requests must be submitted in writing via email to the RECOMB 2026 Registration Management at [admin@iscb.org](mailto:{info@recombconf.org). **Cancellations received by 23:59 (AoE) on 6 May 2026** will be eligible for a refund, **minus a $50 processing fee.**
 
 **No refunds will be issued for cancellations received after 23:59 (AoE) on 6 May 2026.** Refunds will also not be provided for unused portions of the registration.
 
@@ -39,13 +39,13 @@ Refunds will be processed in the same currency and using the same payment method
 
 #### What's included
 
-**RECOMB:**
+**RECOMB 2026:**
 * Access to all sessions of RECOMB 2026 and relevant materials
 * Gala dinner (Academic and Industry ticket types)
 * Lunch on all conference days
 * Refreshments during coffee breaks and poster sessions
 
-**Satellites:**
+**Satellite Meetings:**
 * Access to all sessions of the RECOMB 2026 Satellite Meetings and relevant materials
 * Lunch on all conference days
 * Refreshments during coffee breaks and poster sessions
@@ -61,24 +61,28 @@ For more information about membership options, please visit the [International S
 **Early Registration Fees:**
 
 ***Members***
+
 | Ticket Type | RECOMB Only | Satellites Only | RECOMB and Satellites |
-| ----------- | ----------- | --------------- | --------------------- |
-| Student     | €272.00     | €187.00         | €357.00               |
-| Postdoc     | €357.00     | €255.00         | €510.00               |
-| Academic    | €595.00     | €340.00         | €765.00               |
-| Industry    | €765.00     | €442.00         | €892.50               |
+| ----------- | ----------: | --------------: | --------------------: |
+| Student     |     €272.00 |         €187.00 |               €357.00 |
+| Postdoc     |     €357.00 |         €255.00 |               €510.00 |
+| Academic    |     €595.00 |         €340.00 |               €765.00 |
+| Industry    |     €765.00 |         €442.00 |               €892.50 |
+
 
 ***Non-members***
+
 | Ticket Type | RECOMB Only | Satellites Only | RECOMB and Satellites |
-| ----------- | ----------- | --------------- | --------------------- |
-| Student     | €320.00     | €220.00         | €420.00               |
-| Postdoc     | €420.00     | €300.00         | €600.00               |
-| Academic    | €700.00     | €400.00         | €900.00               |
-| Industry    | €900.00     | €520.00         | €1,050.00             |
+| ----------- | ----------: | --------------: | --------------------: |
+| Student     |     €320.00 |         €220.00 |               €420.00 |
+| Postdoc     |     €420.00 |         €300.00 |               €600.00 |
+| Academic    |     €700.00 |         €400.00 |               €900.00 |
+| Industry    |     €900.00 |         €520.00 |             €1,050.00 |
 
 ---
 
 **Early Online Registration Deadline:** 23:59 (AoE) on April 15, 2026
+
 **Late Online Registration Deadline:** 23:59 (AoE) on May 22, 2026
 
 *Please note that wire transfer payments will only be accepted until 10 May 2026. Credit card payments will remain available after this date.*
