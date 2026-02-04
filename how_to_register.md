@@ -17,8 +17,6 @@ Satellite registrants may attend any satellite session of their choice. However,
 
 Please note that the gala dinner is **not included in the Postdoc and Student registration fees;** however, **tickets for the gala dinner may be purchased separately at €130 per ticket.**
 
-*On-site registration may be available, subject to remaining capacity at the time of the conference.*
-
 **The Early Registration Deadline is 15 April 2026. After this deadline, all prices will be increased by 20%.**
 
 ---
@@ -102,6 +100,8 @@ For more information about membership options, please visit the [International S
 **Late Online Registration Deadline:** 22 May 2026, 23:59 (AoE)
 
 *Please note that wire transfer payments will only be accepted until 10 May 2026. Credit card payments will remain available after this date.*
+
+*On-site registration may be available, subject to remaining capacity at the time of the conference.*
 
 ---
 
