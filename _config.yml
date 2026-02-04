@@ -103,7 +103,7 @@ main_navigation:
   - title: Register
     children:
       - title: RECOMB and Satellites
-        url: /register
+        url: /how_to_register
       - title: Travel Fellowships
         url: /travel_fellowships
   - title: Program
