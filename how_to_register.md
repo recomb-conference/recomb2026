@@ -59,6 +59,7 @@ For more information about membership options, please visit the [International S
 **Early Registration Fees:**
 
 ***Members***
+
 | Ticket Type | RECOMB Only | Satellites Only | RECOMB and Satellites |
 | ----------- | ----------: | --------------: | --------------------: |
 | Student     |     €272.00 |         €187.00 |               €357.00 |
@@ -66,7 +67,9 @@ For more information about membership options, please visit the [International S
 | Academic    |     €595.00 |         €340.00 |               €765.00 |
 | Industry    |     €765.00 |         €442.00 |               €892.50 |
 
+
 ***Non-members***
+
 | Ticket Type | RECOMB Only | Satellites Only | RECOMB and Satellites |
 | ----------- | ----------: | --------------: | --------------------: |
 | Student     |     €320.00 |         €220.00 |               €420.00 |
