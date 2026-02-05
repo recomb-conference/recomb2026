@@ -12,10 +12,7 @@ The 14th RECOMB-Genetics conference is co-located with RECOMB 2026 in Thessaloni
 
 ## Organizers
 
-| [Francesco Paolo Casale](https://www.helmholtz-munich.de/en/helmholtz-pioneer-campus/francesco-paolo-casale) | Helmholtz Munich |
-| [Maria Chikina](https://www.csb.pitt.edu/faculty/maria-chikina-phd/) | University of Pittsburgh |
-| [Sriram Sankararaman](https://web.cs.ucla.edu/~sriram/) | University of California, Los Angeles |
-| [Na Cai](https://bsse.ethz.ch/people/detail-person.MzU1OTYw.TGlzdC8yNjY5LC0xMDExNjczNjI=.html) | ETH Zürich |
+| [Francesco Paolo Casale](https://www.helmholtz-munich.de/en/helmholtz-pioneer-campus/francesco-paolo-casale) | Helmholtz Munich || [Maria Chikina](https://www.csb.pitt.edu/faculty/maria-chikina-phd/) | University of Pittsburgh || [Sriram Sankararaman](https://web.cs.ucla.edu/~sriram/) | University of California, Los Angeles || [Na Cai](https://bsse.ethz.ch/people/detail-person.MzU1OTYw.TGlzdC8yNjY5LC0xMDExNjczNjI=.html) | ETH Zürich |
 
 ---
 
