@@ -7,7 +7,7 @@ title: Registration Details
 
 Registration for RECOMB 2026 and the Satellite Meetings will be conducted through our website. Payment may be made via credit card or bank transfer. Your registration will be considered complete only once the payment is successfully processed and you have received a confirmation email.
 
-For more information or general inquiries, please visit the conference website or contact [info@recombconf.org](mailto:{info@recombconf.org).
+For more information or general inquiries, please visit the conference website or contact us at [info@recombconf.org](mailto:{info@recombconf.org).
 
 ---
 
@@ -39,7 +39,7 @@ Please note that the gala dinner is **not included in the Postdoc and Student re
 
 ---
 
-Registrants may log into their account to change or update their registration details. **For cancellations or modifications to the chosen ticket type**, please contact us at [admin@iscb.org](mailto:{info@recombconf.org).
+Registrants may log into their account to change or update their registration details. **For cancellations or modifications to the chosen ticket type**, please contact [admin@iscb.org](mailto:{info@recombconf.org).
 
 All cancellation requests must be submitted in writing via email to the RECOMB 2026 Registration Management at [admin@iscb.org](mailto:{info@recombconf.org). **Cancellations received by 6 May 2026, 23:59 (AoE)** will be eligible for a refund, **minus a $50 processing fee.**
 
