@@ -79,8 +79,8 @@ page_class: committees-page
 
 #### RECOMB-Genetics
 
-| TBA | |
-| TBA | |
+| [Francesco Paolo Casale](https://www.helmholtz-munich.de/en/helmholtz-pioneer-campus/francesco-paolo-casale) | Helmholtz Munich |
+| [Maria Chikina](https://www.csb.pitt.edu/faculty/maria-chikina-phd/) | University of Pittsburgh |
 
 #### RECOMB-HBio
 
