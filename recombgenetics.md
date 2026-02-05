@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RECOMB-Genetics 2026
-  | 25 May 2026
+  <br>25 May 2026
 ---
 
 ### Welcome to the 14th edition of RECOMB-Genetics
