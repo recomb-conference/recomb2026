@@ -73,9 +73,9 @@ The satellite meeting will take place in Thessaloniki, Greece on 25 May 2026, di
 
 We solicit contributions in three categories (“tracks”):
 
-* 1. <u>Proceedings track:</u> Submissions should describe original work on computational methods in genetics. Authors of manuscripts that are selected for oral presentation at RECOMB-Genetics after review will be encouraged to host their manuscript on a public preprint server.
-* 2. <u>Highlights Track:</u> This track is for papers that have already been published or are in press (and linked from the journal website) within the past year. Submissions must contain a 1 page abstract submitted to EasyChair.
-* 3. <u>Posters:</u> Regular abstracts describing original work or published work (including work in press) can be submitted for poster presentation. Submissions must contain a 1 page abstract submitted to EasyChair.
+1. <u>Proceedings track:</u> Submissions should describe original work on computational methods in genetics. Authors of manuscripts that are selected for oral presentation at RECOMB-Genetics after review will be encouraged to host their manuscript on a public preprint server.
+2. <u>Highlights Track:</u> This track is for papers that have already been published or are in press (and linked from the journal website) within the past year. Submissions must contain a 1 page abstract submitted to EasyChair.
+3. <u>Posters:</u> Regular abstracts describing original work or published work (including work in press) can be submitted for poster presentation. Submissions must contain a 1 page abstract submitted to EasyChair.
 
 ---
 
