@@ -54,6 +54,8 @@ The 14th RECOMB Satellite on Computational Methods in Genetics will focus on cur
 
 The satellite meeting will take place in Thessaloniki, Greece on 25 May 2026, directly preceding the main RECOMB conference.
 
+---
+
 ## Topics of interest (including but not limited to)
 
 * Population genetics
@@ -75,11 +77,15 @@ We solicit contributions in three categories (“tracks”):
 * 2. <u>Highlights Track:</u> This track is for papers that have already been published or are in press (and linked from the journal website) within the past year. Submissions must contain a 1 page abstract submitted to EasyChair.
 * 3. <u>Posters:</u> Regular abstracts describing original work or published work (including work in press) can be submitted for poster presentation. Submissions must contain a 1 page abstract submitted to EasyChair.
 
+---
+
 ## Paper and abstract submission procedure
 
 Manuscripts for the "proceedings track" should not exceed 10 pages using at least 11 point font on U.S. standard 8 1/2 by 11 inch paper with no less than one inch margin all around. This excludes the cover page and references. The cover page should have the title and the corresponding author's email address. An optional short appendix, if absolutely necessary, can be included but will be considered at the discretion of the program committee. Manuscripts must be submitted electronically in PDF format via the EasyChair system.
 
 Authors will be notified of acceptance or rejection by email on or before 13 April 2026. An author of each accepted paper is expected to attend the workshop (if held in person) and present the paper; otherwise, alternative arrangements should be made to have the paper presented.
+
+---
 
 ## Special handling of papers submitted to RECOMB 2026
 
