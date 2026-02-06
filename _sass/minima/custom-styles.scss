@@ -275,6 +275,21 @@ body:not(.home-page):not(.page-page) .page-content {
   padding: 0 15px;
 }
 
+@media screen and (max-width: 799px) {
+  .site-nav-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 15px !important;
+    margin: 0 !important;
+    max-width: 100% !important;
+  }
+
+  .site-title {
+    padding-left: 10px;
+  }
+}
+
 /* 2. Desktop Navigation (Visible on large screens)
    ========================================================================== */
 @media screen and (min-width: 800px) {
@@ -387,16 +402,18 @@ body.mobile-nav-open {
   }
 
   .mobile-nav {
-    display: block;
+    display: flex;
+    align-items: center;
   }
 
   /* Style the mobile menu trigger ("hamburger") button */
   .mobile-menu-toggle {
-    position: relative;
-    float: right;
+    position: static;
+    float: none;
+    margin: 0;
+    padding: 20px 10px 10px 100px;
     background: transparent;
     border: none;
-    padding: 10px;
     cursor: pointer;
     z-index: 100;
   }
