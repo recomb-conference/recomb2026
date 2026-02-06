@@ -32,7 +32,8 @@ Please note that the gala dinner is **not included in the Postdoc and Student re
        background-color: #000000;
        text-decoration: none;
        border-radius: 6px;
-     ">
+     "
+     target="_blank">
     Registration for RECOMB 2026 is now open.<br>Click here to register!
   </a>
 </div>
@@ -108,7 +109,8 @@ The Early Registration Deadline is **15 April 2026**. After this deadline, all p
        background-color: #000000;
        text-decoration: none;
        border-radius: 6px;
-     ">
+     "
+     target="_blank">
     Registration for RECOMB 2026 is now open.<br>Click here to register!
   </a>
 </div>
