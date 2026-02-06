@@ -634,6 +634,15 @@ body.mobile-nav-open {
   padding: 10px;
 }
 
+.post-content th {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.post-content td {
+  color: #000000;
+}
+
 /* This is the new part: */
 .post-content table tr,
 .post-content table tr:nth-child(odd),
