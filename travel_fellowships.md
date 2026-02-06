@@ -32,10 +32,10 @@ Q. "When will I receive my funds?"
 - You will fill out a reimbursement form after the conference. The Fellowship Chairs will communicate with you about the procedure.
 
 Q. "How will I receive my funds?"
-- A check will be mailed to the address you provided.
+- A check will be mailed to the address you provided. 
 
 ---
 
-**RECOMB 2026 Travel Fellowships applications are now open! Please fill out the google form [here](https://forms.gle/aTM2fVoABAPzEWzG6) to apply for a travel fellowship.**
+**RECOMB 2026 Travel Fellowships applications are now open! Please fill out the google form <a href="https://forms.gle/aTM2fVoABAPzEWzG6" target="_blank">here</a> to apply for a travel fellowship.**
 
 Applications will be open until **2 March 2026, 23:59 AoE**, and the recipients will be informed of their awards by the end of March, 2026. For further questions, please contact the Travel Fellowships Chair [{{ site.team.travel_fellowship_chair }}](mailto:{{ site.team.travel_fellowship_chair_email }}).
