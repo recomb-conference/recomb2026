@@ -14,7 +14,7 @@ title: RECOMB 2026
 		    top: 200px;                  /* distance from top */
 		    left: 50%;                  /* move to horizontal center */
 		    transform: translateX(-50%); /* true centering */
-		    width: 50%;
+		    width: 40%;
 		    max-width: 900px;
 		    height: auto;
 		    max-height: 80vh;
@@ -67,10 +67,9 @@ title: RECOMB 2026
 
 <body>
     <div id="myPopup" class="popup">
+		<span class="close-btn" onclick="closePopup(event)">×</span>
         <div class="popup-content">
-            <span class="close-btn" onclick="closePopup(event)">×</span>
             <div style="position: relative;">
-				<br>
 				<center>
 					<h2>Visa Requirements</h2>
 				</center>
