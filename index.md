@@ -43,8 +43,8 @@ title: RECOMB 2026
         }
         .close-btn {
             position: absolute;
-            top: 2px;
-            right: 2px;
+            top: 5px;
+            right: 5px;
             font-size: 22px;
 			font-weight: bold;
             cursor: pointer;
@@ -57,6 +57,9 @@ title: RECOMB 2026
             z-index: 10;
         }
         .checkbox-label {
+			position: absolute;
+            bottom: 5px;
+			text-align: center;
             font-size: 14px;
             margin-top: 10px;
             display: block;
