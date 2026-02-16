@@ -28,11 +28,11 @@ title: RECOMB 2026
         }
         .popup-content {
             position: relative;
-            width: 90%;
+            width: 100%;
             max-width: 600px; /* Adjusted for image size */
             margin: 5% auto; /* Centered with less top margin for image */
-            padding: 10px;
-            border-radius: 10px;
+            padding: 5px;
+            border-radius: 5px;
             text-align: center;
         }
         .popup-content img {
@@ -42,8 +42,8 @@ title: RECOMB 2026
         }
         .close-btn {
             position: absolute;
-            top: 15px;
-            right: 15px;
+            top: 5px;
+            right: 5px;
             font-size: 20px;
             cursor: pointer;
             color: #000;
