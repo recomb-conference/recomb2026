@@ -24,7 +24,7 @@ title: RECOMB 2026
 		    border: 2px solid #ddd;     /* nice visible border */
 		    border-radius: 10px;        /* smooth corners */
 		    box-shadow: 0 10px 30px rgba(0,0,0,0.2); /* floating effect */
-		    padding: 20px;
+		    padding: 10px;
         }
         .popup-content {
             position: relative;
@@ -48,8 +48,6 @@ title: RECOMB 2026
             cursor: pointer;
             color: #000;
             background: #fff;
-            border: 1px solid #ccc;
-            border-radius: 50%;
             width: 25px;
             height: 25px;
             line-height: 20px;
