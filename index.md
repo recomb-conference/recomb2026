@@ -57,9 +57,6 @@ title: RECOMB 2026
             z-index: 10;
         }
         .checkbox-label {
-			position: absolute;
-            bottom: 5px;
-			text-align: center;
             font-size: 14px;
             margin-top: 10px;
             display: block;
