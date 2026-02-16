@@ -10,13 +10,21 @@ title: RECOMB 2026
     <style>
         .popup {
             display: none;
-            position: absolute;
-            top: 1;
-            left: 1;
-            width: 60%;
-            height: 60%;
-            background-color: rgba(255, 255, 255, 1);
-            z-index: 1100;
+		    position: fixed;            /* stay relative to the viewport */
+		    top: 20px;                  /* distance from top */
+		    left: 50%;                  /* move to horizontal center */
+		    transform: translateX(-50%); /* true centering */
+		    width: 60%;
+		    max-width: 900px;
+		    height: auto;
+		    max-height: 80vh;
+		    overflow-y: auto;
+		    background-color: #ffffff;
+		    z-index: 1100;
+		    border: 2px solid #ddd;     /* nice visible border */
+		    border-radius: 10px;        /* smooth corners */
+		    box-shadow: 0 10px 30px rgba(0,0,0,0.2); /* floating effect */
+		    padding: 20px;
         }
         .popup-content {
             position: relative;
@@ -67,7 +75,8 @@ title: RECOMB 2026
 				</center>
                 <p style="text-align:justify">
               All participants should verify their visa requirements prior to attending the conference. Requirements vary by citizenship and passport type. <br><br>
-              For official information, please consult the <a href="https://www.mfa.gr/en/services/visas-for-foreigners-traveling-to-greece/countries-requiring-or-not-requiring-a-visa/" target="_blank">Hellenic Republic Ministry of Foreign Affairs</a> website to check if your country requires a visa. <b>Please note that you must complete registration to be able to obtain a visa support letter</b>.</p>
+              For official information, please consult the <a href="https://www.mfa.gr/en/services/visas-for-foreigners-traveling-to-greece/countries-requiring-or-not-requiring-a-visa/" target="_blank">Hellenic Republic Ministry of Foreign Affairs</a> website to check if your country requires a visa. 
+					<br><br><b>Please note that you must complete registration to be able to obtain a visa support letter</b>.</p>
                 <div style="text-align: center; margin-top: 2rem;">
                   <a href="https://transition.iscb.org/cms_addon/conferences/recomb2026/easychair/visa"
                      style="
