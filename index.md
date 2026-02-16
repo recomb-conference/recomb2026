@@ -32,7 +32,7 @@ title: RECOMB 2026
             max-width: 600px; /* Adjusted for image size */
             margin: 5% auto; /* Centered with less top margin for image */
             padding: 5px;
-            border-radius: 5px;
+            border-radius: 2px;
             text-align: center;
         }
         .popup-content img {
@@ -70,6 +70,7 @@ title: RECOMB 2026
         <div class="popup-content">
             <span class="close-btn" onclick="closePopup(event)">×</span>
             <div style="position: relative;">
+				<br>
 				<center>
 					<h2>Visa Requirements</h2>
 				</center>
