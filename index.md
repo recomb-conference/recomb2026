@@ -67,7 +67,7 @@ title: RECOMB 2026
 				</center>
                 <p style="text-align:justify">
               All participants should verify their visa requirements prior to attending the conference. Requirements vary by citizenship and passport type. <br><br>
-              For official information, please consult the <a href="https://www.mfa.gr/en/services/visas-for-foreigners-traveling-to-greece/countries-requiring-or-not-requiring-a-visa/" target="_blank">Hellenic Republic Ministry of Foreign Affairs</a> website to check if your country requires a visa. Please note that you must complete registration to be able to obtain a visa support letter.</p>
+              For official information, please consult the <a href="https://www.mfa.gr/en/services/visas-for-foreigners-traveling-to-greece/countries-requiring-or-not-requiring-a-visa/" target="_blank">Hellenic Republic Ministry of Foreign Affairs</a> website to check if your country requires a visa. <b>Please note that you must complete registration to be able to obtain a visa support letter</b>.</p>
                 <div style="text-align: center; margin-top: 2rem;">
                   <a href="https://transition.iscb.org/cms_addon/conferences/recomb2026/easychair/visa"
                      style="
