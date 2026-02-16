@@ -13,8 +13,8 @@ title: RECOMB 2026
             position: absolute;
             top: 0;
             left: 0;
-            width: 100%;
-            height: 100%;
+            width: 30%;
+            height: 30%;
             background-color: rgba(255, 255, 255, 1);
             z-index: 1100;
         }
@@ -62,10 +62,12 @@ title: RECOMB 2026
         <div class="popup-content">
             <span class="close-btn" onclick="closePopup(event)">×</span>
             <div style="position: relative;">
+				<center>
+					<h2>Visa Requirements</h2>
+				</center>
                 <p style="text-align:justify">
               All participants should verify their visa requirements prior to attending the conference. Requirements vary by citizenship and passport type. <br><br>
               For official information, please consult the <a href="https://www.mfa.gr/en/services/visas-for-foreigners-traveling-to-greece/countries-requiring-or-not-requiring-a-visa/" target="_blank">Hellenic Republic Ministry of Foreign Affairs</a> website to check if your country requires a visa. Please note that you must complete registration to be able to obtain a visa support letter.</p>
-                <br>
                 <div style="text-align: center; margin-top: 2rem;">
                   <a href="https://transition.iscb.org/cms_addon/conferences/recomb2026/easychair/visa"
                      style="
