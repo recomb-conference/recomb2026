@@ -11,8 +11,8 @@ title: RECOMB 2026
         .popup {
             display: none;
             position: absolute;
-            top: 2;
-            left: 2;
+            top: 0;
+            left: 0;
             width: 100%;
             height: 100%;
             background-color: rgba(255, 255, 255, 1);
@@ -22,9 +22,9 @@ title: RECOMB 2026
             position: relative;
             width: 50%;
             max-width: 600px; /* Adjusted for image size */
-            margin: 5% auto; /* Centered with less top margin for image */
-            padding: 10px;
-            border-radius: 5px;
+            margin: 15% auto; /* Centered with less top margin for image */
+            padding: 20px;
+            border-radius: 10px;
             text-align: center;
         }
         .popup-content img {
@@ -64,9 +64,7 @@ title: RECOMB 2026
             <div style="position: relative;">
                 <p style="text-align:justify">
               All participants should verify their visa requirements prior to attending the conference. Requirements vary by citizenship and passport type. <br><br>
-              For official information, please consult the [Hellenic Republic Ministry of Foreign Affairs](https://www.mfa.gr/en/services/visas-for-foreigners-traveling-to-greece/countries-requiring-or-not-requiring-a-visa/) website to check if your country requires a visa. Please note that you must complete registration to be able to obtain a visa support letter.</p>
-                <br>
-                ---
+              For official information, please consult the <a href="https://www.mfa.gr/en/services/visas-for-foreigners-traveling-to-greece/countries-requiring-or-not-requiring-a-visa/" target="_blank">Hellenic Republic Ministry of Foreign Affairs</a> website to check if your country requires a visa. Please note that you must complete registration to be able to obtain a visa support letter.</p>
                 <br>
                 <div style="text-align: center; margin-top: 2rem;">
                   <a href="https://transition.iscb.org/cms_addon/conferences/recomb2026/easychair/visa"
@@ -84,8 +82,6 @@ title: RECOMB 2026
                     Click here to get your visa invitation letter.
                   </a>
                 </div>
-                <br>
-                ---
                 <br>
             </div>
             <label class="checkbox-label">
