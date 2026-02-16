@@ -11,7 +11,7 @@ title: RECOMB 2026
         .popup {
             display: none;
 		    position: fixed;            /* stay relative to the viewport */
-		    top: 150px;                  /* distance from top */
+		    top: 200px;                  /* distance from top */
 		    left: 50%;                  /* move to horizontal center */
 		    transform: translateX(-50%); /* true centering */
 		    width: auto;
@@ -29,10 +29,11 @@ title: RECOMB 2026
         .popup-content {
             position: relative;
             width: 100%;
+			height: auto;
             max-width: 600px; /* Adjusted for image size */
             margin: 5% auto; /* Centered with less top margin for image */
-            padding: 5px;
-            border-radius: 2px;
+            padding: 10px;
+            border-radius: 5px;
             text-align: center;
         }
         .popup-content img {
