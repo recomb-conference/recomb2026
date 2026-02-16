@@ -11,10 +11,10 @@ title: RECOMB 2026
         .popup {
             display: none;
             position: absolute;
-            top: 0;
-            left: 0;
-            width: 30%;
-            height: 30%;
+            top: 1;
+            left: 1;
+            width: 60%;
+            height: 60%;
             background-color: rgba(255, 255, 255, 1);
             z-index: 1100;
         }
