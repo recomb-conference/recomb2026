@@ -14,7 +14,7 @@ title: RECOMB 2026
 		    top: 200px;                  /* distance from top */
 		    left: 50%;                  /* move to horizontal center */
 		    transform: translateX(-50%); /* true centering */
-		    width: auto;
+		    width: 50%;
 		    max-width: 900px;
 		    height: auto;
 		    max-height: 80vh;
@@ -43,9 +43,10 @@ title: RECOMB 2026
         }
         .close-btn {
             position: absolute;
-            top: 5px;
-            right: 5px;
-            font-size: 20px;
+            top: 2px;
+            right: 2px;
+            font-size: 22px;
+			font-weight: bold;
             cursor: pointer;
             color: #000;
             background: #fff;
