@@ -26,7 +26,7 @@ For official information, please consult the [Hellenic Republic Ministry of Fore
        border-radius: 6px;
      "
      target="_blank">
-    Click here to get your visa support letter.
+    Click here to get your visa invitation letter.
   </a>
 </div>
 
