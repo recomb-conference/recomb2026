@@ -3,6 +3,134 @@ layout: home
 title: RECOMB 2026
 ---
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RECOMB 2026 Pop-Up</title>
+    <style>
+        .popup {
+            display: none;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            z-index: 1100;
+        }
+        .popup-content {
+            position: relative;
+            width: 50%;
+            max-width: 600px; /* Adjusted for image size */
+            margin: 5% auto; /* Centered with less top margin for image */
+            padding: 10px;
+            border-radius: 5px;
+            text-align: center;
+        }
+        .popup-content img {
+            width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+        .close-btn {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            font-size: 20px;
+            cursor: pointer;
+            color: #000;
+            background: #fff;
+            border: 1px solid #ccc;
+            border-radius: 50%;
+            width: 25px;
+            height: 25px;
+            line-height: 20px;
+            text-align: center;
+            z-index: 10;
+        }
+        .checkbox-label {
+            font-size: 14px;
+            margin-top: 10px;
+            display: block;
+        }
+        
+    </style>
+</head>
+
+<body>
+    <div id="myPopup" class="popup">
+        <div class="popup-content">
+            <span class="close-btn" onclick="closePopup(event)">×</span>
+            <div style="position: relative;">
+                <p style="text-align:justify">
+              All participants should verify their visa requirements prior to attending the conference. Requirements vary by citizenship and passport type. <br><br>
+              For official information, please consult the [Hellenic Republic Ministry of Foreign Affairs](https://www.mfa.gr/en/services/visas-for-foreigners-traveling-to-greece/countries-requiring-or-not-requiring-a-visa/) website to check if your country requires a visa. Please note that you must complete registration to be able to obtain a visa support letter.</p>
+                <br><br>
+                ---
+                <br>
+                <div style="text-align: center; margin-top: 2rem;">
+                  <a href="https://transition.iscb.org/cms_addon/conferences/recomb2026/easychair/visa"
+                     style="
+                       display: inline-block;
+                       padding: 12px 28px;
+                       font-size: 16px;
+                       font-weight: 600;
+                       color: #ffffff;
+                       background-color: #000000;
+                       text-decoration: none;
+                       border-radius: 6px;
+                     "
+                     target="_blank">
+                    Click here to get your visa invitation letter.
+                  </a>
+                </div>
+                <br>
+                ---
+                <br>
+            </div>
+            <label class="checkbox-label">
+                <input type="checkbox" id="dontShowOneDay" onclick="setCookie(); event.stopPropagation();">
+                Don’t show this pop-up again today
+            </label>
+        </div>
+    </div>
+    <script>
+        // Function to set a cookie for 1 day
+        function setCookie() {
+	    let dontShow = document.getElementById("dontShowOneDay").checked;
+            if (dontShow) {
+                let date = new Date();
+                date.setTime(date.getTime() + (24 * 60 * 60 * 1000)); // 1 day
+                document.cookie = "popupDismissed=true; expires=" + date.toUTCString() + "; path=/";
+            } else {
+                // If unchecked, set a cookie with a past expiration to "delete" it
+                document.cookie = "popupDismissed=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/";
+            }
+        }
+        // Function to check if cookie exists
+        function getCookie(name) {
+            let value = "; " + document.cookie;
+            let parts = value.split("; " + name + "=");
+            if (parts.length === 2) return parts.pop().split(";").shift();
+        }
+        // Function to open the pop-up
+        function openPopup() {
+            document.getElementById("myPopup").style.display = "block";
+        }
+	// Function to close the pop-up and set cookie based on checkbox
+        function closePopup() {
+            setCookie(); // Set cookie based on checkbox state when closing
+            document.getElementById("myPopup").style.display = "none";
+        }
+        // Open pop-up on page load if cookie not set
+        window.onload = function() {
+            if (!getCookie("popupDismissed")) {
+                openPopup();
+            }
+        };
+    </script>
+  </body>
+
 <center>
 <h1>About {{ site.title }}</h1> 
 </center>
