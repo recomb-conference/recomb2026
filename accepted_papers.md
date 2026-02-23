@@ -33,14 +33,14 @@
 - A Cophylogenetic Approach for Virus-Host Interaction Prediction\
 *Md Zarzees Uddin Shah Chowdhury, T. M. Murali and Palash Sashittal*
 
-- Denoising single-cell transcriptomic data with sparse PCA\
+- Random Matrix Theory-guided sparse PCA for single-cell RNA-seq data\
 *Victor Chardès*
 
 - Prediction of lifetime disease liability from EHR features\
 *Yazheng Di and Na Cai*
 
 - Quantum and Temporal Graph Neural Networks Reveal New Accuracy Limits in Predicting Protein–Ligand Dissociation Kinetics\
-*Azamat Salamatov and Gowtham Atluri*
+*Azamat Salamatov, Jun Bai, Gowtham Atluri and Chaowen Guan*
 
 - MaxGeomHash: An Algorithm for Variable-Size Random Sampling of Distinct Elements\
 *Mahmudur Rahman Hera, David Koslicki and Conrado Martínez*
