@@ -22,7 +22,7 @@
 *Zitai Kong, Yiheng Zhu, Yinlong Xu, Mingze Yin, Tingjun Hou, Jian Wu, Hongxia Xu and Chang-Yu Hsieh*
 
 - POTTR: Identifying Recurrent Trajectories in Evolutionary and Developmental Processes using Posets\
-*Sara C. Schulte, Henri Schmidt, Martin Jürgens, Gunnar W. Klau, Palash Sashittal and Benjamin J. Raphael*
+*Sara C. Käufler, Henri Schmidt, Martin Jürgens, Gunnar W. Klau, Palash Sashittal and Benjamin J. Raphael*
 
 - SpecLig: Energy-Guided Hierarchical Model for Target-Specific 3D Ligand Design\
 *Peidong Zhang, Rong Han, Xiangzhe Kong, Ting Chen and Jianzhu Ma*
