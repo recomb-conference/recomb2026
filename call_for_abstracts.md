@@ -9,8 +9,29 @@ title: Call for Abstracts
 
 Please submit a 250-word abstract of your poster that describes its primary results. Your submission should also include the author(s), their affiliations, the presenting author, the e-mail address of at least the contact author and the poster title as requested by the submission system. The abstract should be plain text and should not contain any figures.
 
-Please use the following submission link to submit your poster abstract: [{{ site.links.easychair }}]({{ site.links.easychair }}). Select the "RECOMB 2026 posters" in the "Make a new submission" option.
+---
 
-Early submissions will close on {{ site.deadlines.poster_submission }}. Acceptance notifications will be sent out on {{ site.deadlines.poster_notification }}. Late submissions will open following the early submission deadline and close on {{ site.deadlines.late_poster_submission }}. Acceptance notifications will be sent out on {{ site.deadlines.poster_notification }}. 
+<div style="text-align: center; margin-top: 2rem;">
+  <a href="https://easychair.org/conferences/?conf=recomb2026"
+     style="
+       display: inline-block;
+       padding: 12px 28px;
+       font-size: 16px;
+       font-weight: 600;
+       color: #ffffff;
+       background-color: #000000;
+       text-decoration: none;
+       border-radius: 6px;
+     "
+     target="_blank">
+    Click here to submit!
+  </a>
+</div>
 
-For further questions, please contact the Posters Chair, {{ site.team.posters_chair }}.
+*Select the "RECOMB 2026 posters" in the "Make a new submission" option.*
+---
+
+* Early submissions will close on {{ site.deadlines.poster_submission }}. Acceptance notifications will be sent out on {{ site.deadlines.poster_notification }}.
+* Late submissions will open following the early submission deadline and close on {{ site.deadlines.late_poster_submission }}. Acceptance notifications will be sent out on {{ site.deadlines.poster_notification }}. 
+
+For further questions, please contact the Posters Chair, [{{ site.team.posters_chair }}](mailto:{{ site.team.posters_chair_email }}).
