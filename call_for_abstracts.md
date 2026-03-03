@@ -9,9 +9,7 @@ title: Call for Abstracts
 
 Please submit a 250-word abstract of your poster that describes its primary results. Your submission should also include the author(s), their affiliations, the presenting author, the e-mail address of at least the contact author and the poster title as requested by the submission system. The abstract should be plain text and should not contain any figures.
 
----
-
-<div style="text-align: center; margin-top: 2rem;">
+<div style="text-align: left; margin-top: 2rem;">
   <a href="https://easychair.org/conferences/?conf=recomb2026"
      style="
        display: inline-block;
@@ -24,11 +22,11 @@ Please submit a 250-word abstract of your poster that describes its primary resu
        border-radius: 6px;
      "
      target="_blank">
-    Click here and select the "RECOMB 2026 Posters" track in the "Make a new submission" option to submit your abstract.
+    Click here to submit your abstract.
   </a>
 </div>
 
----
+*Select the "RECOMB 2026 Posters" track in the "Make a new submission" option.*
 
 * Early submissions will close on **{{ site.deadlines.poster_submission }}**. Acceptance notifications will be sent out on **{{ site.deadlines.poster_notification }}**.
 * Late submissions will open following the early submission deadline and close on **{{ site.deadlines.late_poster_submission }}**. Acceptance notifications will be sent out on **{{ site.deadlines.poster_notification }}**. 
