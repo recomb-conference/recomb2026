@@ -24,11 +24,10 @@ Please submit a 250-word abstract of your poster that describes its primary resu
        border-radius: 6px;
      "
      target="_blank">
-    Click here to submit!
+    Click here and select the "RECOMB 2026 Posters" track in the "Make a new submission" option to submit your abstract.
   </a>
 </div>
 
-*Select the "RECOMB 2026 posters" in the "Make a new submission" option.*
 ---
 
 * Early submissions will close on {{ site.deadlines.poster_submission }}. Acceptance notifications will be sent out on {{ site.deadlines.poster_notification }}.
