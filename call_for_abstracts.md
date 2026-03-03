@@ -30,7 +30,7 @@ Please submit a 250-word abstract of your poster that describes its primary resu
 
 ---
 
-* Early submissions will close on {{ site.deadlines.poster_submission }}. Acceptance notifications will be sent out on {{ site.deadlines.poster_notification }}.
-* Late submissions will open following the early submission deadline and close on {{ site.deadlines.late_poster_submission }}. Acceptance notifications will be sent out on {{ site.deadlines.poster_notification }}. 
+* Early submissions will close on **{{ site.deadlines.poster_submission }}**. Acceptance notifications will be sent out on **{{ site.deadlines.poster_notification }}**.
+* Late submissions will open following the early submission deadline and close on **{{ site.deadlines.late_poster_submission }}**. Acceptance notifications will be sent out on **{{ site.deadlines.poster_notification }}**. 
 
 For further questions, please contact the Posters Chair, [{{ site.team.posters_chair }}](mailto:{{ site.team.posters_chair_email }}).
