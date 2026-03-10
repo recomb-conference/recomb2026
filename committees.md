@@ -75,6 +75,7 @@ page_class: committees-page
 
 #### RECOMB-Arch
 
+| [Ibrahim Numanagić](https://saray.ca/~ibrahim/) | University of Victoria |
 | [Yatish Turakhia](https://turakhia.ucsd.edu/) | University of California, San Diego |
 
 #### RECOMB-Genetics
