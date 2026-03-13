@@ -43,7 +43,7 @@ The EasyChair link is the same as main conference, select “The 14th RECOMB Sat
 ## Key Dates
 
 * Submissions open: 1 February 2026
-* Submission deadline: 13 March 2026, 23:59 (AoE)
+* Submission deadline: ~~13 March~~ 2 April 2026, 23:59 (AoE)
 * Notification of decisions: 13 April 2026, 23:59 (AoE)
 * Satellite Meeting: 25 May 2026
 
@@ -90,7 +90,7 @@ Authors will be notified of acceptance or rejection by email on or before 13 Apr
 
 ## Special handling of papers submitted to RECOMB 2026
 
-If you would like to consider submitting a paper rejected by RECOMB 2026 to the workshop, you may do so by the regular deadline of 13 March 2026. You must include in your submission a cover letter that includes the reviews received from RECOMB together with a rebuttal addressing the concerns raised by the reviewers. The submitted manuscript should also be modified according to the reviews, or provide an explanation of why modifications are unnecessary. All reviews will be treated confidentially and will only be visible to the PC members.
+If you would like to consider submitting a paper rejected by RECOMB 2026 to the workshop, you may do so by the regular deadline of ~~13 March~~ 2 April 2026. You must include in your submission a cover letter that includes the reviews received from RECOMB together with a rebuttal addressing the concerns raised by the reviewers. The submitted manuscript should also be modified according to the reviews, or provide an explanation of why modifications are unnecessary. All reviews will be treated confidentially and will only be visible to the PC members.
 
-**The submission system will be open starting 1 February 2026 and ending 13 March 2026.** The Program Committee will referee the conference submissions.
+**The submission system will be open starting 1 February 2026 and ending ~~13 March~~ 2 April 2026.** The Program Committee will referee the conference submissions.
 
