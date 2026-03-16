@@ -158,3 +158,39 @@
 
 - Error Correction Algorithms for Efficient Gene Quantification in Single Cell Transcriptomics\
 *Jens Zentgraf, Johanna Schmitz, Andreas Keller and Sven Rahmann*
+
+- CycleGRN: Inferring Gene Regulatory Networks from Cyclic Flow Dynamics in Single-Cell RNA-seq
+*Wenjun Zhao, Elana Fertig and Genevieve Stein-O'Brien*
+
+- Integrative Multi‑Scale Sequence–Structure Modeling for Antimicrobial Peptide Prediction and Design
+*Jiayi Li, Yanruisheng Shao, Yu Li and Qinze Yu*
+
+- Modeling Multi-Modal Brain Connectomes for Brain Disorder Diagnosis via Graph Diffusion Optimal Transport Network
+*Xiaoqi Sheng, Jiawen Liu, Jiaming Liang, Yiheng Zhang, Sankar Mondal, Yutong Li, Tinghe Zhang, Bing Liu, Jiangning Song and Hongmin Cai*
+
+- Fast and accurate resolution of ecDNA sequence using Cycle-Extractor
+*Mahsa Faizrahnemoon, Jens Luebeck, King L. Hung, Suhas Rao, Matthew G. Jones, Paul S. Mischel, Howard Y. Chang, Kaiyuan Zhu and Vineet Bafna*
+
+- pHapCompass: Probabilistic Assembly and Uncertainty Quantification of Polyploid Haplotype Phase
+*Marjan Hosseini, Ella Veiner, Thomas Bergendahl, Tala Yasenpoor, Zane Smith, Margaret Staton and Derek Aguiar*
+
+- Generating Hybrid Proteins with the MSA-Transformer
+*Sanjana Tule, Samuel Davis, Ivan Koludarov, Ariane Mora and Mikael Boden*
+
+- scProfiterole: Clustering of Single-Cell Proteomic Data Using Graph Contrastive Learning via Spectral Filters
+*Mustafa Coşkun, Filipa Blasco Lopes, Pınar Kubilay Tolunay, Mark R. Chance and Mehmet Koyutürk*
+
+- Constrained diffusion as a paradigm for evolution
+*Daniel Lazarev, Anna Sappington, Grant Chau, Ruochi Zhang and Bonnie Berger*
+
+- Multimodal spatial alignment and morphology mapping with MOSAICField
+*Xinhao Liu, Hongyu Zheng, Peter Halmos, Julian Gold, Erik Storrs, Li Ding and Ben Raphael*
+
+- Deconvolving mutation effects on protein stability and function with disentangled protein language models
+*Kerr Ding, Ziang Li, Tony Tu, Jiaqi Luo and Yunan Luo*
+
+- Integrating morphology and gene expression in unpaired single-cell data using GeoAdvAE
+*Jinqiu Du and Kevin Z. Lin*
+
+- Protein Compositional Ratio Representation (PCRR) Systematically Improves Human Disease Prediction
+*Adithya Madduri, Randall Ellis and Chirag Patel*
