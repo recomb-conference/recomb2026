@@ -14,13 +14,6 @@ title: Key Dates and Deadlines
 
 ---
 
-## Highlights
-
-- **Submission deadline**: {{ site.deadlines.highlights_submission }}
-- **Author notification**: {{ site.deadlines.highlights_notification }}
-
----
-
 ## Posters
 
 - **Submission deadline**: {{ site.deadlines.poster_submission }}
@@ -47,6 +40,7 @@ title: Key Dates and Deadlines
 ## Conference
 
 - **Conference**: {{ site.deadlines.conference_dates }}
+- **H.bioinfo**: {{ site.deadlines.hbio }}
 
 ---
 
@@ -59,4 +53,3 @@ title: Key Dates and Deadlines
 - **RECOMB-Genetics**: {{ site.deadlines.satellite_genetics }}
 - **RECOMB-P&E**: {{ site.deadlines.satellite_priv }}
 - **RECOMB-RSG**: {{ site.deadlines.satellite_rsg }}
-- **RECOMB-HBio**: {{ site.deadlines.satellite_hbio }}
