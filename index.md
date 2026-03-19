@@ -148,9 +148,11 @@ title: RECOMB 2026
 {{ site.title }} is the {{ site.iteration }} edition of a series of algorithmic computational biology conferences bridging the areas of computational, mathematical, statistical and biological sciences. The conference features keynote talks by preeminent scientists in life sciences, presentations of ground breaking research in computational biology, selected over the course of a highly-rigorous peer-review process, and poster sessions on the latest research progress. 
 
 ---
-### About {{ site.title }} in Thessaloniki
+### Joint Events: {{ site.title }} and H.bioinfo'17 in Thessaloniki
 
-Under the auspices of the Hellenic Bioinformatics Society, in affiliation with the International Society for Computational Biology, and hosted by the Aristotle University of Thessaloniki, RECOMB 2026 will be held in Thessaloniki, Greece, at the Thessaloniki Concert Hall.
+The H.bioinfo conference series brings together bioinformatics experts, computational biologists, computer scientists and engineers, as well as researchers from related disciplines including biology, physics, chemistry, mathematics, statistics, epidemiology, clinical sciences, and pharmacology, to serve the broader community’s needs for education, training, and networking.
+
+Under the auspices of the Hellenic Bioinformatics Society, in affiliation with the International Society for Computational Biology, and hosted by the Aristotle University of Thessaloniki, RECOMB 2026 and H.bioinfo'17 will be held jointly in Thessaloniki, Greece, at the Thessaloniki Concert Hall.
 
 ---
 ## Get in touch
