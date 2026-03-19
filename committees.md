@@ -46,7 +46,7 @@ page_class: committees-page
 
 ## Posters Chair
 
-- | [{{ site.team.posters_chair }}]({{ site.team.posters_chair_url }}) | {{ site.team.posters_chair_institute }} |
+| [{{ site.team.posters_chair }}]({{ site.team.posters_chair_url }}) | {{ site.team.posters_chair_institute }} |
 
 ## Travel Fellowships Chair
 
