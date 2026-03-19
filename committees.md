@@ -28,7 +28,7 @@ page_class: committees-page
 #### Co-chairs
 
 | [{{ site.team.oc_chair1 }}]({{ site.team.oc_chair1_url }}) | {{ site.team.oc_chair1_institute }} |
-| {{ site.team.oc_chair2 }} | {{ site.team.oc_chair2_institute }}
+| [{{ site.team.oc_chair2 }}]({{}})  | {{ site.team.oc_chair2_institute }} |
 
 #### Publicity Chair
 
@@ -46,7 +46,7 @@ page_class: committees-page
 
 ## Posters Chair
 
-- | [{{ site.team.poster_chair }}]({{ site.team.poster_chair_url }}) | {{ site.team.poster_chair_institute }} |
+- | [{{ site.team.posters_chair }}]({{ site.team.posters_chair_url }}) | {{ site.team.posters_chair_institute }} |
 
 ## Travel Fellowships Chair
 
