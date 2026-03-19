@@ -13,7 +13,7 @@ For more information or general inquiries, please visit the conference website o
 
 The registration fees for RECOMB 2026 cover access to all sessions and panels for the respective conference, gala dinner (Academic & Industry), lunch on all conference days, and refreshments during coffee breaks and poster sessions. The fees are in EUR.
 
-Satellite registrants may attend any satellite session of their choice. However, we request that attendees indicate their preferred main satellite on the registration form, which will assist us in assigning an appropriately sized conference room for each satellite event.
+Satellite registrants may attend any satellite session of their choice. However, we request that attendees indicate their preferred main satellite conference on the registration form, which will assist us in assigning an appropriately sized conference room for each satellite event.
 
 Please note that the gala dinner is **not included in the Postdoc and Student registration fees;** however, **tickets for the gala dinner may be purchased separately.**
 
@@ -62,6 +62,7 @@ Refunds will be processed in the same currency and using the same payment method
 
 #### Satellite Meetings:
 * Access to all sessions of the RECOMB 2026 Satellite Meetings and relevant materials
+* Access to all sessions of H.bioinfo'17 held in Thessaloniki Concert Hall on May 25
 * Lunch on all satellite meeting days
 * Refreshments during coffee breaks and poster sessions
 
