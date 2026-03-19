@@ -86,8 +86,6 @@ social_links:
 hide_site_feed_link: true
 
 main_navigation:
-  - title: Home
-    url: /index
   - title: Conference
     children:
       - title: Committees
@@ -160,6 +158,9 @@ main_navigation:
         url: /sponsors
       - title: Sponsorship Packages
         url: /sponsorship_packages
+  - title: H.bioinfo'17
+    url: https://hscbio.wordpress.com/
+    external: true
   - title: About RECOMB
     url: https://recomb.org/
     external: true
@@ -195,17 +196,19 @@ deadlines:
   satellite_priv: "25 May 2026"
   satellite_arch: "24 May 2026"
   satellite_rsg: "25 May 2026"
-  satellite_hbio: "25 May 2026"
+  hbio: "25 May 2026"
   
 links: 
   easychair: "https://easychair.org/conferences/?conf=recomb2026"
  
-
 team:
-  oc_chair: "Christos Ouzounis"
-  oc_chair_email: "cao@csd.auth.gr"
-  oc_chair_institute: "Aristotle University of Thessaloniki"
-  oc_chair_url: "https://csd.auth.gr/en/member/ouzounis-christos-2/"
+  oc_chair1: "Christos Ouzounis"
+  oc_chair1_email: "cao@csd.auth.gr"
+  oc_chair1_institute: "Aristotle University of Thessaloniki"
+  oc_chair1_url: "https://csd.auth.gr/en/member/ouzounis-christos-2/"
+  oc_chair2: "Ezgi Ebren"
+  oc_chair2_email: "ezgiebren@gmail.com"
+  oc_chair2_institute: "Bilkent University"
   pc_chair: "Rayan Chikhi"
   pc_chair_email: "rayan.chikhi@pasteur.fr"
   pc_chair_institute: "Institut Pasteur"
