@@ -25,9 +25,10 @@ page_class: committees-page
 
 ## Organizing Committee
 
-#### Chair
+#### Co-chairs
 
-| [{{ site.team.oc_chair }}]({{ site.team.oc_chair_url }}) | {{ site.team.oc_chair_institute }} |
+| [{{ site.team.oc_chair1 }}]({{ site.team.oc_chair1_url }}) | {{ site.team.oc_chair1_institute }} |
+| {{ site.team.oc_chair2 }} | {{ site.team.oc_chair2_institute }}
 
 #### Publicity Chair
 
@@ -43,13 +44,9 @@ page_class: committees-page
 
 ---
 
-#### Highlights Chair
-
-| [{{ site.team.highlights_chair }}]({{ site.team.highlights_chair_url }}) | {{ site.team.highlights_chair_institute }} |
-
 ## Posters Chair
 
-- TBA
+- | [{{ site.team.poster_chair }}]({{ site.team.poster_chair_url }}) | {{ site.team.poster_chair_institute }} |
 
 ## Travel Fellowships Chair
 
@@ -82,10 +79,6 @@ page_class: committees-page
 
 | [Francesco Paolo Casale](https://www.helmholtz-munich.de/en/helmholtz-pioneer-campus/francesco-paolo-casale) | Helmholtz Munich |
 | [Maria Chikina](https://www.csb.pitt.edu/faculty/maria-chikina-phd/) | University of Pittsburgh |
-
-#### RECOMB-HBio
-
-| [Christos Ouzounis](https://csd.auth.gr/en/member/ouzounis-christos-2/) | Aristotle University of Thessaloniki |
 
 #### RECOMB-Privacy
 
