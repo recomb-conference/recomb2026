@@ -8,9 +8,7 @@ title: Program
     <h4><a class="program-link" href="https://recomb.org/proceedings/proceedings/2030-2026/2026/">RECOMB 2026 Proceedings</a></h4>
   </div>
 
-table td {
-  line-height: 1.3;
-}
+---
 
 ## Day 1
 
