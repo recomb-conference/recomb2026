@@ -5,7 +5,6 @@ title: Program
 
   <div class="program-links">
     <h3><a class="program-link" href="{{ '/accepted_papers.md' | relative_url }}">RECOMB 2026: List of Accepted Papers</a></h3>
-    <br>
     <h3><a class="program-link" href="https://recomb.org/proceedings/proceedings/2030-2026/2026/">RECOMB 2026 Proceedings</a></h3>
   </div>
 
