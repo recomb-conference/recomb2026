@@ -12,61 +12,124 @@ title: Program
 
 ## Day 1
 
-| Time | Program |
-|------|--------|
-| **09:00–09:05** | Welcome |
-| **09:05–10:05** | **Keynote 1:** Paul Medvedev |
-| **10:05–10:30** | Coffee Break I |
-| **10:30–12:20** | **Session 1: Sequence I**<br>Minimizer Density revisited — *Ingels et al.* <br>MaxGeomHash — *Hera et al.* <br>Cuttlefish 3 — *Khan et al.* <br>Sequence-to-graph alignment — *Magalhães et al.* <br>Privacy-Preserving Pangenome Graphs — *Blindenbach et al.* <br>bronko — *Doughty et al.* |
-| **12:20–13:30** | Lunch |
-| **13:30–15:20** | **Session 2: Protein/ML I**<br>MutPred-PPI — *Stewart et al.* <br>Bacterial protein function prediction — *Muzio et al.* <br>Evolutionary profile enhancement — *Dai et al.* <br>Antimicrobial peptide modeling — *Li et al.* <br>ProtFlow — *Kong et al.* <br>Foundation models (OOD) — *Pratapa et al.* |
-| **15:20–15:50** | Coffee Break II |
-| **15:50–17:05** | **Session 3: Single-Cell I**<br>Sparse PCA — *Chardès* <br>Gene-First Identity — *Yang et al.* <br>Error Correction — *Zentgraf et al.* <br>Nullstrap-DE — *Jiang et al.* |
-| **17:05–19:00** | Poster Session I |
+<details open>
+<summary><strong>09:00–09:05</strong> Welcome</summary>
+</details>
+
+<details open>
+<summary><strong>09:05–10:05</strong> Keynote 1: Paul Medvedev</summary>
+</details>
+
+<details open>
+<summary><strong>10:05–10:30</strong> Coffee Break I</summary>
+</details>
+
+<details open>
+<summary><strong>10:30–12:20</strong> Session 1: Sequence I</summary>
+
+Minimizer Density revisited: Models and Multiminimizers — *Ingels et al.*  
+MaxGeomHash: An Algorithm for Variable-Size Random Sampling of Distinct Elements — *Hera et al.*  
+Faster and Scalable Parallel External-Memory Construction of Colored Compacted de Bruijn Graphs with Cuttlefish 3 — *Khan et al.*  
+Sequence-to-graph alignment based copy number calling using a network flow formulation — *Magalhães et al.*  
+Privacy-Preserving Pangenome Graphs — *Blindenbach et al.*  
+bronko: ultrarapid, alignment-free detection of viral genome variation — *Doughty et al.*  
+
+</details>
+
+<details>
+<summary><strong>12:20–13:30</strong> Lunch</summary>
+</details>
+
+<details>
+<summary><strong>13:30–15:20</strong> Session 2: Protein/ML I</summary>
+
+Predicting interaction-specific protein–protein interaction perturbations by missense variants with MutPred-PPI — *Stewart et al.*  
+Bacterial protein function prediction via multimodal deep learning — *Muzio et al.*  
+Evolutionary profile enhancement improves protein function annotation — *Dai et al.*  
+Integrative Multi-Scale Sequence–Structure Modeling for Antimicrobial Peptide Prediction and Design — *Li et al.*  
+ProtFlow: Flow Matching-based Protein Sequence Design with Comprehensive Protein Semantic Distribution Learning and High-quality Generation — *Kong et al.*  
+Transforming Biological Foundation Model Representations for Out-of-Distribution Data — *Pratapa et al.*  
+
+</details>
+
+<details>
+<summary><strong>15:20–15:50</strong> Coffee Break II</summary>
+</details>
+
+<details>
+<summary><strong>15:50–17:05</strong> Session 3: Single-Cell I</summary>
+
+Random Matrix Theory-guided sparse PCA for single-cell RNA-seq data — *Chardès*  
+Gene-First Identity Construction for Robust Cell Identification in Single-Cell Transcriptomics — *Yang et al.*  
+Error Correction Algorithms for Efficient Gene Quantification in Single Cell Transcriptomics — *Zentgraf et al.*  
+Nullstrap-DE: A General Framework for Calibrating FDR and Preserving Power in Differential Expression Methods — *Jiang et al.*  
+
+</details>
+
+<details>
+<summary><strong>17:05–19:00</strong> Poster Session I</summary>
+</details>
 
 ---
 
 ## Day 2
 
-| Time | Program |
-|------|--------|
-| **09:00–10:00** | **Keynote 2:** Gene Myers |
-| **10:00–10:25** | Coffee Break I |
-| **10:25–12:20** | **Session 4: Sequence II**<br>KuPID — *Borowiak & Yu* <br>SLAB — *Naseri et al.* <br>pHapCompass — *Hosseini et al.* <br>Synteny Blocks — *Bohnenkämper et al.* <br>Compressed indexes — *Ingels et al.* <br>Flow Decompositions — *Sena & Tomescu* |
-| **12:20–13:30** | Lunch |
-| **13:30–14:45** | **Session 5: Multi-Omics**<br>MOSAICField — *Liu et al.* <br>Tissue-aware GNN — *Aggarwal et al.* <br>Brain Connectomes — *Sheng et al.* <br>DIME — *Sun et al.* |
-| **14:45–15:20** | **Session 6: Small Molecules**<br>SpecLig — *Zhang et al.* <br>Drug Interaction Learning — *Zhang et al.* |
-| **15:20–15:50** | Coffee Break II |
-| **15:50–17:05** | **Session 7: Transcriptomics**<br>RNA Structures — *Gu et al.* <br>CLADES — *Talukder et al.* <br>Alternet<br>Allele-specific models — *Tu et al.* |
-| **17:05–19:00** | Poster Session II |
+<details open>
+<summary><strong>09:00–10:00</strong> Keynote 2: Gene Myers</summary>
+</details>
 
----
+<details>
+<summary><strong>10:00–10:25</strong> Coffee Break I</summary>
+</details>
 
-## Day 3
+<details open>
+<summary><strong>10:25–12:20</strong> Session 4: Sequence II</summary>
 
-| Time | Program |
-|------|--------|
-| **09:00–10:00** | **Session 8: Phylogeny I**<br>Diffusion & evolution — *Lazarev et al.* <br>Phylogenetic mixtures — *Arasti et al.* <br>Virus-host prediction — *Chowdhury et al.* |
-| **10:00–10:25** | Coffee Break I |
-| **10:25–12:20** | **Session 9: Single-Cell II**<br>scDesignPop — *Dong et al.* <br>scProfiterole — *Coşkun et al.* <br>GeoAdvAE — *Du & Lin* <br>MOSAIC — *Lu et al.* <br>LineageMap — *Pan et al.* <br>Perturb-seq GRN — *Sun et al.* |
-| **12:20–13:30** | Lunch |
-| **13:30–14:30** | **Keynote 3:** Alexandros Stamatakis |
-| **14:30–15:25** | **Session 10: Phylogeny II**<br>Tree of blobs — *Dai et al.* <br>STELAR-X — *Saha & Bayzid* <br>PaNDA — *Holtgrefe et al.* |
-| **15:25–15:55** | Coffee Break II |
-| **15:55–17:10** | **Session 11: Cancer & Evolution**<br>Arborist — *Weber et al.* <br>Subclonal structures — *Wu et al.* <br>Cycle-Extractor — *Faizrahnemoon et al.* <br>POTTR — *Käufler et al.* |
-| **19:00** | Gala Dinner |
+KuPID: Kmer-based Upstream Preprocessing of Long Reads for Isoform Discovery — *Borowiak & Yu*  
+SLAB: A Sweep Line Algorithm in PBWT for Finding Haplotype Block Cores — *Naseri et al.*  
+pHapCompass: Probabilistic Assembly and Uncertainty Quantification of Polyploid Haplotype Phase — *Hosseini et al.*  
+On Deriving Synteny Blocks by Compacting Elements — *Bohnenkämper et al.*  
+Compressed inverted indexes for scalable sequence similarity — *Ingels et al.*  
+Fast and Flexible Flow Decompositions in General Graphs via Dominators — *Sena & Tomescu*  
 
----
+</details>
 
-## Day 4
+<details>
+<summary><strong>12:20–13:30</strong> Lunch</summary>
+</details>
 
-| Time | Program |
-|------|--------|
-| **09:00–10:00** | **Keynote 4:** Sara Mostafavi |
-| **10:00–10:25** | Coffee Break I |
-| **10:25–12:20** | **Session 12: Protein/ML II**<br>Protein MSAs — *Hoang et al.* <br>MSA-Transformer — *Tule et al.* <br>Protein language models — *Ding et al.* <br>Protein–Ligand GNN — *Salamatov et al.* <br>PCRR — *Madduri et al.* <br>Synthetic lethality — *Hua et al.* |
-| **12:20–13:30** | Lunch |
-| **13:30–15:25** | **Session 13: Statistical Genetics**<br>Disease liability — *Di & Cai* <br>Polygenic risk leakage — *Nikitin & Gürsoy* <br>Gene–environment interaction — *Liu et al.* <br>GWAS bias — *Yelmen et al.* <br>GOPHER — *Nandi et al.* <br>Phenotypic uncertainty — *Mohanty et al.* |
-| **15:25–15:55** | Coffee Break II |
-| **15:55–17:30** | **Session 14: Single-Cell III**<br>CAMP — *Li et al.* <br>DeltaNMF — *Karpurapu et al.* <br>Information Geometry — *Cai et al.* <br>DiCoLo — *Li et al.* <br>CycleGRN — *Zhao et al.* |
-| **17:30–18:30** | Closing & Awards |
+<details>
+<summary><strong>13:30–14:45</strong> Session 5: Multi-Omics</summary>
+
+Multimodal spatial alignment and morphology mapping with MOSAICField — *Liu et al.*  
+Multi-modal tissue-aware graph neural network for in silico genetic discovery — *Aggarwal et al.*  
+Modeling Multi-Modal Brain Connectomes for Brain Disorder Diagnosis via Graph Diffusion Optimal Transport Network — *Sheng et al.*  
+Achieving spatial multi-omics integration from unaligned serial sections with DIME — *Sun et al.*  
+
+</details>
+
+<details>
+<summary><strong>14:45–15:20</strong> Session 6: Small Molecules</summary>
+
+SpecLig: Energy-Guided Hierarchical Model for Target-Specific 3D Ligand Design — *Zhang et al.*  
+Joint Learning of Drug-Drug Combination and Drug-Drug Interaction via Coupled Tensor-Tensor Factorization with Side Information — *Zhang et al.*  
+
+</details>
+
+<details>
+<summary><strong>15:20–15:50</strong> Coffee Break II</summary>
+</details>
+
+<details>
+<summary><strong>15:50–17:05</strong> Session 7: Transcriptomics</summary>
+
+Summarizing RNA Structural Ensembles via Maximum Agreement Secondary Structures — *Gu et al.*  
+CLADES — Contrastive Learning Augmented DifferEntial Splicing with Orthologous Positive Pairs — *Talukder et al.*  
+Alternet: Alternative splicing-aware gene regulatory network inference  
+Deep genomic models of allele-specific measurements — *Tu et al.*  
+
+</details>
+
+<details>
+<summary><strong>17:05–19:00</strong> Poster Session II</summary>
+</details>
