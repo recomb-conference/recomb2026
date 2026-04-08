@@ -6,9 +6,10 @@
 
 -----
 
-**[RECOMB 2026 Accepted Papers](#)**
-
-**[RECOMB 2026 Conference Proceedings](#)**
+  <div class="program-links">
+    <a class="program-link" href="{{ '/accepted_papers.md' | relative_url }}">RECOMB 2026: List of Accepted Papers</a>
+    <a class="program-link" href="https://recomb.org/proceedings/proceedings/2030-2026/2026/">RECOMB 2026 Proceedings</a>
+  </div>
 
 -----
 
