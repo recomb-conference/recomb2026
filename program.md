@@ -9,6 +9,14 @@ title: Program
   </div>
 
 ---
+{::comment}
+## Day 1
+
+| Time | Program |
+|------|--------|
+| **09:00–09:05** | Welcome |
+
+{:/comment}
 
 ## Day 1
 
