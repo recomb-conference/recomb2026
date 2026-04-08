@@ -4,19 +4,11 @@ title: Program
 ---
 
   <div class="program-links">
-    <h4><a class="program-link" href="{{ '/accepted_papers.md' | relative_url }}" target="_blank">RECOMB 2026: List of Accepted Papers</a></h4>
-    <h4><a class="program-link" href="https://recomb.org/proceedings/proceedings/2030-2026/2026/" target="_blank">RECOMB 2026 Proceedings</a></h4>
+    <h5><a class="program-link" href="{{ '/accepted_papers.md' | relative_url }}" target="_blank">RECOMB 2026: List of Accepted Papers</a></h5>
+    <h5><a class="program-link" href="https://recomb.org/proceedings/proceedings/2030-2026/2026/" target="_blank">RECOMB 2026 Proceedings</a></h5>
   </div>
 
 ---
-{::comment}
-## Day 1
-
-| Time | Program |
-|------|--------|
-| **09:00–09:05** | Welcome |
-
-{:/comment}
 
 ## Day 1
 
