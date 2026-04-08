@@ -8,6 +8,7 @@
 
   <div class="program-links">
     <a class="program-link" href="{{ '/accepted_papers.md' | relative_url }}">RECOMB 2026: List of Accepted Papers</a>
+    <br>
     <a class="program-link" href="https://recomb.org/proceedings/proceedings/2030-2026/2026/">RECOMB 2026 Proceedings</a>
   </div>
 
