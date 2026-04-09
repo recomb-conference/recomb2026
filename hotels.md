@@ -14,9 +14,7 @@ title: Hotels
   </center>
 </div>
 
-<br>
-
-
+The hotels are marked on the map with blue pins.
 
 <br>
 
