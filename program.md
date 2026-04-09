@@ -10,7 +10,7 @@ title: Program
 
 ---
 
-## Day 1
+## Day 1 (26 May, Tuesday)
 
 | Time | Program |
 |------|--------|
@@ -26,7 +26,7 @@ title: Program
 
 ---
 
-## Day 2
+## Day 2 (27 May, Wednesday)
 
 | Time | Program |
 |------|--------|
@@ -42,7 +42,7 @@ title: Program
 
 ---
 
-## Day 3
+## Day 3 (28 May, Thursday)
 
 | Time | Program |
 |------|--------|
@@ -58,7 +58,7 @@ title: Program
 
 ---
 
-## Day 4
+## Day 4 (29 May, Friday)
 
 | Time | Program |
 |------|--------|
@@ -70,3 +70,5 @@ title: Program
 | **15:25–15:55** | Coffee Break II |
 | **15:55–17:30** | **Session 14: Single-Cell III**<br>CAMP: Coreset Accelerated Metacell Partitioning enables scalable analysis of single-cell data — *Li et al.* <br>DeltaNMF: A Two-Stage Neural NMF for Differential Gene Program Discovery — *Karpurapu et al.* <br>Information Geometry Reconciles Discrete and Continuous Variation in Single-Cell and Spatial Transcriptomic Analysis — *Cai et al.* <br>DiCoLo: Integration-free and cluster-free detection of localized differential gene co-expression in single-cell data — *Li et al.* <br>CycleGRN: Inferring Gene Regulatory Networks from Cyclic Flow Dynamics in Single-Cell RNA-seq — *Zhao et al.* |
 | **17:30–18:30** | Closing & Awards |
+
+*Time Zone: GMT+3
