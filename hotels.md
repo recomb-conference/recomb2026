@@ -19,7 +19,7 @@ Recommended hotels are marked with blue pins on the map.
 
 <br>
 
-For your reference, we provide the following list of hotels around the venue:
+For your reference, we provide the following list of hotels around the venues:
 
 * [**Makedonia Palace Hotel**](https://makedoniapalace.com/) (2.3 km from Thessaloniki Concert Hall, 1.8 km from Nikolaos Germanos Convention Center)
   <br>Leof. Meg. Alexandrou 2, Thessaloniki 546 40, Greece
