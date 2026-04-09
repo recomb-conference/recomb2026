@@ -3,13 +3,10 @@ layout: page
 title: Program
 ---
 
-<!DOCTYPE html>
-
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>RECOMB 2026 – Program</title>
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet" />
 <style>
   :root {
@@ -248,8 +245,8 @@ padding-top: 18px;
 <body>
 
 <div class="page-header">
-  <h1>RECOMB 2026 &mdash; Program</h1>
-  <p>International Conference on Research in Computational Molecular Biology</p>
+  <h1>Program</h1>
+  <p>Annual International Conference on Research in Computational Molecular Biology</p>
 </div>
 
 <div class="container">
@@ -274,7 +271,7 @@ padding-top: 18px;
     <p class="section-label">Day 1</p>
     <table class="schedule">
 
-```
+
   <tr class="time-row"><td colspan="2">09:00 &ndash; 09:05</td></tr>
   <tr class="keynote-row">
     <td class="time-cell"></td>
@@ -373,7 +370,7 @@ padding-top: 18px;
 
   <tr class="poster-row"><td colspan="2">17:05 &ndash; 19:00 &nbsp;&nbsp; Poster Session I</td></tr>
 </table>
-```
+
 
   </div>
 
@@ -478,7 +475,7 @@ padding-top: 18px;
 
   <tr class="poster-row"><td colspan="2">17:05 &ndash; 19:00 &nbsp;&nbsp; Poster Session II</td></tr>
 </table>
-```
+
 
   </div>
 
@@ -488,7 +485,6 @@ padding-top: 18px;
     <p class="section-label">Day 3</p>
     <table class="schedule">
 
-```
   <tr class="time-row"><td colspan="2">09:00 &ndash; 10:00</td></tr>
   <tr class="session-header-row"><td colspan="2">Session 8: Phylogeny I</td></tr>
 
@@ -583,7 +579,7 @@ padding-top: 18px;
 
   <tr class="event-row"><td colspan="2">17:30 &nbsp;&nbsp; Gala Dinner</td></tr>
 </table>
-```
+
 
   </div>
 
@@ -593,7 +589,7 @@ padding-top: 18px;
     <p class="section-label">Day 4</p>
     <table class="schedule">
 
-```
+
   <tr class="time-row"><td colspan="2">09:00 &ndash; 10:00</td></tr>
   <tr class="keynote-row">
     <td class="time-cell"></td>
@@ -688,7 +684,6 @@ padding-top: 18px;
 
   <tr class="event-row"><td colspan="2">17:30 &ndash; 18:30 &nbsp;&nbsp; Closing Session &amp; Awards</td></tr>
 </table>
-```
 
   </div>
 
