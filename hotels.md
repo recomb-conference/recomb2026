@@ -8,13 +8,13 @@ title: Hotels
   <iframe 
     src="https://www.google.com/maps/d/embed?mid=1yoB270bH90EDtdmdak8TWG1D6dIilTM&ehbc=2E312F&noprof=1" 
     width="640" 
-    height="500"
+    height="520"
     style="border:0;"
     loading="lazy">
   </iframe>
 </div>
 
-Blue Pins: Recommended Hotels
+Recommended hotels are marked with blue pins on the map.
 </center>
 
 <br>
