@@ -3,18 +3,19 @@ layout: page
 title: Hotels
 ---
 
-<div style="border-radius:12px; overflow:hidden; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
-  <center>
+<center>
+<div style="width:640px; margin:0 auto; border-radius:12px; overflow:hidden; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
   <iframe 
     src="https://www.google.com/maps/d/embed?mid=1yoB270bH90EDtdmdak8TWG1D6dIilTM&ehbc=2E312F&noprof=1" 
     width="640" 
     height="500"
-    style="border:0;">
+    style="border:0;"
+    loading="lazy">
   </iframe>
-  </center>
 </div>
 
-The hotels are marked on the map with blue pins.
+Blue Pins: Recommended Hotels
+</center>
 
 <br>
 
