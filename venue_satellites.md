@@ -10,7 +10,7 @@ title: Venue - Satellites
 
 <img src="{{ venue_path }}" alt="Venue" class="venue-photo">
 
-### Sessions will be hosted in the [Nikolaos Germanos Congress Center](https://helexpo.gr/en/congress-centers/nikolaos-germanos-gallery/) and the [Emilios Riadis Multipurpose Hall](https://helexpo.gr/en/congress-centers/emilios-riadis-gallery/).
+### Sessions will be hosted in the [Nikolaos Germanos Convention Center](https://helexpo.gr/en/congress-centers/nikolaos-germanos-gallery/) and [Emilios Riadis Multipurpose Hall](https://helexpo.gr/en/congress-centers/emilios-riadis-gallery/).
 {: style="text-align: center;"}
 
 For venue logistics, please consult the HELEXPO exhibition spaces [website](https://helexpo.gr/en/exhibition-spaces/).
