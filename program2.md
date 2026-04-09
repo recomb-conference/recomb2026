@@ -1,4 +1,7 @@
-<!DOCTYPE html>
+---
+layout: page
+title: Program
+---
 
 <html lang="en">
 <head>
