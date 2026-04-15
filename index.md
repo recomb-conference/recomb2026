@@ -139,7 +139,7 @@ title: RECOMB 2026
   </body>
 
 <center>
-<h1>About {{ site.title }}</h1> 
+<h1>About {{ site.title }} & H.bioinfo'17</h1> 
 </center>
 
 ---
