@@ -3,33 +3,22 @@ layout: page
 title: Keynotes
 ---
 
-{::comment}
 
-{%- assign sp1_path = "/images/speakers/speaker-1.png" | relative_url -%}
-{%- assign sp2_path = "/images/speakers/speaker-2.png" | relative_url -%}
-{%- assign sp3_path = "/images/speakers/speaker-3.png" | relative_url -%}
-{%- assign sp4_path = "/images/speakers/speaker-4.png" | relative_url -%}
-{%- assign sp5_path = "/images/speakers/speaker-5.png" | relative_url -%}
-{%- assign sp6_path = "/images/speakers/speaker-6.png" | relative_url -%}
-{%  assign sp1_name = "Dr. James Tiberius Kirk" %}
-{%  assign sp2_name = "Dr. Jean Luc Picard" %}
-{%  assign sp3_name = "Dr. Data" %}
-{%  assign sp4_name = "Dr. Worf" %}
-{%  assign sp5_name = "Dr. Kira Nerys" %}
-{%  assign sp6_name = "Dr. Beverly Crusher" %}
-{%  assign sp1_inst = "Enterprise" %}
-{%  assign sp2_inst = "Enterprise D" %}
-{%  assign sp3_inst = "Enterprise D" %}
-{%  assign sp4_inst = "Enterprise D" %}
-{%  assign sp5_inst = "Deep Space Nine" %}
-{%  assign sp6_inst = "Enterprise D" %}
+{%- assign sp1_path = "/images/speakers/mostafavi.png" | relative_url -%}
+{%- assign sp2_path = "/images/speakers/medvedev.png" | relative_url -%}
+{%- assign sp3_path = "/images/speakers/myers.png" | relative_url -%}
+{%- assign sp4_path = "/images/speakers/stamatakis.png" | relative_url -%}
+{%  assign sp1_name = "Dr. Sara Mostafavi" %}
+{%  assign sp2_name = "Dr. Paul Medvedev" %}
+{%  assign sp3_name = "Dr. Eugene Myers" %}
+{%  assign sp4_name = "Dr. Alexandros Stamatakis" %}
+{%  assign sp1_inst = "The University of British Columbia" %}
+{%  assign sp2_inst = "Pennsylvania State University" %}
+{%  assign sp3_inst = "Max Planck Institute of Molecular Cell Biology and Genetics" %}
+{%  assign sp4_inst = "Heidelberg Institute for Theoretical Studies" %}
 
-#### Join us as six distinguished scientists from diverse fields share their groundbreaking research throughout the conference.
+#### Join us as four distinguished scientists from diverse fields share their groundbreaking research throughout the conference.
 
-| <img src="{{ sp1_path }}" alt="Speaker 1" class="speaker-photo"><br><b>{{ sp1_name }}</b><br>{{ sp1_inst }} | <img src="{{ sp2_path }}" alt="Speaker 2" class="speaker-photo"><br><b>{{ sp2_name }}</b><br>{{ sp2_inst }} | <img src="{{ sp3_path }}" alt="Speaker 3" class="speaker-photo"><br><b>{{ sp3_name }}</b><br>{{ sp3_inst }} |
+| <img src="{{ sp1_path }}" alt="Speaker 1" class="speaker-photo"><br><b>{{ sp1_name }}</b><br>{{ sp1_inst }} | <img src="{{ sp2_path }}" alt="Speaker 2" class="speaker-photo"><br><b>{{ sp2_name }}</b><br>{{ sp2_inst }} |
 | :---: | :---: | :---: |
-| <img src="{{ sp4_path }}" alt="Speaker 4" class="speaker-photo"><br><b>{{ sp4_name }}</b><br>{{ sp4_inst }} | <img src="{{ sp5_path }}" alt="Speaker 5" class="speaker-photo"><br><b>{{ sp5_name }}</b><br>{{ sp5_inst }} | <img src="{{ sp6_path }}" alt="Speaker 6" class="speaker-photo"><br><b>{{ sp6_name }}</b><br>{{ sp6_inst }} |
-
-{:/comment}
-
-TBA
+| <img src="{{ sp3_path }}" alt="Speaker 3" class="speaker-photo"><br><b>{{ sp3_name }}</b><br>{{ sp3_inst }} | <img src="{{ sp4_path }}" alt="Speaker 4" class="speaker-photo"><br><b>{{ sp4_name }}</b><br>{{ sp4_inst }} |
