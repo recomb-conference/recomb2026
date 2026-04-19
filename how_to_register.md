@@ -76,7 +76,7 @@ For more information about membership options, please visit the [International S
 
 #### Early Registration:
 
-The Early Registration Deadline is **15 April 2026**. After this deadline, all prices will be increased by 20%.
+The Early Registration Deadline is ~~15 April 2026~~**24 April 2026**. After this deadline, all prices will be increased by 20%.
 
 ***Members***
 
@@ -118,7 +118,7 @@ The Early Registration Deadline is **15 April 2026**. After this deadline, all p
 
 ---
 
-**Early Online Registration Deadline:** 15 April 2026, 23:59 (AoE)
+**Early Online Registration Deadline:** ~~15 April 2026~~24 April 2026, 23:59 (AoE)
 
 **Late Online Registration Deadline:** 22 May 2026, 23:59 (AoE)
 
