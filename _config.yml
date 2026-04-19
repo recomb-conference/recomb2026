@@ -99,8 +99,6 @@ main_navigation:
         url: /call_for_papers
       - title: Call for Abstracts
         url: /call_for_abstracts
-      - title: Call for Highlights
-        url: /call_for_highlights
   - title: Register
     children:
       - title: RECOMB and Satellites
