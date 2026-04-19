@@ -22,5 +22,5 @@ title: Keynotes
 #### Join us as four distinguished scientists from diverse fields share their groundbreaking research throughout the conference.
 
 <center>
-<img src="{{ keynotes }}" alt="Speaker 3" class="speaker-photo">
+<img src="{{ keynotes }}">
 </center>
