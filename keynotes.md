@@ -21,4 +21,5 @@ title: Keynotes
 
 | <img src="{{ sp1_path }}" alt="Speaker 1" class="speaker-photo"><br><b>{{ sp1_name }}</b><br>{{ sp1_inst }} | <img src="{{ sp2_path }}" alt="Speaker 2" class="speaker-photo"><br><b>{{ sp2_name }}</b><br>{{ sp2_inst }} |
 | :---: | :---: | :---: |
+| :---: | :---: | :---: |
 | <img src="{{ sp3_path }}" alt="Speaker 3" class="speaker-photo"><br><b>{{ sp3_name }}</b><br>{{ sp3_inst }} | <img src="{{ sp4_path }}" alt="Speaker 4" class="speaker-photo"><br><b>{{ sp4_name }}</b><br>{{ sp4_inst }} |
