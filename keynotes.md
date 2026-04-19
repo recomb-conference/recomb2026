@@ -4,9 +4,9 @@ title: Keynotes
 ---
 
 
-{%- assign sp1_path = "/images/speakers/mostafavi.png" | relative_url -%}
-{%- assign sp2_path = "/images/speakers/medvedev.png" | relative_url -%}
-{%- assign sp3_path = "/images/speakers/myers.png" | relative_url -%}
+{%- assign sp1_path = "/images/speakers/mostafavi.jpeg" | relative_url -%}
+{%- assign sp2_path = "/images/speakers/medvedev.jpeg" | relative_url -%}
+{%- assign sp3_path = "/images/speakers/myers.jpeg" | relative_url -%}
 {%- assign sp4_path = "/images/speakers/stamatakis.png" | relative_url -%}
 {%  assign sp1_name = "Dr. Sara Mostafavi" %}
 {%  assign sp2_name = "Dr. Paul Medvedev" %}
