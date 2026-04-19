@@ -17,7 +17,7 @@ title: Keynotes
 {%  assign sp3_inst = "Max Planck Institute of Molecular Cell Biology and Genetics" %}
 {%  assign sp4_inst = "Heidelberg Institute for Theoretical Studies" %}
 
-{%  assign keynotes = "/images/speakers/SpeakersR26_2.png" | relative_url -%}
+{%  assign keynotes = "/images/speakers/SpeakersR26_3.png" | relative_url -%}
 
 #### Join us as four distinguished scientists from diverse fields share their groundbreaking research throughout the conference.
 
