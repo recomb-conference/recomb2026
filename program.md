@@ -54,6 +54,7 @@ title: Program
 | **14:30–15:25** | **Session 10: Phylogeny II**<br>Quartet-based species tree methods enable fast and consistent tree of blobs reconstruction under the network multispecies coalescent — *Dai et al.* <br>STELAR-X: Scaling Coalescent-Based Species Tree Inference to 100,000 Species and Beyond — *Saha & Bayzid*<br>PaNDA: Efficient Optimization of Phylogenetic Diversity in Networks — *Holtgrefe et al.* |
 | **15:25–15:55** | Coffee Break II |
 | **15:55–17:10** | **Session 11: Cancer & Evolution**<br>Arborist: Prioritizing Bulk DNA Inferred Tumor Phylogenies via Low-pass Single-cell DNA Sequencing Data — *Weber et al.* <br>Identifying Robust Subclonal Structures Through Tumor Progression Tree Alignment — *Wu et al.* <br>Fast and accurate resolution of ecDNA sequence using Cycle-Extractor — *Faizrahnemoon et al.* <br>POTTR: Identifying Recurrent Trajectories in Evolutionary and Developmental Processes using Posets — *Käufler et al.* |
+| **17:10–17:50** | Business Meeting |
 | **19:00** | Gala Dinner |
 
 ---
