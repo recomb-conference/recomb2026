@@ -31,6 +31,7 @@ page_class: committees-page
 | [{{ site.team.oc_chair2 }}]({{}})  | {{ site.team.oc_chair2_institute }} |
 
 #### Operations
+
 | [{{ site.team.oc_member1 }}]({{ site.team.oc_member1_url }}) | {{ site.team.oc_member1_institute }} |
 | [{{ site.team.oc_member2 }}]({{}})  | {{ site.team.oc_member2_institute }} |
 
