@@ -3,7 +3,9 @@ layout: page
 title: Posters
 ---
 
-RECOMB 2025 Accepted Posters
+  <div class="program-links">
+    <h5><a class="program-link" href="{{ '/accepted_posters' | relative_url }}">RECOMB 2025 Accepted Posters</a></h5>
+  </div>
 
 ## Poster Specifications
 
