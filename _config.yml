@@ -158,7 +158,7 @@ main_navigation:
       - title: Sponsorship Packages
         url: /sponsorship_packages
   - title: H.bioinfo'17
-    url: https://hscbio.wordpress.com/conferences-when/hbioinfo-17-joint-event-with-recomb-2026/
+    url: http://hbio2026.hbio.info/
     external: true
 
 #  Moved this to the Conference tab
