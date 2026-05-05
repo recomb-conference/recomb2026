@@ -4,7 +4,7 @@ title: Posters
 ---
 
   <div class="program-links">
-    <h5><a class="program-link" href="{{ '/accepted_posters' | relative_url }}">RECOMB 2025 Accepted Posters</a></h5>
+    <h5><a href="/_includes/RECOMB2026_accepted_posters.xlsx" download>RECOMB 2025 Accepted Posters</a></h5>
   </div>
 
 ## Poster Specifications
