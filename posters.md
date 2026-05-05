@@ -3,7 +3,7 @@ layout: page
 title: Posters
 ---
 
-  <div class="program-links">
+  <div>
     <h5><a href="/files/RECOMB2026_accepted_posters.xlsx" download>RECOMB 2025 Accepted Posters</a></h5>
   </div>
 
