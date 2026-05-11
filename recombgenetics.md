@@ -44,8 +44,8 @@ The 14th RECOMB-Genetics conference is co-located with RECOMB 2026 in Thessaloni
 
 ## Keynote Speakers
 
-**Kaur Alasoo** *Associate Professor, Institute of Computer Science, University of Tartu*
-**Jingyi Jessica Li**  *Professor and Program Head of Biostatistics, Fred Hutch Cancer Center; Donald and Janet K. Guthrie Endowed Chair in Statistics*
+| **Kaur Alasoo** | *Associate Professor, Institute of Computer Science, University of Tartu* |
+| **Jingyi Jessica Li** | *Professor and Program Head of Biostatistics, Fred Hutch Cancer Center; Donald and Janet K. Guthrie Endowed Chair in Statistics* |
 
 ---
 
