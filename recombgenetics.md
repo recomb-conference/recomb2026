@@ -22,13 +22,30 @@ The 14th RECOMB-Genetics conference is co-located with RECOMB 2026 in Thessaloni
 
 ## Program
 
-TBA
+| Time          | Session                                                                                                                                                                                                                                                                                                                                            |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 08:30 – 09:25 | Registration                                                                                                                                                                                                                                                                                                                                       |
+| 09:25 – 09:30 | **Welcome** (5 min)                                                                                                                                                                                                                                                                                                                                |
+| 09:30 – 10:30 | **Keynote 1 —** Kaur Alasoo  <br>Associate Professor, Institute of Computer Science, University of Tartu  <br>**Title:** *From GWAS to function: bridging the colocalisation gap*                                                                                                                                                                  |
+| 10:30 – 10:55 | **Comprehensive gene heritability estimation reveals the genetic architecture of rare coding variants underlying complex traits**  <br>Zhengtong Liu, Boyang Fu, Moonseong Jeong, Prateek Anand, Aakarsh Anand, Seon-Kyeong Jang, Aditya Gorla, Jiazheng Zhu, Paivi Pajukanta, Pier Palamara, Noah Zaitlen, Richard Border and Sriram Sankararaman |
+| 11:00 – 11:40 | Coffee break                                                                                                                                                                                                                                                                                                                                       |
+| 11:40 – 12:05 | **Resolving Variants of Uncertain Significance at Scale with Calibrated Computational and Experimental Evidence**  <br>Predrag Radivojac                                                                                                                                                                                                           |
+| 12:05 – 12:30 | **Gene-based calibration of high-throughput functional assays for clinical variant classification**  <br>Daniel Zeiberg, Ross Stewart, Shantanu Jain, Malvika Tejura, Abbye McEwen, Shawn Fayer, Yuriy Sverchkov, Mark Craven, Vikas Pejaver, Alan Rubin, Lea Starita, Douglas Fowler, Anne O'Donnell-Luria and Predrag Radivojac                  |
+| 12:30 – 12:55 | **Fine-Tuning Genomic Language Models for Variant Pathogenicity Prediction**  <br>Yaqi Su, Yu-Jen Lin and Garv Goswami                                                                                                                                                                                                                             |
+| 13:00 – 14:30 | Lunch break                                                                                                                                                                                                                                                                                                                                        |
+| 14:30 – 14:55 | **Critical Assessment of Genome Interpretation (CAGI) 7 ARSA missense stability prediction challenge identifies computational advances over state-of-the-art variant impact predictors**  <br>Yu-Jen Lin, Michael Gelb and Steven Brenner                                                                                                          |
+| 14:55 – 15:20 | **A Replication-Testing Framework for Single-Cell Gene Regulatory Edge Rankings**  <br>Yunwei Zhao, Ankit Bhardwaj and Lakshminarayanan Subramanian                                                                                                                                                                                                |
+| 15:20 – 15:45 | **Invited Talk — TBD**                                                                                                                                                                                                                                                                                                                             |
+| 15:50 – 16:30 | Coffee break                                                                                                                                                                                                                                                                                                                                       |
+| 16:30 – 17:30 | **Keynote 2 —** Jingyi Jessica Li  <br>Professor and Program Head of Biostatistics, Fred Hutch Cancer Center; Donald and Janet K. Guthrie Endowed Chair in Statistics  <br>**Title:** *Synthetic Data as a Statistical Engine: Fast FDR Control, Population-Scale Genomics, and Privacy Preservation*                                              |
+| 17:30 – 19:00 | Poster session
 
 ---
 
 ## Keynote Speakers
 
-TBA
+**Kaur Alasoo** *Associate Professor, Institute of Computer Science, University of Tartu*
+**Jingyi Jessica Li**  *Professor and Program Head of Biostatistics, Fred Hutch Cancer Center; Donald and Janet K. Guthrie Endowed Chair in Statistics*
 
 ---
 
