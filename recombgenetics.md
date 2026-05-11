@@ -66,6 +66,25 @@ The EasyChair link is the same as main conference, select “The 14th RECOMB Sat
 
 ---
 
+## Accepted Posters
+
+- **Epithelial Barrier Failure as a Missing Therapeutic Target in Oral Lichen Planus: Insights from Comparative Transcriptomics**  
+  Loulwah Alothman, Mougina K Eltahir and Alaa Alnoor Alameen
+
+- **Bayesian modeling of longitudinal metatranscriptomics experiments shows shared predictive signature associated with meat spoilage at different temperatures**  
+  Elio Nushi, Julia Manninen, Per Johansson, Elina Jääskeläinen, Johanna Björkroth and Antti Honkela
+
+- **Genetic Regulation of the Placenta in Preeclampsia**  
+  Gamze Yazgeldi Gunaydin, Jaakko Leinonen, Hannele Maaret Laivuori, Juha Kere, Satu Wedenoja and Shintaro Katayama
+
+- **mitoMatch - A Machine Learning Approach to Identify Human Relatedness Using Mitochondrial DNA Hypervariable Region I and II**  
+  Saliha Ziyard, Ruvan Weerasinghe and Rupika Wijesinghe
+
+- **Multimodal integration of gene expression and alternative splicing in single-cell and spatial transcriptomics**  
+  Arsham Mikaeili Namini
+
+---
+
 ## Call for Papers
 
 The 14th RECOMB Satellite on Computational Methods in Genetics will focus on current research at the intersection of genetics, computer science, statistics, and related fields in gathering and analyzing genetic and genealogical data with applications toward problems in medicine and basic research. Population genetics allows more refined understanding of the demographic history of our species, association analysis provides insights regarding the functional and molecular underpinnings of diseases and traits, while clinical applications suggest genetics as a trailblazer into personalized medicine. The complex bioinformatic questions arising range from inferring more nuanced statistical models of genetic information to algorithms that overcome the computational challenges of analyzing millions of SNPs across millions of individuals, to systems level challenges of processing and storing Big Data repositories of genotypes and phenotypes.
