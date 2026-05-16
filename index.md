@@ -162,4 +162,4 @@ Under the auspices of the Hellenic Bioinformatics Society, in affiliation with t
 - Email: [{{ site.author.email }}](mailto:{{ site.author.email }})
 - X: [@RECOMBConf](https://x.com/RECOMBconf)
 - Bluesky: [@RECOMBConf](https://bsky.app/profile/recombconf.bsky.social)
-- LinkedIn: [@RECOMBConf](https://www.linkedin.com/company/recombconf)
+- LinkedIn: [@RECOMBConf](https://linkedin.com/company/recombconf)
