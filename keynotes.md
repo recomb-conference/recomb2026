@@ -21,8 +21,6 @@ title: Keynotes
 
 <center>
 <h4> Join us as four distinguished scientists from diverse fields share their groundbreaking research throughout the conference. </h4>
-<center>
-  
-<center>
+
 <img src="{{ keynotes }}" style="width: 55vw;">
 </center>
