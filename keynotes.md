@@ -17,7 +17,7 @@ title: Keynotes
 {%  assign sp3_inst = "Pennsylvania State University" %}
 {%  assign sp4_inst = "Heidelberg Institute for Theoretical Studies" %}
 
-{%  assign keynotes = "/images/speakers/SpeakersR26_f.png" | relative_url -%}
+{%  assign keynotes = "/images/speakers/Speakers_final.png" | relative_url -%}
 
 #### Join us as four distinguished scientists from diverse fields share their groundbreaking research throughout the conference.
 
