@@ -15,7 +15,7 @@ title: Program
 | Time | Program |
 |------|--------|
 | **09:00–09:05** | Welcome |
-| **09:05–10:05** | **Keynote 1:** Paul Medvedev |
+| **09:05–10:05** | **Keynote 1:** Manolis Kellis |
 | **10:05–10:30** | Coffee Break I |
 | **10:30–12:20** | **Session 1: Sequence I**<br>Minimizer Density revisited: Models and Multiminimizers — *Ingels et al.* <br>MaxGeomHash: An Algorithm for Variable-Size Random Sampling of Distinct Elements — *Hera et al.* <br>Faster and Scalable Parallel External-Memory Construction of Colored Compacted de Bruijn Graphs with Cuttlefish 3 — *Khan et al.* <br>Sequence-to-graph alignment based copy number calling using a network flow formulation — *Magalhães et al.* <br>Privacy-Preserving Pangenome Graphs — *Blindenbach et al.* <br>bronko: ultrarapid, alignment-free detection of viral genome variation — *Doughty et al.* |
 | **12:20–13:30** | Lunch |
@@ -30,7 +30,7 @@ title: Program
 
 | Time | Program |
 |------|--------|
-| **09:00–10:00** | **Keynote 2:** Gene Myers |
+| **09:00–10:00** | **Keynote 2:** Paul Medvedev |
 | **10:00–10:25** | Coffee Break I |
 | **10:25–12:20** | **Session 4: Sequence II**<br>KuPID: Kmer-based Upstream Preprocessing of Long Reads for Isoform Discovery — *Borowiak & Yu*<br>SLAB: A Sweep Line Algorithm in PBWT for Finding Haplotype Block Cores — *Naseri et al.* <br>pHapCompass: Probabilistic Assembly and Uncertainty Quantification of Polyploid Haplotype Phase — *Hosseini et al.* <br>On Deriving Synteny Blocks by Compacting Elements — *Bohnenkämper et al.* <br>Compressed inverted indexes for scalable sequence similarity — *Ingels et al.* <br>Fast and Flexible Flow Decompositions in General Graphs via Dominators — *Sena & Tomescu* |
 | **12:20–13:30** | Lunch |
