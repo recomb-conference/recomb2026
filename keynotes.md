@@ -19,8 +19,10 @@ title: Keynotes
 
 {%  assign keynotes = "/images/speakers/Speakers_final.png" | relative_url -%}
 
-#### Join us as four distinguished scientists from diverse fields share their groundbreaking research throughout the conference.
-
+<center>
+<h4> Join us as four distinguished scientists from diverse fields share their groundbreaking research throughout the conference. </h4>
+<center>
+  
 <center>
 <img src="{{ keynotes }}" style="width: 55vw;">
 </center>
