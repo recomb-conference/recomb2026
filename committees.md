@@ -93,6 +93,7 @@ page_class: committees-page
 #### RECOMB-CCB
 
 | [Peter Van Loo](https://faculty.mdanderson.org/profiles/peter_vanloo.html) | MD Anderson Cancer Center |
+| [Hatice U. Osmanbeyoglu](https://www.osmanbeyoglulab.com/team) | University of Pittsburgh |
 
 ---
 
