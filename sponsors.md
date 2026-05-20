@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sponsors
-subtitle: RECOMB 2026 Sponsors and Partners
 ---
 
 <!--
@@ -11,7 +10,7 @@ subtitle: RECOMB 2026 Sponsors and Partners
 	<img src="{{ sponsor1_path }}" alt="Sponsor 1" class="sponsor-logo">
 -->
 
-# Sponsors and Partners
+# RECOMB 2026 Sponsors and Partners
 
 RECOMB 2026 would like to thank our sponsors and partner organizations for their generous support.
 
