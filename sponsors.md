@@ -14,9 +14,9 @@ title: Sponsors
 {%- assign nsf_path = "/images/sponsor-logo/nsf.png" | relative_url -%}
 
 {%- assign springer_path = "/images/sponsor-logo/springer.png" | relative_url -%}
-{%- assign cellsystems_path = "/images/sponsor-logo/cell_systems.png" | relative_url -%}
+{%- assign cellsystems_path = "/images/sponsor-logo/cell_systems.jpg" | relative_url -%}
 {%- assign genomeresearch_path = "/images/sponsor-logo/genome-research.png" | relative_url -%}
-{%- assign jcb_path = "/images/sponsor-logo/jcb.png" | relative_url -%}
+{%- assign jcb_path = "/images/sponsor-logo/jcb.jpg" | relative_url -%}
 
 # RECOMB 2026 Sponsors and Partners
 
