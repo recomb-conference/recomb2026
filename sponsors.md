@@ -58,13 +58,9 @@ RECOMB 2026 would like to thank our sponsors and partner organizations for their
 
 <div align="center">
 
-### Hellenic Bioinformatics Society
-
 <img src="{{ hbio_path }}" alt="Hellenic Bioinformatics Society" class="sponsor-logo">
 
 <br><br>
-
-### Aristotle University of Thessaloniki
 
 <img src="{{ auth_path }}" alt="Aristotle University of Thessaloniki" class="sponsor-logo">
 
@@ -76,13 +72,9 @@ RECOMB 2026 would like to thank our sponsors and partner organizations for their
 
 <div align="center">
 
-### ISCB
-
 <img src="{{ iscb_path }}" alt="ISCB" class="sponsor-logo">
 
 <br><br>
-
-### NSF
 
 <img src="{{ nsf_path }}" alt="NSF" class="sponsor-logo">
 
@@ -94,25 +86,17 @@ RECOMB 2026 would like to thank our sponsors and partner organizations for their
 
 <div align="center">
 
-### Springer Nature
-
 <img src="{{ springer_path }}" alt="Springer Nature" class="sponsor-logo">
 
 <br><br>
-
-### Cell Systems
 
 <img src="{{ cellsystems_path }}" alt="Cell Systems" class="sponsor-logo">
 
 <br><br>
 
-### Genome Research
-
 <img src="{{ genomeresearch_path }}" alt="Genome Research" class="sponsor-logo">
 
 <br><br>
-
-### Journal of Computational Biology
 
 <img src="{{ jcb_path }}" alt="Journal of Computational Biology" class="sponsor-logo">
 
