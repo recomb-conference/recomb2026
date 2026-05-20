@@ -23,7 +23,7 @@ RECOMB 2026 would like to thank our sponsors and partner organizations for their
 
 ### AMD
 
-![AMD Logo]({{ "/images/sponsor-logo/amd.png" | relative_url }})
+[AMD Logo]({{ "/images/sponsor-logo/amd.png" | relative_url }})
 
 </div>
 
