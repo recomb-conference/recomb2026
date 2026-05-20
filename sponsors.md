@@ -3,12 +3,20 @@ layout: page
 title: Sponsors
 ---
 
-<!--
+{%- assign amd_path = "/images/sponsor-logo/amd.png" | relative_url -%}
+{%- assign akamai_path = "/images/sponsor-logo/akamai.png" | relative_url -%}
+{%- assign genomics10x_path = "/images/sponsor-logo/10xgenomics.png" | relative_url -%}
 
-{%- assign sponsor1_path = "/images/sponsor-logo/akamai.png" | relative_url -%}
+{%- assign hbio_path = "/images/sponsor-logo/hbio.png" | relative_url -%}
+{%- assign auth_path = "/images/sponsor-logo/auth.png" | relative_url -%}
 
-	<img src="{{ sponsor1_path }}" alt="Sponsor 1" class="sponsor-logo">
--->
+{%- assign iscb_path = "/images/sponsor-logo/iscb.png" | relative_url -%}
+{%- assign nsf_path = "/images/sponsor-logo/nsf.png" | relative_url -%}
+
+{%- assign springer_path = "/images/sponsor-logo/springer.png" | relative_url -%}
+{%- assign cellsystems_path = "/images/sponsor-logo/cellsystems.png" | relative_url -%}
+{%- assign genomeresearch_path = "/images/sponsor-logo/genomeresearch.png" | relative_url -%}
+{%- assign jcb_path = "/images/sponsor-logo/jcb.png" | relative_url -%}
 
 # RECOMB 2026 Sponsors and Partners
 
@@ -22,7 +30,7 @@ RECOMB 2026 would like to thank our sponsors and partner organizations for their
 
 ### AMD
 
-[AMD Logo]({{ "/images/sponsor-logo/amd.png" | relative_url }})
+<img src="{{ amd_path }}" alt="AMD" class="sponsor-logo">
 
 </div>
 
@@ -32,7 +40,9 @@ RECOMB 2026 would like to thank our sponsors and partner organizations for their
 
 <div align="center">
 
-[Akamai Logo]({{ "/images/sponsor-logo/akamai.png" | relative_url }})
+### Akamai
+
+<img src="{{ akamai_path }}" alt="Akamai" class="sponsor-logo">
 
 </div>
 
@@ -42,9 +52,9 @@ RECOMB 2026 would like to thank our sponsors and partner organizations for their
 
 <div align="center">
 
-### 10X Genomics
+### 10x Genomics
 
-![10X Genomics Logo]({{ "/images/sponsor-logo/10xgenomics.png" | relative_url }})
+<img src="{{ genomics10x_path }}" alt="10x Genomics" class="sponsor-logo">
 
 </div>
 
@@ -56,13 +66,13 @@ RECOMB 2026 would like to thank our sponsors and partner organizations for their
 
 ### Hellenic Bioinformatics Society
 
-![Hellenic Bioinformatics Logo]({{ "/images/sponsor-logo/hbio.png" | relative_url }})
+<img src="{{ hbio_path }}" alt="Hellenic Bioinformatics Society" class="sponsor-logo">
 
 <br><br>
 
 ### Aristotle University of Thessaloniki
 
-![AUTH Logo]({{ "/images/sponsor-logo/auth.png" | relative_url }})
+<img src="{{ auth_path }}" alt="Aristotle University of Thessaloniki" class="sponsor-logo">
 
 </div>
 
@@ -74,13 +84,13 @@ RECOMB 2026 would like to thank our sponsors and partner organizations for their
 
 ### ISCB
 
-![ISCB Logo]({{ "/images/sponsor-logo/iscb.png" | relative_url }})
+<img src="{{ iscb_path }}" alt="ISCB" class="sponsor-logo">
 
 <br><br>
 
 ### NSF
 
-![NSF Logo]({{ "/images/sponsor-logo/nsf.png" | relative_url }})
+<img src="{{ nsf_path }}" alt="NSF" class="sponsor-logo">
 
 </div>
 
@@ -92,24 +102,24 @@ RECOMB 2026 would like to thank our sponsors and partner organizations for their
 
 ### Springer Nature
 
-![Springer Nature Logo]({{ "/images/sponsor-logo/springer.png" | relative_url }})
+<img src="{{ springer_path }}" alt="Springer Nature" class="sponsor-logo">
 
 <br><br>
 
 ### Cell Systems
 
-![Cell Systems Logo]({{ "/images/sponsor-logo/cell_systems.jpg" | relative_url }})
+<img src="{{ cellsystems_path }}" alt="Cell Systems" class="sponsor-logo">
 
 <br><br>
 
 ### Genome Research
 
-![Genome Research Logo]({{ "/images/sponsor-logo/genome-research.png" | relative_url }})
+<img src="{{ genomeresearch_path }}" alt="Genome Research" class="sponsor-logo">
 
 <br><br>
 
 ### Journal of Computational Biology
 
-![Journal of Computational Biology Logo]({{ "/images/sponsor-logo/jcb.png" | relative_url }})
+<img src="{{ jcb_path }}" alt="Journal of Computational Biology" class="sponsor-logo">
 
 </div>
