@@ -83,7 +83,7 @@ RECOMB 2026 would like to thank our sponsors and partner organizations for their
 
 ### NSF
 
-![NSF Logo]({{ "/images/sponsor-logo/nsf.png" | relative_url }})
+![NSF Logo]({{ "/images/sponsor-logo/nsf (1).png" | relative_url }})
 
 </div>
 
@@ -101,7 +101,7 @@ RECOMB 2026 would like to thank our sponsors and partner organizations for their
 
 ### Cell Systems
 
-![Cell Systems Logo]({{ "/images/sponsor-logo/cell-systems.png" | relative_url }})
+![Cell Systems Logo]({{ "/images/sponsor-logo/cell_systems.jpg" | relative_url }})
 
 <br><br>
 
