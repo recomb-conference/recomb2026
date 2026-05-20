@@ -7,7 +7,7 @@ title: Sponsors
 {%- assign akamai_path = "/images/sponsor-logo/akamai.png" | relative_url -%}
 {%- assign genomics10x_path = "/images/sponsor-logo/10xgenomics.png" | relative_url -%}
 
-{%- assign hbio_path = "/images/sponsor-logo/hbio.png" | relative_url -%}
+{%- assign hbio_path = "/images/sponsor-logo/hb.jpg" | relative_url -%}
 {%- assign auth_path = "/images/sponsor-logo/auth.png" | relative_url -%}
 
 {%- assign iscb_path = "/images/sponsor-logo/iscb.png" | relative_url -%}
@@ -28,8 +28,6 @@ RECOMB 2026 would like to thank our sponsors and partner organizations for their
 
 <div align="center">
 
-### AMD
-
 <img src="{{ amd_path }}" alt="AMD" class="sponsor-logo">
 
 </div>
@@ -40,8 +38,6 @@ RECOMB 2026 would like to thank our sponsors and partner organizations for their
 
 <div align="center">
 
-### Akamai
-
 <img src="{{ akamai_path }}" alt="Akamai" class="sponsor-logo">
 
 </div>
@@ -51,8 +47,6 @@ RECOMB 2026 would like to thank our sponsors and partner organizations for their
 ## Bronze Sponsor
 
 <div align="center">
-
-### 10x Genomics
 
 <img src="{{ genomics10x_path }}" alt="10x Genomics" class="sponsor-logo">
 
