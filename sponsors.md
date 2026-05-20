@@ -32,9 +32,7 @@ RECOMB 2026 would like to thank our sponsors and partner organizations for their
 
 <div align="center">
 
-### Akamai
-
-![Akamai Logo]({{ "/images/sponsor-logo/akamai.png" | relative_url }})
+[Akamai Logo]({{ "/images/sponsor-logo/akamai.png" | relative_url }})
 
 </div>
 
