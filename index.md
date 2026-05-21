@@ -80,7 +80,7 @@ title: RECOMB 2026
 			- Includes access to all RECOMB 2026 sessions and conference materials <br>
 			- Registration fee: €100 <br><br>
 
-			Satellite Meetings, Gala Dinner, lunch, and refreshments during breaks are not included in this package. <br>
+			Satellite Meetings, Gala Dinner, lunch, and refreshments during breaks are not included in this package. <br><br>
 
 			Use the code: RECOMB2026_Light <br><br> </p>
                 <div style="text-align: center; margin-top: 2rem;">
