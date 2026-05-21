@@ -71,12 +71,19 @@ title: RECOMB 2026
         <div class="popup-content">
             <div style="position: relative;">
 				<center>
-					<h2>Visa Requirements</h2>
+					<h2>New Student Registration Option</h2>
 				</center>
                 <p style="text-align:justify">
-              All participants should verify their visa requirements prior to attending the conference. Requirements vary by citizenship and passport type. <br><br>
-              For official information, please consult the <a href="https://www.mfa.gr/en/services/visas-for-foreigners-traveling-to-greece/countries-requiring-or-not-requiring-a-visa/" target="_blank">Hellenic Republic Ministry of Foreign Affairs</a> website to check if your country requires a visa. 
-					<br><br><b>Please note that you must complete registration to be able to obtain a visa support letter</b>.</p>
+              To support broader student participation, we are pleased to introduce the new RECOMB Light Registration Package for RECOMB2026. <br><br>
+             
+			- Available to students only <br>
+			- Includes access to all RECOMB 2026 sessions and conference materials <br>
+			- Registration fee: €100 <br><br>
+
+			Satellite Meetings, Gala Dinner, lunch, and refreshments during breaks are not included in this package. <br>
+
+			Use the code: RECOMB2026_Light <br><br>
+			
                 <div style="text-align: center; margin-top: 2rem;">
                   <a href="https://transition.iscb.org/cms_addon/conferences/recomb2026/easychair/visa"
                      style="
@@ -90,7 +97,7 @@ title: RECOMB 2026
                        border-radius: 6px;
                      "
                      target="_blank">
-                    Click here to get your visa invitation letter.
+                    Click here to register.
                   </a>
                 </div>
                 <br>
