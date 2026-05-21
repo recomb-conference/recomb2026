@@ -74,7 +74,7 @@ title: RECOMB 2026
 					<h2>New Student Registration Option</h2>
 				</center>
                 <p style="text-align:justify">
-              To support broader student participation, we are pleased to introduce the new RECOMB Light Registration Package for RECOMB2026. <br><br>
+              To support broader student participation, we are pleased to introduce the new RECOMB Light Registration Package for RECOMB 2026. <br><br>
              
 			- Available to students only <br>
 			- Includes access to all RECOMB 2026 sessions and conference materials <br>
