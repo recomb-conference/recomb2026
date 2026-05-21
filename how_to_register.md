@@ -17,7 +17,23 @@ Satellite registrants may attend any satellite session of their choice. However,
 
 Please note that the gala dinner is **not included in the Postdoc and Student registration fees;** however, **tickets for the gala dinner may be purchased separately.**
 
-**The late online registration deadline is 22 May 2026. Online registration will not be available after this date.**
+**The late online registration deadline for standard categories is 22 May 2026.**
+
+---
+
+### New Student Registration Option for RECOMB 2026
+
+To support broader student participation, we are pleased to introduce the new RECOMB Light Registration Package for RECOMB2026.
+
+* Available to students only
+* Includes access to all RECOMB 2026 sessions and conference materials
+* Registration fee: €100
+
+Please note that Satellite Meetings, Gala Dinner, lunch, and refreshments during breaks are not included in this package.
+
+Students registering for the RECOMB Light Registration Package should use the code: **RECOMB2026_Light**
+
+**Online registration for this category will remain open until May 24 (AoE).**
 
 ---
 
