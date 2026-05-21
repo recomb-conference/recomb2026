@@ -23,7 +23,7 @@ Please note that the gala dinner is **not included in the Postdoc and Student re
 
 ### New Student Registration Option for RECOMB 2026
 
-To support broader student participation, we are pleased to introduce the new RECOMB Light Registration Package for RECOMB2026.
+To support broader student participation, we are pleased to introduce the new RECOMB Light Registration Package for RECOMB 2026.
 
 * Available to students only
 * Includes access to all RECOMB 2026 sessions and conference materials
