@@ -82,7 +82,7 @@ title: RECOMB 2026
 
 			Satellite Meetings, Gala Dinner, lunch, and refreshments during breaks are not included in this package. <br><br>
 
-			Use the code: <b>RECOMB2026_Light</b> <br><br> </p>
+			Use the code: <b>RECOMB2026_Light</b> <br> </p>
                 <div style="text-align: center; margin-top: 2rem;">
                   <a href="https://recomb.org/recomb2026/how_to_register"
                      style="
