@@ -84,7 +84,7 @@ title: RECOMB 2026
 
 			Use the code: <b>RECOMB2026_Light</b> <br><br> </p>
                 <div style="text-align: center; margin-top: 2rem;">
-                  <a href="https://transition.iscb.org/cms_addon/conferences/recomb2026/easychair/visa"
+                  <a href="https://recomb.org/recomb2026/how_to_register"
                      style="
                        display: inline-block;
                        padding: 12px 28px;
@@ -95,7 +95,7 @@ title: RECOMB 2026
                        text-decoration: none;
                        border-radius: 6px;
                      "
-                     target="_blank">
+                     >
                     Click here to register.
                   </a>
                 </div>
