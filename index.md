@@ -71,7 +71,7 @@ title: RECOMB 2026
         <div class="popup-content">
             <div style="position: relative;">
 				<center>
-					<h2>Visa Requirements</h2>
+					<h2>New Student Registration Option</h2>
 				</center>
                 <p style="text-align:justify">
               To support broader student participation, we are pleased to introduce the new RECOMB Light Registration Package for RECOMB2026. <br><br>
