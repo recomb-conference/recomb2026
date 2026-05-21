@@ -74,7 +74,7 @@ title: RECOMB 2026
 					<h2>New Student Registration Option</h2>
 				</center>
                 <p style="text-align:justify">
-              To support broader student participation, we are pleased to introduce the new RECOMB Light Registration Package for RECOMB 2026. <br><br>
+              To support broader student participation, we are pleased to introduce the new RECOMB Light Registration Package. <br><br>
              
 			- Available to students only <br>
 			- Includes access to all RECOMB 2026 sessions and conference materials <br>
@@ -82,7 +82,7 @@ title: RECOMB 2026
 
 			Satellite Meetings, Gala Dinner, lunch, and refreshments during breaks are not included in this package. <br><br>
 
-			Use the code: RECOMB2026_Light <br><br> </p>
+			Use the code: <b>RECOMB2026_Light</b> <br><br> </p>
                 <div style="text-align: center; margin-top: 2rem;">
                   <a href="https://transition.iscb.org/cms_addon/conferences/recomb2026/easychair/visa"
                      style="
