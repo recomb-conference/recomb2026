@@ -14,7 +14,7 @@ title: Program
 
 | Time | Program |
 |------|--------|
-| **09:00–09:05** | Welcome |
+| **08:55–09:05** | Welcome |
 | **09:05–10:05** | **Keynote 1:** Manolis Kellis |
 | **10:05–10:30** | Coffee Break I |
 | **10:30–12:20** | **Session 1: Sequence I**<br>**Chair: Yaron Orenstein**<br>Minimizer Density revisited: Models and Multiminimizers — *Ingels et al.* <br>MaxGeomHash: An Algorithm for Variable-Size Random Sampling of Distinct Elements — *Hera et al.* <br>Fast and Flexible Flow Decompositions in General Graphs via Dominators - *Sena & Tomescu* <br>Sequence-to-graph alignment based copy number calling using a network flow formulation — *Magalhães et al.* <br>Privacy-Preserving Pangenome Graphs — *Blindenbach et al.* <br>bronko: ultrarapid, alignment-free detection of viral genome variation — *Doughty et al.* |
