@@ -18,7 +18,7 @@ title: Program
 | **09:05–10:05** | **Keynote 1:** Manolis Kellis |
 | **10:05–10:30** | Coffee Break I |
 | **10:30–12:20** | **Session 1: Sequence I**<br>**Chair: Yaron Orenstein**<br>Minimizer Density revisited: Models and Multiminimizers — *Ingels et al.* <br>MaxGeomHash: An Algorithm for Variable-Size Random Sampling of Distinct Elements — *Hera et al.* <br>Fast and Flexible Flow Decompositions in General Graphs via Dominators - *Sena & Tomescu* <br>Sequence-to-graph alignment based copy number calling using a network flow formulation — *Magalhães et al.* <br>Privacy-Preserving Pangenome Graphs — *Blindenbach et al.* <br>bronko: ultrarapid, alignment-free detection of viral genome variation — *Doughty et al.* |
-| **12:20–12:25** | AMD Technology Spotlight: Healthcare and Life Sciences |
+| **12:20–12:25** | **AMD Technology Spotlight:** Healthcare and Life Sciences |
 | **12:25–13:30** | Lunch |
 | **13:30–15:20** | **Session 2: Protein/ML I**<br>**Chair: Yunan Luo**<br>Predicting interaction-specific protein–protein interaction perturbations by missense variants with MutPred-PPI — *Stewart et al.* <br>Bacterial protein function prediction via multimodal deep learning — *Muzio et al.* <br>Integrative Multi-Scale Sequence–Structure Modeling for Antimicrobial Peptide Prediction and Design — *Li et al.* <br>ProtFlow: Flow Matching-based Protein Sequence Design with Comprehensive Protein Semantic Distribution Learning and High-quality <br>Generation — *Kong et al.* <br>Transforming Biological Foundation Model Representations for Out-of-Distribution Data — *Pratapa et al.* <br>Multimodal spatial alignment and morphology mapping with MOSAICField — *Liu et al.* |
 | **15:20–15:50** | Coffee Break II |
