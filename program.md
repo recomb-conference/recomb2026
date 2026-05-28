@@ -52,10 +52,10 @@ title: Program
 | **10:25–12:20** | **Session 9: Single-Cell II**<br>**Chair: Itsik Pe’er**<br>scDesignPop generates population-scale single-cell RNA-seq data for power analysis, method benchmarking, and privacy protection — *Dong et al.* <br>scProfiterole: Clustering of Single-Cell Proteomic Data Using Graph Contrastive Learning via Spectral Filters — *Coşkun et al.* <br>Integrating morphology and gene expression in unpaired single-cell data using GeoAdvAE — *Du & Lin*<br>MOSAIC: A Spectral Framework for Integrative Phenotypic Characterization Using Population-Level Single-Cell Multi-Omics — *Lu et al.* <br>Integrative Inference of Spatially Informed Cell Lineage Trees using LineageMap — *Pan et al.* <br>Causal gene regulatory network inference from Perturb-seq via adaptive instrumental variable modeling — *Sun et al.* |
 | **12:20–13:30** | Lunch |
 | **13:30–14:30** | **Keynote 3:** Alexandros Stamatakis |
-| **14:30–15:25** | **Session 10: Phylogeny II**<br>**Chair: Chair: Brona Brejova**<br>Quartet-based species tree methods enable fast and consistent tree of blobs reconstruction under the network multispecies coalescent — *Dai et al.* <br>STELAR-X: Scaling Coalescent-Based Species Tree Inference to 100,000 Species and Beyond — *Saha & Bayzid*<br>PaNDA: Efficient Optimization of Phylogenetic Diversity in Networks — *Holtgrefe et al.* |
+| **14:30–15:25** | **Session 10: Phylogeny II**<br>**Chair: Chair: Brona Brejova**<br>Quartet-based species tree methods enable fast and consistent tree of blobs reconstruction under the network multispecies coalescent — *Dai et al.* <br>PaNDA: Efficient Optimization of Phylogenetic Diversity in Networks — *Holtgrefe et al.* <br>STELLAR-X: Scaling Coalescent-Based Species Tree Inference to 100,000 Species and Beyond — *Saha & Bayzid* |
 | **15:25–15:55** | Coffee Break II |
 | **15:55–17:10** | **Session 11: Cancer & Evolution**<br>**Chair: Iman Hajirasouliha**<br>Arborist: Prioritizing Bulk DNA Inferred Tumor Phylogenies via Low-pass Single-cell DNA Sequencing Data — *Weber et al.* <br>Identifying Robust Subclonal Structures Through Tumor Progression Tree Alignment — *Gilbert et al.* <br>Fast and accurate resolution of ecDNA sequence using Cycle-Extractor — *Faizrahnemoon et al.* <br>POTTR: Identifying Recurrent Trajectories in Evolutionary and Developmental Processes using Posets — *Käufler et al.* |
-| **17:10–17:50** | Business Meeting |
+| **17:30–18:10** | Business Meeting |
 | **19:00** | Gala Dinner |
 
 ---
