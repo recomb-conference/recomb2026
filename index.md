@@ -75,7 +75,7 @@ title: RECOMB 2026
 				</center>
                 <p style="text-align:justify">
               We are grateful for your participation in the 30th edition of RECOMB and hope you enjoyed your time in Thessaloniki. <br><br>
-			  We look forward to seeing you at RECOMB 2027 in Toronto! <br>
+			  We look forward to seeing you at RECOMB 2027 in Toronto! <br> </p>
             </div>
             <label class="checkbox-label">
                 <input type="checkbox" id="dontShowOneDay" onclick="setCookie(); event.stopPropagation();">
