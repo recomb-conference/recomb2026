@@ -14,7 +14,7 @@ title: RECOMB 2026
 		    top: 200px;                  /* distance from top */
 		    left: 50%;                  /* move to horizontal center */
 		    transform: translateX(-50%); /* true centering */
-		    width: 40%;
+		    width: 90%;
 		    max-width: 900px;
 		    height: auto;
 		    max-height: 80vh;
@@ -25,7 +25,7 @@ title: RECOMB 2026
 		    border-radius: 10px;        /* smooth corners */
 		    box-shadow: 0 10px 30px rgba(0,0,0,0.2); /* floating effect */
 		    padding: 10px;
-        }
+        }	
         .popup-content {
             position: relative;
             width: 100%;
@@ -61,6 +61,18 @@ title: RECOMB 2026
             margin-top: 10px;
             display: block;
         }
+		/* Tablets */
+	    @media (min-width: 768px) {
+    		.popup {
+        		width: 70%;
+    		}	
+			}
+		/* Desktop */
+		@media (min-width: 1200px) {
+    		.popup {
+        		width: 40%;
+    		}
+		}
         
     </style>
 </head>
