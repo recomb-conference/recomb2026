@@ -97,7 +97,7 @@ page_class: committees-page
 
 ---
 
-#### Student Volunteers (alphabetical)
+#### Student Volunteers
 
 | Ali Balapour |
 | Arda Icoz |
