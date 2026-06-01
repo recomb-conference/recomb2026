@@ -71,35 +71,11 @@ title: RECOMB 2026
         <div class="popup-content">
             <div style="position: relative;">
 				<center>
-					<h2>New Student Registration Option</h2>
+					<h2>Thank you for joining us at RECOMB 2026!</h2>
 				</center>
                 <p style="text-align:justify">
-              To support broader student participation, we are pleased to introduce the new RECOMB Light Registration Package. <br><br>
-             
-			- Available to students only <br>
-			- Includes access to all RECOMB 2026 sessions and conference materials <br>
-			- Registration fee: €100 <br><br>
-
-			Satellite Meetings, Gala Dinner, lunch, and refreshments during breaks are not included in this package. <br><br>
-
-			Use the code: <b>RECOMB2026_Light</b> <br> </p>
-                <div style="text-align: center; margin-top: 2rem;">
-                  <a href="https://recomb.org/recomb2026/how_to_register"
-                     style="
-                       display: inline-block;
-                       padding: 12px 28px;
-                       font-size: 16px;
-                       font-weight: 600;
-                       color: #ffffff;
-                       background-color: #000000;
-                       text-decoration: none;
-                       border-radius: 6px;
-                     "
-                     >
-                    Click here to register.
-                  </a>
-                </div>
-                <br>
+              We are grateful for your participation in the 30th edition of RECOMB and hope you enjoyed your time in Thessaloniki. <br><br>
+			  We look forward to seeing you at RECOMB 2027 in Toronto! <br>
             </div>
             <label class="checkbox-label">
                 <input type="checkbox" id="dontShowOneDay" onclick="setCookie(); event.stopPropagation();">
