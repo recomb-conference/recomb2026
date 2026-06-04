@@ -102,7 +102,7 @@ page_class: committees-page
 | Ali Balapour |
 | Arda Icoz |
 | Panagiotis Kleitsiotis |
-| Αντώνης Τσανάκας |
+| Antonis Tsanakas |
 | Apostolos Dimoulakis |
 | Christos Bouas |
 | Niki Paraskevaidou |
@@ -111,7 +111,7 @@ page_class: committees-page
 | Joana Stratoberdha |
 | Christina Giannakou |
 | Athanasia Kontse |
-| Defne Chasan Oglou |
+| Defne Hasanoglu |
 | Evangelia Chrysostomou |
 | Paschalina Tanggili |
 | Maria Athanasiadou |
