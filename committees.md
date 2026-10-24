@@ -240,11 +240,11 @@ page_class: committees-page
 | Tatsuya Akutsu | Kyoto University |
 | Teresa Przytycka | National Center of Biotechnology Information, NLM, NIH |
 | Tetsuo Shibuya | Human Genome Center, Institute of Medical Science, The University of Tokyo |
-| Tunca Dogan | Hacettepe University |
-| Valentina Boeva | Institut Cochin/INSERM/CNRS |
+| Tunca Doğan | Hacettepe University |
+| Valentina Boeva | ETH Zürich |
 | Veli Mäkinen | University of Helsinki |
 | Vicky Yao | Rice University |
-| Victoria Popic | Stanford University |
+| Victoria Popic | Broad Institute |
 | Vineet Bafna | UC San Diego |
 | Vishaka Gopalan | National Cancer Institute |
 | William Noble | University of Washington |
